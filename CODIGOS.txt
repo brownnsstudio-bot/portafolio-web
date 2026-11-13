@@ -1,0 +1,201 @@
+﻿CÓDIGOS DEL PORTAFOLIO LADO
+===========================
+
+Pon los códigos AL FINAL del nombre del archivo, cada uno entre corchetes [ ]:
+
+    Nombre del archivo [SECTOR-SUBSECTOR] [TIPO-SUBTIPO].ext
+
+Ejemplos:
+    Viggo Burger (2026-04) Reel 07 [ALI-RES] [RED-REE].mp4
+    Tezos Animación Logo (9-16) [AUT-EST] [ANI-LOG].mp4
+    Bantrophy Catálogo de medallas [COM-TRO] [EDI-CAT].pdf
+    Colombian Gymwear Sesión Leydi 03 [MOD-ROP] [FOT-MOD].jpg
+
+Reglas:
+  - Primero el código del sector del cliente y después el del tipo de trabajo.
+  - Si no sabes el subsector, basta con el sector solo:  [ALI]
+  - Si un archivo es de dos tipos de trabajo, pon los dos:  [RED-REE] [ANI-LOG]
+  - Siempre en MAYÚSCULAS, con guion en medio y sin espacios dentro de los corchetes.
+  - Si el archivo está dentro de ,Página WEB, la carpeta ya dice el tipo de trabajo;
+    el código del nombre manda si los dos no coinciden.
+
+
+1. CATEGORÍAS DE NEGOCIO (sector del cliente)
+=============================================
+Código de 3 letras del sector + 3 letras del subsector.
+
+[ALI]  Alimentos y bebidas
+    [ALI-RES]  Restaurantes y comidas rápidas
+    [ALI-BAR]  Bares y discotecas
+    [ALI-CAF]  Cafeterías
+    [ALI-PAN]  Panadería y repostería
+    [ALI-PRO]  Productos alimenticios
+    [ALI-BEB]  Bebidas y licores
+    [ALI-MER]  Mercados y plazas gastronómicas
+
+[AUT]  Automotriz y motos
+    [AUT-MOT]  Concesionarios de motos
+    [AUT-VEH]  Concesionarios de vehículos
+    [AUT-CDA]  Revisión técnico-mecánica (CDA)
+    [AUT-EST]  Estética automotriz
+    [AUT-EDS]  Estaciones de servicio
+    [AUT-REP]  Repuestos y talleres
+    [AUT-ELE]  Movilidad eléctrica
+
+[SAL]  Salud y bienestar
+    [SAL-CLI]  Clínicas e IPS
+    [SAL-MED]  Médicos especialistas
+    [SAL-ODO]  Odontología y estética facial
+    [SAL-OPT]  Ópticas
+    [SAL-FAR]  Droguerías y farmacias
+    [SAL-LAB]  Laboratorios
+    [SAL-GYM]  Gimnasios y entrenamiento
+    [SAL-VET]  Veterinarias
+
+[MOD]  Moda, belleza y cuidado personal
+    [MOD-ROP]  Ropa y ropa deportiva
+    [MOD-CAL]  Calzado
+    [MOD-ACC]  Bolsos y accesorios
+    [MOD-JOY]  Joyería y relojería
+    [MOD-BEL]  Belleza, uñas y spa
+    [MOD-PEL]  Peluquerías y barberías
+    [MOD-PER]  Perfumería
+    [MOD-CON]  Confección
+
+[TUR]  Turismo y hotelería
+    [TUR-HOT]  Hoteles
+    [TUR-VIA]  Agencias de viajes
+    [TUR-TRA]  Transporte de pasajeros
+    [TUR-REC]  Recreación y parques
+
+[CON]  Construcción, inmobiliaria y hogar
+    [CON-INM]  Constructoras e inmobiliarias
+    [CON-ACA]  Acabados y materiales
+    [CON-FER]  Ferreterías
+    [CON-MUE]  Muebles y decoración
+    [CON-ARQ]  Arquitectura y diseño interior
+
+[FIN]  Finanzas, seguros y juegos de azar
+    [FIN-BAN]  Bancos y fintech
+    [FIN-COO]  Cooperativas y crédito
+    [FIN-SEG]  Seguros
+    [FIN-CNT]  Contabilidad y asesoría financiera
+    [FIN-AZA]  Juegos de azar
+
+[EDU]  Educación
+    [EDU-INS]  Instituciones educativas
+    [EDU-UNI]  Universidades
+    [EDU-CUR]  Cursos y academias
+    [EDU-VIR]  Educación virtual
+
+[COM]  Comercio y distribución
+    [COM-TIE]  Tiendas y distribuidoras
+    [COM-SUP]  Supermercados
+    [COM-ELE]  Celulares y electrónica
+    [COM-ECO]  Comercio electrónico
+    [COM-TRO]  Trofeos, regalos y hobbies
+
+[TEC]  Tecnología y telecomunicaciones
+    [TEC-SOF]  Software y aplicaciones
+    [TEC-STI]  Servicios de TI
+    [TEC-TEL]  Telecomunicaciones e internet
+
+[IND]  Industria y manufactura
+    [IND-MAN]  Manufactura
+    [IND-MET]  Metalmecánica
+    [IND-PLA]  Plásticos y empaques
+    [IND-TEX]  Textil
+
+[AGR]  Agro y campo
+    [AGR-AGR]  Agricultura
+    [AGR-GAN]  Ganadería y avícola
+    [AGR-INS]  Insumos agrícolas
+
+[SER]  Servicios profesionales
+    [SER-LEG]  Abogados y asesoría legal
+    [SER-CNS]  Consultoría empresarial
+    [SER-LOG]  Logística y transporte de carga
+    [SER-ASE]  Aseo y mantenimiento
+    [SER-VIG]  Seguridad privada
+
+[MED]  Medios, entretenimiento y eventos
+    [MED-POD]  Podcast y creadores de contenido
+    [MED-MUS]  Música y artistas
+    [MED-DEP]  Deportes y clubes
+    [MED-EVE]  Eventos y decoración
+    [MED-FOT]  Fotografía
+
+[GOB]  Gobierno y sector público
+    [GOB-ALC]  Alcaldías y gobernaciones
+    [GOB-ENT]  Entidades públicas
+    [GOB-POL]  Campañas políticas
+
+[ONG]  Fundaciones, iglesias y gremios
+    [ONG-FUN]  Fundaciones y ONG
+    [ONG-IGL]  Iglesias y comunidades religiosas
+    [ONG-GRE]  Gremios y asociaciones
+
+[PSO]  Personas y eventos sociales
+    [PSO-MPE]  Marca personal e influenciadores
+    [PSO-BOD]  Bodas
+    [PSO-QUI]  Quince años
+    [PSO-OTR]  Otros eventos sociales
+
+[SIN]  Sin clasificar
+
+
+2. TIPOS DE TRABAJO (el servicio que hicimos)
+=============================================
+Código de 3 letras del tipo + 3 letras del subtipo.
+
+[BRD]  Branding e identidad visual
+    [BRD-LOG]  Diseño de logotipo
+    [BRD-REB]  Rediseño de marca
+    [BRD-MAN]  Manual de identidad corporativa
+    [BRD-PAP]  Papelería corporativa
+    [BRD-SEN]  Señalética y aplicaciones de marca
+    [BRD-MER]  Merchandising
+
+[EDI]  Diseño gráfico y editorial
+    [EDI-CAT]  Catálogos
+    [EDI-BRO]  Brochures y presentaciones corporativas
+    [EDI-MEN]  Menús y cartas
+    [EDI-IMP]  Publicidad impresa
+    [EDI-ILU]  Ilustración y personajes
+
+[PAC]  Packaging
+    [PAC-ETI]  Diseño de etiquetas
+    [PAC-EMP]  Diseño de empaques
+
+[RED]  Social media
+    [RED-FEE]  Feed Instagram
+    [RED-HIS]  Historias
+    [RED-REE]  Reels
+    [RED-CAM]  Campañas publicitarias
+
+[AUD]  Producción audiovisual
+    [AUD-COR]  Video corporativo e institucional
+    [AUD-COM]  Comerciales
+    [AUD-EVE]  Cobertura de eventos
+    [AUD-TES]  Testimonios y entrevistas
+    [AUD-POD]  Podcast
+    [AUD-TUT]  Videos educativos y tutoriales
+
+[ANI]  Motion graphics y animación
+    [ANI-LOG]  Animación de logo
+    [ANI-A3D]  Animación 2D y 3D
+    [ANI-IAV]  Video con inteligencia artificial
+
+[FOT]  Fotografía
+    [FOT-PRO]  Fotografía de producto
+    [FOT-MOD]  Fotografía de moda y catálogo
+    [FOT-COR]  Fotografía corporativa y de eventos
+
+[WEB]  Diseño web y experiencias digitales
+    [WEB-PAG]  Páginas web y landing pages
+    [WEB-UIX]  Diseño UI-UX
+    [WEB-OVA]  Contenidos educativos digitales (OVA)
+
+
+¿Falta un sector o un tipo de trabajo? Dímelo y lo agrego a la lista oficial (datos/categorias.js)
+con un código nuevo; así la página y este archivo siguen iguales.

@@ -1,0 +1,6 @@
+# no publicar respaldos internos ni temporales
+datos/_backup_predrive/
+**/__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>LADO · Portafolio</title>
+  <meta name="description" content="Portafolio de proyectos en video de LADO.">
+  <meta name="theme-color" content="#07030D">
+  <link rel="icon" href="assets/logo/lado-claro.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <header class="barra">
+    <a class="barra-logo" href="#inicio" aria-label="LADO, ir al inicio"><img class="logo-img" src="assets/logo/lado-claro.svg" alt=""></a>
+    <nav class="barra-menu" aria-label="Secciones">
+      <a href="#portafolio">Portafolio</a>
+      <a href="#contacto" data-solo-contacto>Contacto</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="inicio" class="inicio">
+      <div class="inicio-fondo" aria-hidden="true"></div>
+      <img class="inicio-logo" src="assets/logo/lado-claro.svg" alt="LADO">
+      <p class="inicio-frase" data-frase></p>
+      <a class="boton" href="#portafolio">Ver portafolio</a>
+    </section>
+
+    <section id="portafolio" class="portafolio">
+      <div class="contenedor">
+        <h2 class="titulo">Portafolio</h2>
+        <p class="subtitulo">Clientes con los que hemos trabajado. Filtra y toca uno para ver sus trabajos.</p>
+        <div class="barra-filtros" role="search">
+          <label class="campo campo-buscar"><span>Cliente</span><input type="search" placeholder="Buscar por nombre…" data-buscar autocomplete="off"></label>
+          <label class="campo"><span>Año</span><select data-f-anio><option value="">Todos los años</option></select></label>
+          <label class="campo"><span>Categoría de negocio</span><select data-f-sector><option value="">Todos los sectores</option></select></label>
+          <label class="campo"><span>Tipo de trabajo</span><select data-f-tipo><option value="">Todos los trabajos</option></select></label>
+        </div>
+        <div class="resumen"><span data-resumen></span><button type="button" class="limpiar" data-limpiar hidden>Limpiar filtros</button></div>
+        <ul class="marcas" data-marcas></ul>
+      </div>
+    </section>
+
+    <section id="contacto" class="contacto" data-solo-contacto>
+      <div class="contenedor">
+        <h2 class="titulo">Contacto</h2>
+        <div class="contacto-enlaces" data-contacto></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="pie">
+    <img class="pie-logo" src="assets/logo/lado-claro.svg" alt="">
+    <span>© <span data-anio></span> LADO</span>
+  </footer>
+
+  <!-- Ventana de una marca con sus videos -->
+  <dialog class="ventana" data-ventana aria-labelledby="ventana-titulo">
+    <div class="ventana-caja">
+      <div class="ventana-top">
+        <header class="ventana-cabeza">
+          <div class="ventana-marca">
+            <span class="ventana-logo" data-v-logo></span>
+            <div>
+              <p class="ventana-cat" data-v-cat></p>
+              <h3 id="ventana-titulo" class="ventana-titulo" data-v-nombre></h3>
+              <p class="ventana-meta" data-v-meta></p>
+              <p class="ventana-desc" data-v-desc hidden></p>
+            </div>
+          </div>
+          <button class="cerrar" type="button" data-cerrar aria-label="Cerrar">
+            <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+          </button>
+        </header>
+        <div class="chips" data-v-chips></div>
+      </div>
+      <div class="videos" data-videos></div>
+    </div>
+  </dialog>
+
+  <script src="datos/categorias.js"></script>
+  <script src="datos/portafolio.js"></script>
+  <script src="datos/piloto-cerberus.js"></script>
+  <script src="datos/piloto-laboulangerie.js"></script>
+  <script src="datos/piloto-dolceriposo.js"></script>
+  <script src="datos/piloto-angarita.js"></script>
+  <script src="js/portafolio.js"></script>
+</body>
+</html>

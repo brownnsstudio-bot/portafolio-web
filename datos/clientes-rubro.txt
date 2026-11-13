@@ -1,0 +1,27 @@
+# TABLA: CLIENTE -> RUBRO (sector)   ·   el rubro se asigna AUTOMÁTICO por cliente
+# =====================================================================
+# Para qué sirve: así, al subir un video/imagen de un cliente al Drive,
+# NO hace falta ponerle el código de sector en el nombre. El generador
+# le pone el rubro solo, mirando esta tabla por el nombre del cliente.
+#
+# Cómo se llena: una línea por cliente, así:
+#     Nombre del cliente = [SECTOR-SUB]
+# Los códigos [SECTOR-SUB] están en CODIGOS.txt / ficha.txt. Ejemplos:
+#     [ALI-RES] restaurante · [AUT-MOT] concesionario de motos
+#     [MED-GAM] gaming/streamer · [SER-FUN] funeraria · [COM-TRO] trofeos
+#
+# Prioridad: si el ARCHIVO ya trae el código [SECTOR-SUB] en el nombre,
+# ese manda. Si no, se usa esta tabla. Si tampoco está, queda "Sin clasificar".
+# (Hay además una lista base interna con ~100 clientes antiguos ya mapeados.)
+# =====================================================================
+
+# --- clientes nuevos / casos de marca ---
+CerberuS = [MED-GAM]
+Angarita Premiaciones = [COM-TRO]
+Dolce Riposo = [SER-FUN]
+Bantrophy = [COM-TRO]
+iHobby = [COM-PER]
+Fotomilenio = [MED-FOT]
+La Boulangerie = [ALI-PAN]
+
+# --- agrega aquí los nuevos clientes que me indiques ---
