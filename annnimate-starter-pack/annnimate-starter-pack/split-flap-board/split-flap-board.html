@@ -1,0 +1,24 @@
+<!-- Split Flap Board - VANTA editorial sports brand demo (a results board).
+     Root carries data-anm-split-flap-board. The hidden [data-anm-sfb-sets]
+     block is the content: one entry per result set, lines separated by "|".
+     JS builds the board (one row of flap tiles per line) and the control
+     pill into [data-anm-sfb-stage]. The first set is shown at rest; click
+     the board, use the arrows, or press left/right to flap to the next set.
+     No autoplay. -->
+
+<section class="sfb_wrap" data-anm-split-flap-board
+  data-anm-duration="0.36"
+  data-anm-stagger="0.015"
+  data-anm-cycles="2"
+  data-anm-bounce="32">
+
+  <div class="sfb_sets" data-anm-sfb-sets hidden>
+    <div data-anm-sfb-set data-lines="Berlin|Marathon|02:04:58"></div>
+    <div data-anm-sfb-set data-lines="Tokyo|Sprint|00:09:58"></div>
+    <div data-anm-sfb-set data-lines="Roubaix|Velodrome|04:01:12"></div>
+    <div data-anm-sfb-set data-lines="Oslo|Downhill|01:44:05"></div>
+  </div>
+
+  <div class="sfb_stage" data-anm-sfb-stage></div>
+
+</section>

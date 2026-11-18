@@ -1,0 +1,34 @@
+<!-- Curtain Slider - VANTA editorial sports brand demo.
+     Root carries data-anm-curtain-slider. Each data-anm-cs-slide is
+     buyer-editable: swap the title/label data attributes and the <img> src
+     to reuse. JS reads these slides once at init, then builds the stage
+     (layer stack, label, title, index roller, progress hairline, pill) into
+     the [data-anm-cs-stage] mount. -->
+
+<div class="cs_wrap" data-anm-curtain-slider
+  data-anm-duration="1.1"
+  data-anm-ease="annnimate"
+  data-anm-columns="12"
+  data-anm-auto="0"
+  data-anm-drag="true"
+  data-anm-stagger="0.0125">
+
+  <div class="cs_slides" data-anm-cs-slides hidden>
+    <div data-anm-cs-slide data-title="Drive" data-label="Chapter 01">
+      <img src="https://annnimate.b-cdn.net/preview-assets/vanta/hero_run_02.jpg?width=1920&format=auto" alt="Runner silhouetted mid-stride against a bright wall" />
+    </div>
+
+    <div data-anm-cs-slide data-title="Endurance" data-label="Chapter 02">
+      <img src="https://annnimate.b-cdn.net/preview-assets/vanta/action_cyclist-climb_02.jpg?width=1920&format=auto" alt="Cyclist climbing in motion blur against a warm backdrop" />
+    </div>
+
+    <div data-anm-cs-slide data-title="Focus" data-label="Chapter 03">
+      <img src="https://annnimate.b-cdn.net/preview-assets/vanta/hero_profile_02.jpg?width=1920&format=auto" alt="Athlete in profile against a bright orange field" />
+    </div>
+  </div>
+
+  <!-- Stage: JS builds the layer stack, label, title, index roller,
+       progress hairline and control pill here from the slide data above. -->
+  <div class="cs_stage" data-anm-cs-stage></div>
+
+</div>

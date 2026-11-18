@@ -16,14 +16,1496 @@ window.PORTAFOLIO = {
  },
  "marcas": [
   {
+   "id": "calzado-elite",
+   "nombre": "Calzado Elite",
+   "anio": "2023",
+   "fecha": "2023-10-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Calzado",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {},
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-1-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-2-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-3-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-4-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-5-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-6-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-7-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-8-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-9-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-10-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-11-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-12-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-13-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-14-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-15-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-16-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-17-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-18-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-19-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-20-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-21-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-22-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-23-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-24-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-25-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-26-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-27-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-28-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-29-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-30-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-31-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-32-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-33-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-34-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-35-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-36-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-37-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-38-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-39-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-40-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-41-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-42-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-43-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-44-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-45-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-46-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-47-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-48-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-49-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-50-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-51-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-52-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-53-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-54-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-55-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-56-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-57-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-58-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-59-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-60-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-61-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-62-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-63-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-64-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-65-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-66-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-67-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-68-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-69-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-70-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-71-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-72-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-73-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-74-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-75-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-76-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-77-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-78-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-79-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-80-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-81-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-82-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-83-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-84-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-85-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-86-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-87-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-88-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-89-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-90-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-91-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-92-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-93-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-94-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-95-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-96-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-97-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-98-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-99-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-100-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-101-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-102-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-103-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-104-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-105-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-106-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-107-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-108-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-109-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-110-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-111-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-112-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-113-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-114-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-115-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-116-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-117-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-118-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-119-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-120-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-121-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-122-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-123-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-124-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-125-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-126-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-127-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-128-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-129-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-130-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-131-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-132-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-133-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-134-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-135-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-136-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-137-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-138-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-139-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-140-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-141-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-142-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-143-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-144-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-145-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-146-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-147-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-148-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-149-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-150-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-151-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-152-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-153-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-154-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-155-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-156-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-157-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-158-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-159-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-160-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-161-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-162-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-163-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-164-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-165-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-166-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-167-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-168-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-169-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-170-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-171-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-172-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-173-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-174-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-175-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-176-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-177-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-178-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-179-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-180-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-181-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-182-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-183-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-184-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-185-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-186-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-187-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-188-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-189-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-190-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-191-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-192-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-193-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-194-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-195-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-196-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-197-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-198-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-199-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-200-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-201-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-202-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-203-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-204-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-205-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-206-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-207-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-208-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-209-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-210-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-211-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-212-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-213-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-214-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-215-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-216-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-217-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-218-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-219-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-220-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-221-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-222-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-223-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-224-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-225-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-226-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-227-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-228-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-229-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-230-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-231-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-232-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-233-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-234-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-235-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-236-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-237-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-238-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-239-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-240-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-241-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-242-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-243-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-244-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-245-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-246-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-247-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-248-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-249-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-250-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-251-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-252-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-253-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-254-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-255-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-256-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-257-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-258-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-259-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-260-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-261-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-262-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-263-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-264-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-265-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-266-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-267-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-268-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-269-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-270-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-271-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-272-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-273-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-274-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-275-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-276-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-277-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-278-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-279-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-280-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-281-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-282-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-283-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-284-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-285-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-286-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-287-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-288-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-289-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-290-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-291-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "zona-fria",
    "nombre": "Zona Fría",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Bebidas y licores",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Estanco de bebidas alcohilicas ubicado en los patios",
    "logos": {
     "V_color": "assets/marcas/zona-fria/V_color.png",
     "V_negro": "assets/marcas/zona-fria/V_negro.png",
@@ -65,7 +1547,7 @@ window.PORTAFOLIO = {
      "sub": "Diseño de logotipo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/zona-fria/zona-fria-diseno-de-logo.pdf",
+     "local": "assets/trabajos/zona-fria/2023-zona-fria-diseno-de-logo-brd-log-ali-beb.pdf",
      "peso": 7,
      "origen": "drive"
     },
@@ -76,7 +1558,7 @@ window.PORTAFOLIO = {
      "sub": "Señalética y aplicaciones de marca",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/zona-fria/zona-fria-montaje-fachada-4.jpg",
+     "local": "assets/trabajos/zona-fria/2023-zona-fria-montaje-fachada-4-brd-sen-ali-beb.jpg",
      "peso": 0,
      "origen": "drive"
     },
@@ -87,7 +1569,7 @@ window.PORTAFOLIO = {
      "sub": "Señalética y aplicaciones de marca",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/zona-fria/zona-fria-montaje-fachada-1.jpg",
+     "local": "assets/trabajos/zona-fria/2023-zona-fria-montaje-fachada-1-brd-sen-ali-beb.jpg",
      "peso": 0,
      "origen": "drive"
     },
@@ -98,7 +1580,7 @@ window.PORTAFOLIO = {
      "sub": "Señalética y aplicaciones de marca",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/zona-fria/zona-fria-montaje-fachada-2.jpg",
+     "local": "assets/trabajos/zona-fria/2023-zona-fria-montaje-fachada-2-brd-sen-ali-beb.jpg",
      "peso": 0,
      "origen": "drive"
     },
@@ -109,7 +1591,7 @@ window.PORTAFOLIO = {
      "sub": "Señalética y aplicaciones de marca",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/zona-fria/zona-fria-montaje-fachada-3.jpg",
+     "local": "assets/trabajos/zona-fria/2023-zona-fria-montaje-fachada-3-brd-sen-ali-beb.jpg",
      "peso": 0,
      "origen": "drive"
     }
@@ -123,7 +1605,7 @@ window.PORTAFOLIO = {
    "sector": "Construcción, inmobiliaria y hogar",
    "subsector": "Muebles y decoración",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "es una reconocida empresa y fábrica de muebles colombiana fundada en 1990, con origen en Cúcuta, Norte de Santander.",
    "logos": {
     "H_blanco": "assets/marcas/universal-del-mueble/H_blanco.png",
     "H_negro": "assets/marcas/universal-del-mueble/H_negro.png"
@@ -142,7 +1624,7 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-feed-completo.png",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-feed-completo-red-fee-con-mue.png",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -160,92 +1642,92 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-18.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-18-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-1.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-1-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-2.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-2-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-3.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-3-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-4.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-4-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-5.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-5-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-6.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-6-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-7.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-7-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-8.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-8-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-9.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-9-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-10.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-10-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-11.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-11-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-12.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-12-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-13.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-13-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-14.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-14-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-15.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-15-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-16.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-16-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/universal-del-mueble/universal-del-mueble-fotografia-producto-17.jpg",
+       "src": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-fotografia-producto-17-fot-cor-con-mue.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -258,7 +1740,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/universal-del-mueble/universal-del-mueble-reels-7.mp4",
+     "local": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-reels-7-red-ree-con-mue.mp4",
      "peso": 5,
      "origen": "drive"
     },
@@ -269,7 +1751,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/universal-del-mueble/universal-del-mueble-reels-1.mp4",
+     "local": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-reels-1-red-ree-con-mue.mp4",
      "peso": 5,
      "origen": "drive"
     },
@@ -280,7 +1762,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/universal-del-mueble/universal-del-mueble-reels-2.mp4",
+     "local": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-reels-2-red-ree-con-mue.mp4",
      "peso": 5,
      "origen": "drive"
     },
@@ -291,8 +1773,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/universal-del-mueble/universal-del-mueble-reels-3.mp4",
-     "peso": 40,
+     "local": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-reels-3-red-ree-con-mue.mp4",
+     "peso": 4,
      "origen": "drive"
     },
     {
@@ -302,7 +1784,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/universal-del-mueble/universal-del-mueble-reels-4.mp4",
+     "local": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-reels-4-red-ree-con-mue.mp4",
      "peso": 10,
      "origen": "drive"
     },
@@ -313,7 +1795,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/universal-del-mueble/universal-del-mueble-reels-5.mp4",
+     "local": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-reels-5-red-ree-con-mue.mp4",
      "peso": 5,
      "origen": "drive"
     },
@@ -324,7 +1806,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/universal-del-mueble/universal-del-mueble-reels-6.mp4",
+     "local": "assets/trabajos/universal-del-mueble/2023-universal-del-mueble-reels-6-red-ree-con-mue.mp4",
      "peso": 6,
      "origen": "drive"
     }
@@ -338,7 +1820,7 @@ window.PORTAFOLIO = {
    "sector": "Construcción, inmobiliaria y hogar",
    "subsector": "Constructoras e inmobiliarias",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "es un proyecto de vivienda de interés social (VIS) ubicado en Cúcuta, Norte de Santander, específicamente en el barrio La Ínsula (Avenida 5 #5-19)",
    "logos": {
     "H_color": "assets/marcas/torres-del-norte/H_color.png",
     "H_negro": "assets/marcas/torres-del-norte/H_negro.png",
@@ -358,77 +1840,77 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-11.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-11-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-14.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-14-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-15.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-15-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-12.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-12-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-13.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-13-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-8.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-8-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-1.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-1-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-2.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-2-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-3.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-3-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-4.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-4-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-5.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-5-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-6.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-6-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-7.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-7-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-9.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-9-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/torres-del-norte/torres-del-norte-fotografia-publicitaria-10.jpg",
+       "src": "assets/trabajos/torres-del-norte/2023-torres-del-norte-fotografia-publicitaria-10-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -441,8 +1923,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/torres-del-norte/torres-del-norte-reel-1.mp4",
-     "peso": 17,
+     "local": "assets/trabajos/torres-del-norte/2023-torres-del-norte-reel-1-red-ree-con-inm.mp4",
+     "peso": 11,
      "origen": "drive"
     },
     {
@@ -452,8 +1934,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/torres-del-norte/torres-del-norte-reel-2.mp4",
-     "peso": 21,
+     "local": "assets/trabajos/torres-del-norte/2023-torres-del-norte-reel-2-red-ree-con-inm.mp4",
+     "peso": 10,
      "origen": "drive"
     },
     {
@@ -463,8 +1945,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/torres-del-norte/torres-del-norte-reel-3.mp4",
-     "peso": 12,
+     "local": "assets/trabajos/torres-del-norte/2023-torres-del-norte-reel-3-red-ree-con-inm.mp4",
+     "peso": 6,
      "origen": "drive"
     },
     {
@@ -474,8 +1956,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/torres-del-norte/torres-del-norte-reel-4.mp4",
-     "peso": 11,
+     "local": "assets/trabajos/torres-del-norte/2023-torres-del-norte-reel-4-red-ree-con-inm.mp4",
+     "peso": 5,
      "origen": "drive"
     }
    ]
@@ -488,7 +1970,7 @@ window.PORTAFOLIO = {
    "sector": "Automotriz y motos",
    "subsector": "Estética automotriz",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Tezos Detailing es un centro de detallado y estética automotriz profesional ubicado en Cúcuta, Colombia.",
    "logos": {},
    "origen": "Drive",
    "trabajos": [
@@ -504,7 +1986,7 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/tezos/tezos-feed-completo.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-feed-completo-red-fee-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -522,252 +2004,252 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-4.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-4-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-5.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-5-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-43.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-43-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-44.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-44-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-40.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-40-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-35.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-35-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-34.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-34-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-47.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-47-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-36.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-36-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-37.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-37-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-16.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-16-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-50.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-50-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-49.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-49-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-48.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-48-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-46.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-46-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-45.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-45-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-42.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-42-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-41.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-41-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-39.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-39-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-38.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-38-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-33.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-33-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-25.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-25-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-32.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-32-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-31.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-31-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-30.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-30-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-29.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-29-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-28.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-28-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-27.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-27-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-26.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-26-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-23.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-23-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-24.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-24-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-22.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-22-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-21.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-21-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-20.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-20-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-19.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-19-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-18.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-18-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-17.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-17-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-8.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-8-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-14.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-14-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-10.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-10-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-12.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-12-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-6.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-6-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-7.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-7-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-9.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-9-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-11.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-11-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-13.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-13-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-15.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-15-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-3.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-3-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-1.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-1-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/tezos/tezos-fotografia-publicitaria-2.jpg",
+       "src": "assets/trabajos/tezos/2023-tezos-fotografia-publicitaria-2-fot-cor-aut-est.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -780,8 +2262,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-31.mp4",
-     "peso": 82,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-31-red-ree-aut-est.mp4",
+     "peso": 18,
      "origen": "drive"
     },
     {
@@ -791,8 +2273,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-30.mp4",
-     "peso": 108,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-30-red-ree-aut-est.mp4",
+     "peso": 24,
      "origen": "drive"
     },
     {
@@ -802,8 +2284,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-29.mp4",
-     "peso": 53,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-29-red-ree-aut-est.mp4",
+     "peso": 11,
      "origen": "drive"
     },
     {
@@ -813,8 +2295,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-28.mp4",
-     "peso": 102,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-28-red-ree-aut-est.mp4",
+     "peso": 20,
      "origen": "drive"
     },
     {
@@ -824,8 +2306,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-27.mp4",
-     "peso": 106,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-27-red-ree-aut-est.mp4",
+     "peso": 25,
      "origen": "drive"
     },
     {
@@ -835,8 +2317,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-26.mp4",
-     "peso": 202,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-26-red-ree-aut-est.mp4",
+     "peso": 25,
      "origen": "drive"
     },
     {
@@ -846,8 +2328,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-25.mp4",
-     "peso": 164,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-25-red-ree-aut-est.mp4",
+     "peso": 19,
      "origen": "drive"
     },
     {
@@ -857,8 +2339,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-23.mp4",
-     "peso": 86,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-23-red-ree-aut-est.mp4",
+     "peso": 11,
      "origen": "drive"
     },
     {
@@ -868,8 +2350,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-24.mp4",
-     "peso": 195,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-24-red-ree-aut-est.mp4",
+     "peso": 22,
      "origen": "drive"
     },
     {
@@ -879,19 +2361,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-22.mp4",
-     "peso": 206,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (8)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-8.mp4",
-     "peso": 155,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-22-red-ree-aut-est.mp4",
+     "peso": 23,
      "origen": "drive"
     },
     {
@@ -901,8 +2372,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-10.mp4",
-     "peso": 97,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-10-red-ree-aut-est.mp4",
+     "peso": 9,
      "origen": "drive"
     },
     {
@@ -912,8 +2383,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-7.mp4",
-     "peso": 153,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-7-red-ree-aut-est.mp4",
+     "peso": 18,
      "origen": "drive"
     },
     {
@@ -923,8 +2394,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-6.mp4",
-     "peso": 58,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-6-red-ree-aut-est.mp4",
+     "peso": 6,
      "origen": "drive"
     },
     {
@@ -934,8 +2405,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-5.mp4",
-     "peso": 131,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-5-red-ree-aut-est.mp4",
+     "peso": 16,
      "origen": "drive"
     },
     {
@@ -945,8 +2416,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-4.mp4",
-     "peso": 197,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-4-red-ree-aut-est.mp4",
+     "peso": 17,
      "origen": "drive"
     },
     {
@@ -956,19 +2427,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-3.mp4",
-     "peso": 178,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (16)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-16.mp4",
-     "peso": 140,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-3-red-ree-aut-est.mp4",
+     "peso": 23,
      "origen": "drive"
     },
     {
@@ -978,8 +2438,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-14.mp4",
-     "peso": 119,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-14-red-ree-aut-est.mp4",
+     "peso": 16,
      "origen": "drive"
     },
     {
@@ -989,8 +2449,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-15.mp4",
-     "peso": 156,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-15-red-ree-aut-est.mp4",
+     "peso": 17,
      "origen": "drive"
     },
     {
@@ -1000,19 +2460,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-13.mp4",
-     "peso": 157,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (18)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-18.mp4",
-     "peso": 168,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-13-red-ree-aut-est.mp4",
+     "peso": 20,
      "origen": "drive"
     },
     {
@@ -1022,8 +2471,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-17.mp4",
-     "peso": 109,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-17-red-ree-aut-est.mp4",
+     "peso": 11,
      "origen": "drive"
     },
     {
@@ -1033,30 +2482,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-21.mp4",
-     "peso": 74,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (20)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-20.mp4",
-     "peso": 165,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (19)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-19.mp4",
-     "peso": 158,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-21-red-ree-aut-est.mp4",
+     "peso": 9,
      "origen": "drive"
     },
     {
@@ -1066,8 +2493,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-12.mp4",
-     "peso": 70,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-12-red-ree-aut-est.mp4",
+     "peso": 9,
      "origen": "drive"
     },
     {
@@ -1077,8 +2504,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-11.mp4",
-     "peso": 58,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-11-red-ree-aut-est.mp4",
+     "peso": 8,
      "origen": "drive"
     },
     {
@@ -1088,8 +2515,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-1.mp4",
-     "peso": 220,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-1-red-ree-aut-est.mp4",
+     "peso": 30,
      "origen": "drive"
     },
     {
@@ -1099,8 +2526,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-2.mp4",
-     "peso": 225,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-2-red-ree-aut-est.mp4",
+     "peso": 29,
      "origen": "drive"
     },
     {
@@ -1110,8 +2537,63 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-reel-9.mp4",
-     "peso": 132,
+     "local": "assets/trabajos/tezos/2023-tezos-reel-9-red-ree-aut-est.mp4",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (18)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tezos/2023-tezos-reel-18-red-ree-aut-est.mp4",
+     "peso": 24,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (20)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tezos/2023-tezos-reel-20-red-ree-aut-est.mp4",
+     "peso": 25,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (19)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tezos/2023-tezos-reel-19-red-ree-aut-est.mp4",
+     "peso": 25,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tezos/2023-tezos-reel-8-red-ree-aut-est.mp4",
+     "peso": 22,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (16)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tezos/2023-tezos-reel-16-red-ree-aut-est.mp4",
+     "peso": 13,
      "origen": "drive"
     },
     {
@@ -1121,8 +2603,8 @@ window.PORTAFOLIO = {
      "sub": "Video corporativo e institucional",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-video-corporativo.mp4",
-     "peso": 247,
+     "local": "assets/trabajos/tezos/2023-tezos-video-corporativo-aud-cor-aut-est.mp4",
+     "peso": 49,
      "origen": "drive"
     },
     {
@@ -1132,8 +2614,249 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/tezos/tezos-intro.mp4",
-     "peso": 10,
+     "local": "assets/trabajos/tezos/2023-tezos-intro-ani-log-aut-est.mp4",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "terpel-eds-bocono",
+   "nombre": "Terpel EDS Boconó",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Automotriz y motos",
+   "subsector": "Estaciones de servicio",
+   "alianza": "",
+   "descripcion": "estaciones de servicio ubicada en bocono cucuta",
+   "logos": {
+    "H_negro": "assets/marcas/terpel-eds-bocono/H_negro.png",
+    "V_blanco": "assets/marcas/terpel-eds-bocono/V_blanco.png",
+    "H_blanco": "assets/marcas/terpel-eds-bocono/H_blanco.png",
+    "V_color": "assets/marcas/terpel-eds-bocono/V_color.png",
+    "H_color": "assets/marcas/terpel-eds-bocono/H_color.png",
+    "V_negro": "assets/marcas/terpel-eds-bocono/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-6-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-7-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-8-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-9-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-10-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-11-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-12-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-13-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-5-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-4-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-3-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-2-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-1-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-14-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-15-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-16-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-17-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-18-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-19-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-20-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-21-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-22-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-23-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-24-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-25-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-fotografia-producto-26-fot-cor-aut-eds.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-reel-1-red-ree-aut-eds.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-reel-2-red-ree-aut-eds.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-reel-3-red-ree-aut-eds.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-reel-4-red-ree-aut-eds.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-reel-5-red-ree-aut-eds.mp4",
+     "peso": 19,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-reel-6-red-ree-aut-eds.mp4",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/terpel-eds-bocono/2023-terpel-eds-bocono-reel-7-red-ree-aut-eds.mp4",
+     "peso": 9,
      "origen": "drive"
     }
    ]
@@ -1143,10 +2866,10 @@ window.PORTAFOLIO = {
    "nombre": "Sidney Arce",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Medios, entretenimiento y eventos",
+   "subsector": "Música y artistas",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Sidney Arce es un cantautor y cantante colombiano de salsa romántica, originario de Buenaventura, en el Pacífico colombiano.",
    "logos": {
     "H_negro": "assets/marcas/sidney-arce/H_negro.png",
     "V_blanco": "assets/marcas/sidney-arce/V_blanco.png",
@@ -1164,8 +2887,8 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/sidney-arce/sidney-arce-intro.mp4",
-     "peso": 4,
+     "local": "assets/trabajos/sidney-arce/2023-sidney-arce-intro-ani-log-med-mus.mp4",
+     "peso": 2,
      "origen": "drive"
     }
    ]
@@ -1178,7 +2901,7 @@ window.PORTAFOLIO = {
    "sector": "Salud y bienestar",
    "subsector": "Clínicas e IPS",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "es una Institución Prestadora de Servicios de Salud (IPS) privada ubicada en Cúcuta, Norte de Santander, especializada en el diagnóstico, evaluación y manejo integral de enfermedades cardiovasculares.",
    "logos": {
     "H_color": "assets/marcas/servicios-especializados-del-corazon/H_color.png",
     "H_negro": "assets/marcas/servicios-especializados-del-corazon/H_negro.png",
@@ -1198,77 +2921,77 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-1.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-1-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-2.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-2-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-3.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-3-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-4.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-4-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-5.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-5-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-6.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-6-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-7.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-7-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-8.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-8-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-9.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-9-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-10.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-10-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-11.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-11-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-12.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-12-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-13.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-13-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-14.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-14-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-fotografia-publicitaria-15.jpg",
+       "src": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-fotografia-publicitaria-15-fot-cor-sal-cli.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -1281,8 +3004,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-reel-5.mp4",
-     "peso": 30,
+     "local": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-reel-5-red-ree-sal-cli.mp4",
+     "peso": 15,
      "origen": "drive"
     },
     {
@@ -1292,8 +3015,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-reel-3.mp4",
-     "peso": 17,
+     "local": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-reel-3-red-ree-sal-cli.mp4",
+     "peso": 8,
      "origen": "drive"
     },
     {
@@ -1303,8 +3026,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-reel-2.mp4",
-     "peso": 8,
+     "local": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-reel-2-red-ree-sal-cli.mp4",
+     "peso": 4,
      "origen": "drive"
     },
     {
@@ -1314,8 +3037,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-reel-1.mp4",
-     "peso": 23,
+     "local": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-reel-1-red-ree-sal-cli.mp4",
+     "peso": 9,
      "origen": "drive"
     },
     {
@@ -1325,8 +3048,607 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/servicios-especializados-del-corazon/servicios-especializados-del-corazon-reel-4.mp4",
-     "peso": 5,
+     "local": "assets/trabajos/servicios-especializados-del-corazon/2023-servicios-especializados-del-corazon-reel-4-red-ree-sal-cli.mp4",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "red-salud-ips",
+   "nombre": "Red Salud IPS",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Salud y bienestar",
+   "subsector": "Clínicas e IPS",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {
+    "H_blanco": "assets/marcas/red-salud-ips/H_blanco.png",
+    "H_color": "assets/marcas/red-salud-ips/H_color.png",
+    "H_negro": "assets/marcas/red-salud-ips/H_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-12-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-1-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-2-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-3-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-4-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-5-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-6-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-7-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-8-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-9-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-10-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/red-salud-ips/2023-red-salud-ips-fotografia-publicitaria-11-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/red-salud-ips/2023-red-salud-ips-reel-1-red-ree-sal-cli.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/red-salud-ips/2023-red-salud-ips-reel-2-red-ree-sal-cli.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/red-salud-ips/2023-red-salud-ips-reel-3-red-ree-sal-cli.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/red-salud-ips/2023-red-salud-ips-reel-4-red-ree-sal-cli.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/red-salud-ips/2023-red-salud-ips-reel-5-red-ree-sal-cli.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/red-salud-ips/2023-red-salud-ips-reel-6-red-ree-sal-cli.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/red-salud-ips/2023-red-salud-ips-reel-7-red-ree-sal-cli.mp4",
+     "peso": 4,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "nona-pepa",
+   "nombre": "Nona Pepa",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Productos alimenticios",
+   "alianza": "",
+   "descripcion": "Marca de producto alimenticio.",
+   "logos": {
+    "H_color": "assets/marcas/nona-pepa/H_color.png",
+    "H_negro": "assets/marcas/nona-pepa/H_negro.png",
+    "H_blanco": "assets/marcas/nona-pepa/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-37-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-18-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-19-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-20-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-21-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-22-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-23-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-14-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-15-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-16-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-17-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-12-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-13-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-10-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-11-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-5-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-6-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-7-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-8-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-9-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-1-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-2-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-3-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-4-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-30-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-31-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-32-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-33-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-24-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-25-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-26-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-27-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-28-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-29-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-34-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-35-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/nona-pepa/2023-nona-pepa-fotografia-publicitaria-36-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-1-red-ree-ali-pro.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-2-red-ree-ali-pro.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-3-red-ree-ali-pro.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-4-red-ree-ali-pro.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-5-red-ree-ali-pro.mp4",
+     "peso": 18,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-6-red-ree-ali-pro.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-7-red-ree-ali-pro.mp4",
+     "peso": 14,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-8-red-ree-ali-pro.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-9-red-ree-ali-pro.mp4",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-10-red-ree-ali-pro.mp4",
+     "peso": 17,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-11-red-ree-ali-pro.mp4",
+     "peso": 29,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (12)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-12-red-ree-ali-pro.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (13)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-13-red-ree-ali-pro.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (14)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-14-red-ree-ali-pro.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (15)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-15-red-ree-ali-pro.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (16)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-16-red-ree-ali-pro.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (17)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nona-pepa/2023-nona-pepa-reel-17-red-ree-ali-pro.mp4",
+     "peso": 22,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "moto-stop",
+   "nombre": "Moto Stop",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Automotriz y motos",
+   "subsector": "Repuestos y talleres",
+   "alianza": "",
+   "descripcion": "Repuestos y taller de motos.",
+   "logos": {
+    "H_negro": "assets/marcas/moto-stop/H_negro.png",
+    "H_blanco": "assets/marcas/moto-stop/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/moto-stop/2023-moto-stop-intro-ani-log-aut-rep.mp4",
+     "peso": 4,
      "origen": "drive"
     }
    ]
@@ -1339,7 +3661,7 @@ window.PORTAFOLIO = {
    "sector": "Finanzas, seguros y juegos de azar",
    "subsector": "Seguros",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Asesores Meyer Seguros Cúcuta (conocida legalmente como Asesores Meyer Seguros Cúcuta Ltda. o Asesores de Seguros Meyer Ltda.) es una empresa de corretaje y asesoría de seguros ubicada en la ciudad de Cúcuta, Norte de Santander.",
    "logos": {
     "H_color": "assets/marcas/meyer-seguros/H_color.png",
     "H_negro": "assets/marcas/meyer-seguros/H_negro.png",
@@ -1354,8 +3676,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/meyer-seguros/meyer-seguros-reel-1.mp4",
-     "peso": 24,
+     "local": "assets/trabajos/meyer-seguros/2023-meyer-seguros-reel-1-red-ree-fin-seg.mp4",
+     "peso": 3,
      "origen": "drive"
     },
     {
@@ -1365,8 +3687,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/meyer-seguros/meyer-seguros-reel-2.mp4",
-     "peso": 24,
+     "local": "assets/trabajos/meyer-seguros/2023-meyer-seguros-reel-2-red-ree-fin-seg.mp4",
+     "peso": 3,
      "origen": "drive"
     },
     {
@@ -1376,8 +3698,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/meyer-seguros/meyer-seguros-reel-3.mp4",
-     "peso": 101,
+     "local": "assets/trabajos/meyer-seguros/2023-meyer-seguros-reel-3-red-ree-fin-seg.mp4",
+     "peso": 14,
      "origen": "drive"
     },
     {
@@ -1387,8 +3709,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/meyer-seguros/meyer-seguros-reel-4.mp4",
-     "peso": 51,
+     "local": "assets/trabajos/meyer-seguros/2023-meyer-seguros-reel-4-red-ree-fin-seg.mp4",
+     "peso": 5,
      "origen": "drive"
     },
     {
@@ -1398,9 +3720,72 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/meyer-seguros/meyer-seguros-reel-5.mp4",
-     "peso": 44,
+     "local": "assets/trabajos/meyer-seguros/2023-meyer-seguros-reel-5-red-ree-fin-seg.mp4",
+     "peso": 4,
      "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "masivo",
+   "nombre": "Masivo",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Tecnología y telecomunicaciones",
+   "subsector": "Software y aplicaciones",
+   "alianza": "",
+   "descripcion": "Empresa dedicada a la creación de una app con recaudación por puntos, en alianza con comercios",
+   "logos": {
+    "H_blanco": "assets/marcas/masivo/H_blanco.png",
+    "H_color": "assets/marcas/masivo/H_color.png",
+    "H_negro": "assets/marcas/masivo/H_negro.png",
+    "V_negro": "assets/marcas/masivo/V_negro.png",
+    "V_blanco": "assets/marcas/masivo/V_blanco.png",
+    "V_color": "assets/marcas/masivo/V_color.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/masivo/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/masivo/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/masivo/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/masivo/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/masivo/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/masivo/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      }
+     ]
     }
    ]
   },
@@ -1409,10 +3794,10 @@ window.PORTAFOLIO = {
    "nombre": "Los Rosales",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Construcción, inmobiliaria y hogar",
+   "subsector": "Constructoras e inmobiliarias",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "es un proyecto de vivienda (de tipo Vivienda de Interés Prioritario - VIP / VIS) ubicado en Cúcuta, Norte de Santander, específicamente en el sector de El Rodeo (Anillo Vial Occidental).",
    "logos": {
     "H_color": "assets/marcas/los-rosales/H_color.png",
     "H_negro": "assets/marcas/los-rosales/H_negro.png",
@@ -1432,42 +3817,42 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/los-rosales/los-rosales-fotografia-publicitaria-1.jpg",
+       "src": "assets/trabajos/los-rosales/2023-los-rosales-fotografia-publicitaria-1-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/los-rosales/los-rosales-fotografia-publicitaria-2.jpg",
+       "src": "assets/trabajos/los-rosales/2023-los-rosales-fotografia-publicitaria-2-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/los-rosales/los-rosales-fotografia-publicitaria-3.jpg",
+       "src": "assets/trabajos/los-rosales/2023-los-rosales-fotografia-publicitaria-3-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/los-rosales/los-rosales-fotografia-publicitaria-4.jpg",
+       "src": "assets/trabajos/los-rosales/2023-los-rosales-fotografia-publicitaria-4-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/los-rosales/los-rosales-fotografia-publicitaria-5.jpg",
+       "src": "assets/trabajos/los-rosales/2023-los-rosales-fotografia-publicitaria-5-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/los-rosales/los-rosales-fotografia-publicitaria-6.jpg",
+       "src": "assets/trabajos/los-rosales/2023-los-rosales-fotografia-publicitaria-6-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/los-rosales/los-rosales-fotografia-publicitaria-7.jpg",
+       "src": "assets/trabajos/los-rosales/2023-los-rosales-fotografia-publicitaria-7-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/los-rosales/los-rosales-fotografia-publicitaria-8.jpg",
+       "src": "assets/trabajos/los-rosales/2023-los-rosales-fotografia-publicitaria-8-fot-cor-con-inm.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -1480,8 +3865,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/los-rosales/los-rosales-reel-1.mp4",
-     "peso": 22,
+     "local": "assets/trabajos/los-rosales/2023-los-rosales-reel-1-red-ree-con-inm.mp4",
+     "peso": 8,
      "origen": "drive"
     },
     {
@@ -1491,8 +3876,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/los-rosales/los-rosales-reel-2.mp4",
-     "peso": 16,
+     "local": "assets/trabajos/los-rosales/2023-los-rosales-reel-2-red-ree-con-inm.mp4",
+     "peso": 13,
      "origen": "drive"
     }
    ]
@@ -1503,9 +3888,9 @@ window.PORTAFOLIO = {
    "anio": "2023",
    "fecha": "2023-01-01",
    "sector": "Alimentos y bebidas",
-   "subsector": "Productos alimenticios",
+   "subsector": "Restaurantes y comidas rápidas",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "restaurante dedicado al al venta de carne al barril y sus derivados, se especializan en el chicharrón más crocante de Cúcuta",
    "logos": {
     "V_negro": "assets/marcas/jombilo-s/V_negro.png",
     "V_blanco": "assets/marcas/jombilo-s/V_blanco.png",
@@ -1525,7 +3910,7 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-feed-completo.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-feed-completo-red-fee-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -1543,62 +3928,62 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-12.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-12-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-1.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-1-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-2.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-2-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-3.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-3-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-4.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-4-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-5.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-5-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-6.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-6-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-7.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-7-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-8.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-8-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-9.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-9-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-10.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-10-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/jombilo-s/jombilo-s-fotografia-producto-11.jpg",
+       "src": "assets/trabajos/jombilo-s/2023-jombilo-s-fotografia-producto-11-fot-cor-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -1611,7 +3996,7 @@ window.PORTAFOLIO = {
      "sub": "Rediseño de marca",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/jombilo-s/jombilo-s-logo-antes.png",
+     "local": "assets/trabajos/jombilo-s/2023-jombilo-s-logo-antes-brd-reb-ali-res.png",
      "peso": 1,
      "origen": "drive"
     },
@@ -1622,7 +4007,7 @@ window.PORTAFOLIO = {
      "sub": "Manual de identidad corporativa",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/jombilo-s/jombilo-s-manual-corporativo.pdf",
+     "local": "assets/trabajos/jombilo-s/2023-jombilo-s-manual-corporativo-brd-man-ali-res.pdf",
      "peso": 19,
      "origen": "drive"
     },
@@ -1633,8 +4018,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/jombilo-s/jombilo-s-reel-2.mp4",
-     "peso": 11,
+     "local": "assets/trabajos/jombilo-s/2023-jombilo-s-reel-2-red-ree-ali-res.mp4",
+     "peso": 6,
      "origen": "drive"
     },
     {
@@ -1644,8 +4029,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/jombilo-s/jombilo-s-reel-3.mp4",
-     "peso": 12,
+     "local": "assets/trabajos/jombilo-s/2023-jombilo-s-reel-3-red-ree-ali-res.mp4",
+     "peso": 6,
      "origen": "drive"
     },
     {
@@ -1655,8 +4040,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/jombilo-s/jombilo-s-reel-4.mp4",
-     "peso": 22,
+     "local": "assets/trabajos/jombilo-s/2023-jombilo-s-reel-4-red-ree-ali-res.mp4",
+     "peso": 11,
      "origen": "drive"
     },
     {
@@ -1666,8 +4051,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/jombilo-s/jombilo-s-reel-1.mp4",
-     "peso": 12,
+     "local": "assets/trabajos/jombilo-s/2023-jombilo-s-reel-1-red-ree-ali-res.mp4",
+     "peso": 7,
      "origen": "drive"
     },
     {
@@ -1677,8 +4062,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/jombilo-s/jombilo-s-reel-5.mp4",
-     "peso": 11,
+     "local": "assets/trabajos/jombilo-s/2023-jombilo-s-reel-5-red-ree-ali-res.mp4",
+     "peso": 8,
      "origen": "drive"
     },
     {
@@ -1688,8 +4073,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/jombilo-s/jombilo-s-reel-6.mp4",
-     "peso": 17,
+     "local": "assets/trabajos/jombilo-s/2023-jombilo-s-reel-6-red-ree-ali-res.mp4",
+     "peso": 10,
      "origen": "drive"
     }
    ]
@@ -1699,10 +4084,10 @@ window.PORTAFOLIO = {
    "nombre": "Inversiones Torres",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Automotriz y motos",
+   "subsector": "Repuestos y talleres",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "venta de repuestos de motocicleta",
    "logos": {
     "H_color": "assets/marcas/inversiones-torres/H_color.png",
     "H_negro": "assets/marcas/inversiones-torres/H_negro.png",
@@ -1717,8 +4102,8 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/inversiones-torres/inversiones-torres-intro.mp4",
-     "peso": 9,
+     "local": "assets/trabajos/inversiones-torres/2023-inversiones-torres-intro-ani-log-aut-rep.mp4",
+     "peso": 2,
      "origen": "drive"
     }
    ]
@@ -1728,10 +4113,10 @@ window.PORTAFOLIO = {
    "nombre": "Huevos Villa Paula",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Alimentos y bebidas",
-   "subsector": "Productos alimenticios",
+   "sector": "Agro y campo",
+   "subsector": "Ganadería y avícola",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Huevos Villa Paula es una empresa nortesantandereana con más de 20 años de trayectoria, dedicada a la producción y distribución de huevos frescos y certificados directamente desde la granja en Cúcuta, Villa del Rosario y su área metropolitana.",
    "logos": {
     "H_color": "assets/marcas/huevos-villa-paula/H_color.png",
     "H_negro": "assets/marcas/huevos-villa-paula/H_negro.png",
@@ -1751,37 +4136,37 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/huevos-villa-paula/huevos-villa-paula-fotografia-producto-5.jpg",
+       "src": "assets/trabajos/huevos-villa-paula/2023-huevos-villa-paula-fotografia-producto-5-fot-cor-agr-gan.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/huevos-villa-paula/huevos-villa-paula-fotografia-producto-1.jpg",
+       "src": "assets/trabajos/huevos-villa-paula/2023-huevos-villa-paula-fotografia-producto-1-fot-cor-agr-gan.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/huevos-villa-paula/huevos-villa-paula-fotografia-producto-2.jpg",
+       "src": "assets/trabajos/huevos-villa-paula/2023-huevos-villa-paula-fotografia-producto-2-fot-cor-agr-gan.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/huevos-villa-paula/huevos-villa-paula-fotografia-producto-3.jpg",
+       "src": "assets/trabajos/huevos-villa-paula/2023-huevos-villa-paula-fotografia-producto-3-fot-cor-agr-gan.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/huevos-villa-paula/huevos-villa-paula-fotografia-producto-4.jpg",
+       "src": "assets/trabajos/huevos-villa-paula/2023-huevos-villa-paula-fotografia-producto-4-fot-cor-agr-gan.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/huevos-villa-paula/huevos-villa-paula-fotografia-producto-6.jpg",
+       "src": "assets/trabajos/huevos-villa-paula/2023-huevos-villa-paula-fotografia-producto-6-fot-cor-agr-gan.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/huevos-villa-paula/huevos-villa-paula-fotografia-producto-7.jpg",
+       "src": "assets/trabajos/huevos-villa-paula/2023-huevos-villa-paula-fotografia-producto-7-fot-cor-agr-gan.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -1797,7 +4182,7 @@ window.PORTAFOLIO = {
    "sector": "Turismo y hotelería",
    "subsector": "Hoteles",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "El Hotel Zaraya es un hotel de 3 estrellas ubicado en el centro de San José de Cúcuta, Colombia, reconocido por su lema \"Tu Palacio en Cúcuta\".",
    "logos": {
     "H_color": "assets/marcas/hotel-zaraya/H_color.png",
     "H_negro": "assets/marcas/hotel-zaraya/H_negro.png",
@@ -1817,47 +4202,47 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/hotel-zaraya/hotel-zaraya-fotografia-producto-9.jpg",
+       "src": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-fotografia-producto-9-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-zaraya/hotel-zaraya-fotografia-producto-1.jpg",
+       "src": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-fotografia-producto-1-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-zaraya/hotel-zaraya-fotografia-producto-2.jpg",
+       "src": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-fotografia-producto-2-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-zaraya/hotel-zaraya-fotografia-producto-3.jpg",
+       "src": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-fotografia-producto-3-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-zaraya/hotel-zaraya-fotografia-producto-4.jpg",
+       "src": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-fotografia-producto-4-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-zaraya/hotel-zaraya-fotografia-producto-5.jpg",
+       "src": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-fotografia-producto-5-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-zaraya/hotel-zaraya-fotografia-producto-6.jpg",
+       "src": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-fotografia-producto-6-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-zaraya/hotel-zaraya-fotografia-producto-7.jpg",
+       "src": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-fotografia-producto-7-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-zaraya/hotel-zaraya-fotografia-producto-8.jpg",
+       "src": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-fotografia-producto-8-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -1870,8 +4255,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-zaraya/hotel-zaraya-reel-3.mp4",
-     "peso": 9,
+     "local": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-reel-3-red-ree-tur-hot.mp4",
+     "peso": 4,
      "origen": "drive"
     },
     {
@@ -1881,8 +4266,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-zaraya/hotel-zaraya-reel-2.mp4",
-     "peso": 15,
+     "local": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-reel-2-red-ree-tur-hot.mp4",
+     "peso": 7,
      "origen": "drive"
     },
     {
@@ -1892,26 +4277,22 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-zaraya/hotel-zaraya-reel-1.mp4",
-     "peso": 10,
+     "local": "assets/trabajos/hotel-zaraya/2023-hotel-zaraya-reel-1-red-ree-tur-hot.mp4",
+     "peso": 6,
      "origen": "drive"
     }
    ]
   },
   {
-   "id": "hotel-ibis",
-   "nombre": "Hotel Ibis",
+   "id": "hotel-ibis-cucuta",
+   "nombre": "Hotel Ibis Cúcuta",
    "anio": "2023",
    "fecha": "2023-01-01",
    "sector": "Turismo y hotelería",
    "subsector": "Hoteles",
    "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_color": "assets/marcas/hotel-ibis/H_color.png",
-    "H_negro": "assets/marcas/hotel-ibis/H_negro.png",
-    "H_blanco": "assets/marcas/hotel-ibis/H_blanco.png"
-   },
+   "descripcion": "El Hotel Ibis Cúcuta es un hotel de 3 estrellas de estilo económico, operado bajo la reconocida marca internacional Ibis del grupo multinacional francés Accor",
+   "logos": {},
    "origen": "Drive",
    "trabajos": [
     {
@@ -1926,164 +4307,164 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-7.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-7-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-11.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-11-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-10.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-10-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-9.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-9-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-8.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-8-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-12.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-12-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-1.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-1-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-2.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-2-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-3.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-3-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-4.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-4-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-5.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-5-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-fotografia-publicitaria-6.jpg",
+       "src": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-fotografia-publicitaria-6-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
      ]
     },
     {
-     "titulo": "Cúcuta - Reel (7)",
+     "titulo": "Reel (7)",
      "clase": "video",
      "tipo": "Social media",
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-reel-7.mp4",
-     "peso": 4,
+     "local": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-reel-7-red-ree-tur-hot.mp4",
+     "peso": 2,
      "origen": "drive"
     },
     {
-     "titulo": "Cúcuta - Reel (5)",
+     "titulo": "Reel (5)",
      "clase": "video",
      "tipo": "Social media",
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-reel-5.mp4",
-     "peso": 93,
+     "local": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-reel-5-red-ree-tur-hot.mp4",
+     "peso": 15,
      "origen": "drive"
     },
     {
-     "titulo": "Cúcuta - Reel (1)",
+     "titulo": "Reel (1)",
      "clase": "video",
      "tipo": "Social media",
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-reel-1.mp4",
-     "peso": 22,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Cúcuta - Reel (2)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-reel-2.mp4",
-     "peso": 8,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Cúcuta - Reel (3)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-reel-3.mp4",
-     "peso": 10,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Cúcuta - Reel (4)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-reel-4.mp4",
-     "peso": 10,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Cúcuta - Reel (6)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-reel-6.mp4",
+     "local": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-reel-1-red-ree-tur-hot.mp4",
      "peso": 7,
      "origen": "drive"
     },
     {
-     "titulo": "Cúcuta - Reel (9)",
+     "titulo": "Reel (2)",
      "clase": "video",
      "tipo": "Social media",
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-reel-9.mp4",
-     "peso": 10,
+     "local": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-reel-2-red-ree-tur-hot.mp4",
+     "peso": 4,
      "origen": "drive"
     },
     {
-     "titulo": "Cúcuta - Reel (8)",
+     "titulo": "Reel (3)",
      "clase": "video",
      "tipo": "Social media",
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-ibis/hotel-ibis-cucuta-reel-8.mp4",
+     "local": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-reel-3-red-ree-tur-hot.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-reel-4-red-ree-tur-hot.mp4",
      "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-reel-6-red-ree-tur-hot.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-reel-9-red-ree-tur-hot.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hotel-ibis-cucuta/2023-hotel-ibis-cucuta-reel-8-red-ree-tur-hot.mp4",
+     "peso": 3,
      "origen": "drive"
     }
    ]
@@ -2096,7 +4477,7 @@ window.PORTAFOLIO = {
    "sector": "Turismo y hotelería",
    "subsector": "Hoteles",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "En el corazón de Cúcuta, cerca de la Plaza Santander, la Alcaldía y la DIAN. Ofrece diferentes tipos de habitaciones (desde económicas con ventilador hasta suites grupales y superiores) con desayuno incluido.",
    "logos": {
     "H_color": "assets/marcas/hotel-exelsior/H_color.png",
     "H_negro": "assets/marcas/hotel-exelsior/H_negro.png",
@@ -2116,87 +4497,87 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-14.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-14-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-15.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-15-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-16.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-16-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-17.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-17-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-2.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-2-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-3.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-3-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-1.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-1-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-4.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-4-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-5.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-5-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-6.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-6-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-7.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-7-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-8.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-8-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-10.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-10-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-11.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-11-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-12.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-12-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-13.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-13-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/hotel-exelsior/hotel-exelsior-fotografia-producto-9.jpg",
+       "src": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-fotografia-producto-9-fot-cor-tur-hot.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -2209,8 +4590,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-exelsior/hotel-exelsior-reel-1.mp4",
-     "peso": 8,
+     "local": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-reel-1-red-ree-tur-hot.mp4",
+     "peso": 3,
      "origen": "drive"
     },
     {
@@ -2220,8 +4601,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-exelsior/hotel-exelsior-reel-2.mp4",
-     "peso": 52,
+     "local": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-reel-2-red-ree-tur-hot.mp4",
+     "peso": 4,
      "origen": "drive"
     },
     {
@@ -2231,8 +4612,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-exelsior/hotel-exelsior-reel-3.mp4",
-     "peso": 30,
+     "local": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-reel-3-red-ree-tur-hot.mp4",
+     "peso": 3,
      "origen": "drive"
     },
     {
@@ -2242,8 +4623,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-exelsior/hotel-exelsior-reel-4.mp4",
-     "peso": 13,
+     "local": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-reel-4-red-ree-tur-hot.mp4",
+     "peso": 5,
      "origen": "drive"
     },
     {
@@ -2253,8 +4634,343 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hotel-exelsior/hotel-exelsior-reel-5.mp4",
-     "peso": 25,
+     "local": "assets/trabajos/hotel-exelsior/2023-hotel-exelsior-reel-5-red-ree-tur-hot.mp4",
+     "peso": 10,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "hospiclinic",
+   "nombre": "Hospiclinic",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Salud y bienestar",
+   "subsector": "Clínicas e IPS",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {
+    "H_color": "assets/marcas/hospiclinic/H_color.png",
+    "H_negro": "assets/marcas/hospiclinic/H_negro.png",
+    "H_blanco": "assets/marcas/hospiclinic/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/hospiclinic/2023-hospiclinic-fotografia-publicitaria-1-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/hospiclinic/2023-hospiclinic-fotografia-publicitaria-2-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/hospiclinic/2023-hospiclinic-fotografia-publicitaria-3-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/hospiclinic/2023-hospiclinic-fotografia-publicitaria-4-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/hospiclinic/2023-hospiclinic-fotografia-publicitaria-5-fot-cor-sal-cli.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hospiclinic/2023-hospiclinic-reel-1-red-ree-sal-cli.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hospiclinic/2023-hospiclinic-reel-2-red-ree-sal-cli.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hospiclinic/2023-hospiclinic-reel-3-red-ree-sal-cli.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hospiclinic/2023-hospiclinic-reel-4-red-ree-sal-cli.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hospiclinic/2023-hospiclinic-reel-5-red-ree-sal-cli.mp4",
+     "peso": 3,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "honda-motos-cucuta",
+   "nombre": "Honda Motos Cúcuta",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Automotriz y motos",
+   "subsector": "Concesionarios de motos",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {
+    "H_color": "assets/marcas/honda-motos-cucuta/H_color.png",
+    "H_negro": "assets/marcas/honda-motos-cucuta/H_negro.png",
+    "H_blanco": "assets/marcas/honda-motos-cucuta/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-7-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-8-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-9-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-10-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-11-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-12-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-17-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-18-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-19-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-20-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-21-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-1-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-2-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-3-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-4-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-5-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-6-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-13-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-14-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-15-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-fotografia-producto-16-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-reel-1-red-ree-aut-mot.mp4",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-reel-2-red-ree-aut-mot.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-reel-3-red-ree-aut-mot.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-reel-4-red-ree-aut-mot.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-reel-5-red-ree-aut-mot.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-reel-6-red-ree-aut-mot.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-reel-7-red-ree-aut-mot.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/honda-motos-cucuta/2023-honda-motos-cucuta-reel-8-red-ree-aut-mot.mp4",
+     "peso": 4,
      "origen": "drive"
     }
    ]
@@ -2267,7 +4983,7 @@ window.PORTAFOLIO = {
    "sector": "Alimentos y bebidas",
    "subsector": "Bares y discotecas",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "es un shots bar de colombia",
    "logos": {
     "H_negro": "assets/marcas/hangover/H_negro.png",
     "V_blanco": "assets/marcas/hangover/V_blanco.png",
@@ -2285,8 +5001,8 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hangover/hangover-intro-4.mp4",
-     "peso": 5,
+     "local": "assets/trabajos/hangover/2023-hangover-intro-4-ani-log-ali-bar.mp4",
+     "peso": 1,
      "origen": "drive"
     },
     {
@@ -2296,7 +5012,7 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hangover/hangover-intro-1.mp4",
+     "local": "assets/trabajos/hangover/2023-hangover-intro-1-ani-log-ali-bar.mp4",
      "peso": 2,
      "origen": "drive"
     },
@@ -2307,8 +5023,8 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hangover/hangover-intro-2.mp4",
-     "peso": 9,
+     "local": "assets/trabajos/hangover/2023-hangover-intro-2-ani-log-ali-bar.mp4",
+     "peso": 1,
      "origen": "drive"
     },
     {
@@ -2318,8 +5034,82 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/hangover/hangover-intro-3.mp4",
-     "peso": 9,
+     "local": "assets/trabajos/hangover/2023-hangover-intro-3-ani-log-ali-bar.mp4",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "graphi-art",
+   "nombre": "Graphi Art",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Servicios profesionales",
+   "subsector": "Agencias de publicidad y marketing",
+   "alianza": "",
+   "descripcion": "Agencia publicitaria ubicada en coloncito edo tachira venezuela",
+   "logos": {
+    "H_blanco": "assets/marcas/graphi-art/H_blanco.png",
+    "H_color": "assets/marcas/graphi-art/H_color.png",
+    "H_negro": "assets/marcas/graphi-art/H_negro.png",
+    "V_color": "assets/marcas/graphi-art/V_color.png",
+    "V_negro": "assets/marcas/graphi-art/V_negro.png",
+    "V_blanco": "assets/marcas/graphi-art/V_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/graphi-art/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/graphi-art/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/graphi-art/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/graphi-art/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/graphi-art/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/graphi-art/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño Logo-CerberuS",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/graphi-art/2023-graphi-art-diseno-logo-cerberus-brd-log-ser-pub.pdf",
+     "peso": 8,
      "origen": "drive"
     }
    ]
@@ -2329,10 +5119,10 @@ window.PORTAFOLIO = {
    "nombre": "Gil Joyeria",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Joyería y relojería",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Joyeria ubicada en el centro comercial las palmas en la ciudad de cúcuta",
    "logos": {
     "H_blanco": "assets/marcas/gil-joyeria/H_blanco.png",
     "H_color": "assets/marcas/gil-joyeria/H_color.png",
@@ -2392,10 +5182,10 @@ window.PORTAFOLIO = {
    "nombre": "Gato Negro",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Medios, entretenimiento y eventos",
+   "subsector": "Música y artistas",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Productora musical",
    "logos": {
     "H_color": "assets/marcas/gato-negro/H_color.png",
     "H_negro": "assets/marcas/gato-negro/H_negro.png",
@@ -2410,7 +5200,152 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/gato-negro/gato-negro-animacion-logo-c-a-1080x1080.mp4",
+     "local": "assets/trabajos/gato-negro/2023-gato-negro-animacion-logo-c-a-1080x1080-ani-log-med-mus.mp4",
+     "peso": 3,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "dukmi",
+   "nombre": "Dukmi",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "Cocina oculta enfocada en la venta de comida de la ciudad de cucuta",
+   "logos": {
+    "H_negro": "assets/marcas/dukmi/H_negro.png",
+    "H_blanco": "assets/marcas/dukmi/H_blanco.png",
+    "H_color": "assets/marcas/dukmi/H_color.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Feed de Instagram",
+     "clase": "galeria",
+     "coleccion": "feed-ig",
+     "tipo": "Social media",
+     "sub": "Feed Instagram",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/dukmi/2023-dukmi-feed-completo-red-fee-ali-res.png",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dr-juan-castaneda",
+   "nombre": "Dr. Juan Castañeda",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Salud y bienestar",
+   "subsector": "Médicos especialistas",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {
+    "H_color": "assets/marcas/dr-juan-castaneda/H_color.png",
+    "H_negro": "assets/marcas/dr-juan-castaneda/H_negro.png",
+    "H_blanco": "assets/marcas/dr-juan-castaneda/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-fotografia-publicitaria-9-fot-cor-sal-med.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-fotografia-publicitaria-1-fot-cor-sal-med.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-fotografia-publicitaria-2-fot-cor-sal-med.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-fotografia-publicitaria-3-fot-cor-sal-med.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-fotografia-publicitaria-4-fot-cor-sal-med.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-fotografia-publicitaria-5-fot-cor-sal-med.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-fotografia-publicitaria-6-fot-cor-sal-med.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-fotografia-publicitaria-7-fot-cor-sal-med.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-fotografia-publicitaria-8-fot-cor-sal-med.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-reel-1-red-ree-sal-med.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-reel-2-red-ree-sal-med.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/dr-juan-castaneda/2023-dr-juan-castaneda-reel-3-red-ree-sal-med.mp4",
      "peso": 6,
      "origen": "drive"
     }
@@ -2424,7 +5359,7 @@ window.PORTAFOLIO = {
    "sector": "Salud y bienestar",
    "subsector": "Odontología y estética facial",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Odontologo",
    "logos": {
     "H_blanco": "assets/marcas/dr-albeiro-garcia/H_blanco.png",
     "H_color": "assets/marcas/dr-albeiro-garcia/H_color.png",
@@ -2439,8 +5374,8 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/dr-albeiro-garcia/dr-albeiro-garcia-intro-01.mp4",
-     "peso": 3,
+     "local": "assets/trabajos/dr-albeiro-garcia/2023-dr-albeiro-garcia-intro-01-ani-log-sal-odo.mp4",
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -2450,8 +5385,8 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/dr-albeiro-garcia/dr-albeiro-garcia-intro-02.mp4",
-     "peso": 10,
+     "local": "assets/trabajos/dr-albeiro-garcia/2023-dr-albeiro-garcia-intro-02-ani-log-sal-odo.mp4",
+     "peso": 1,
      "origen": "drive"
     }
    ]
@@ -2461,10 +5396,10 @@ window.PORTAFOLIO = {
    "nombre": "Distribuidora La 17",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Comercio y distribución",
-   "subsector": "Tiendas y distribuidoras",
+   "sector": "Construcción, inmobiliaria y hogar",
+   "subsector": "Acabados y materiales",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Empresa dedicada a la venta de pintura y demás material para resanar y cuidar las paredes",
    "logos": {
     "H_color": "assets/marcas/distribuidora-la-17/H_color.png",
     "H_negro": "assets/marcas/distribuidora-la-17/H_negro.png",
@@ -2484,47 +5419,47 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-fotografia-producto-4.jpg",
+       "src": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-fotografia-producto-4-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-fotografia-producto-5.jpg",
+       "src": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-fotografia-producto-5-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-fotografia-producto-6.jpg",
+       "src": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-fotografia-producto-6-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-fotografia-producto-7.jpg",
+       "src": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-fotografia-producto-7-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-fotografia-producto-8.jpg",
+       "src": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-fotografia-producto-8-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-fotografia-producto-9.jpg",
+       "src": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-fotografia-producto-9-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-fotografia-producto-1.jpg",
+       "src": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-fotografia-producto-1-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-fotografia-producto-2.jpg",
+       "src": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-fotografia-producto-2-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-fotografia-producto-3.jpg",
+       "src": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-fotografia-producto-3-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -2537,8 +5472,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-reel-1.mp4",
-     "peso": 9,
+     "local": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-reel-1-red-ree-con-aca.mp4",
+     "peso": 5,
      "origen": "drive"
     },
     {
@@ -2548,8 +5483,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-reel-2.mp4",
-     "peso": 12,
+     "local": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-reel-2-red-ree-con-aca.mp4",
+     "peso": 6,
      "origen": "drive"
     },
     {
@@ -2559,8 +5494,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/distribuidora-la-17/distribuidora-la-17-reel-3.mp4",
-     "peso": 6,
+     "local": "assets/trabajos/distribuidora-la-17/2023-distribuidora-la-17-reel-3-red-ree-con-aca.mp4",
+     "peso": 4,
      "origen": "drive"
     }
    ]
@@ -2570,10 +5505,10 @@ window.PORTAFOLIO = {
    "nombre": "Crack Marketing",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Servicios profesionales",
+   "subsector": "Agencias de publicidad y marketing",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Agencia de marketing de la ciudad de cucuta",
    "logos": {
     "H_negro": "assets/marcas/crack-marketing/H_negro.png",
     "H_blanco": "assets/marcas/crack-marketing/H_blanco.png"
@@ -2587,8 +5522,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/crack-marketing/crack-marketing-reel-8.mp4",
-     "peso": 13,
+     "local": "assets/trabajos/crack-marketing/2023-crack-marketing-reel-8-red-ree-ser-pub.mp4",
+     "peso": 10,
      "origen": "drive"
     },
     {
@@ -2598,8 +5533,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/crack-marketing/crack-marketing-reel-1.mp4",
-     "peso": 12,
+     "local": "assets/trabajos/crack-marketing/2023-crack-marketing-reel-1-red-ree-ser-pub.mp4",
+     "peso": 6,
      "origen": "drive"
     },
     {
@@ -2609,8 +5544,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/crack-marketing/crack-marketing-reel-2.mp4",
-     "peso": 8,
+     "local": "assets/trabajos/crack-marketing/2023-crack-marketing-reel-2-red-ree-ser-pub.mp4",
+     "peso": 4,
      "origen": "drive"
     },
     {
@@ -2620,8 +5555,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/crack-marketing/crack-marketing-reel-3.mp4",
-     "peso": 23,
+     "local": "assets/trabajos/crack-marketing/2023-crack-marketing-reel-3-red-ree-ser-pub.mp4",
+     "peso": 13,
      "origen": "drive"
     },
     {
@@ -2631,8 +5566,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/crack-marketing/crack-marketing-reel-4.mp4",
-     "peso": 15,
+     "local": "assets/trabajos/crack-marketing/2023-crack-marketing-reel-4-red-ree-ser-pub.mp4",
+     "peso": 7,
      "origen": "drive"
     },
     {
@@ -2642,8 +5577,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/crack-marketing/crack-marketing-reel-5.mp4",
-     "peso": 10,
+     "local": "assets/trabajos/crack-marketing/2023-crack-marketing-reel-5-red-ree-ser-pub.mp4",
+     "peso": 5,
      "origen": "drive"
     },
     {
@@ -2653,8 +5588,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/crack-marketing/crack-marketing-reel-6.mp4",
-     "peso": 28,
+     "local": "assets/trabajos/crack-marketing/2023-crack-marketing-reel-6-red-ree-ser-pub.mp4",
+     "peso": 13,
      "origen": "drive"
     },
     {
@@ -2664,8 +5599,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/crack-marketing/crack-marketing-reel-7.mp4",
-     "peso": 30,
+     "local": "assets/trabajos/crack-marketing/2023-crack-marketing-reel-7-red-ree-ser-pub.mp4",
+     "peso": 16,
      "origen": "drive"
     }
    ]
@@ -2675,10 +5610,10 @@ window.PORTAFOLIO = {
    "nombre": "Claudia Parra",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Gobierno y sector público",
+   "subsector": "Campañas políticas",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Politica del partido cambio radical, con aspiraciones a la alcaldía de los patios",
    "logos": {
     "H_color": "assets/marcas/claudia-parra/H_color.png",
     "H_negro": "assets/marcas/claudia-parra/H_negro.png",
@@ -2698,62 +5633,62 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-6.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-6-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-7.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-7-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-8.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-8-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-9.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-9-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-10.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-10-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-11.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-11-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-12.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-12-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-1.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-1-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-2.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-2-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-3.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-3-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-4.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-4-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/claudia-parra/claudia-parra-fotografia-publicitaria-5.jpg",
+       "src": "assets/trabajos/claudia-parra/2023-claudia-parra-fotografia-publicitaria-5-fot-cor-gob-pol.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -2766,8 +5701,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/claudia-parra/claudia-parra-reel-1.mp4",
-     "peso": 100,
+     "local": "assets/trabajos/claudia-parra/2023-claudia-parra-reel-1-red-ree-gob-pol.mp4",
+     "peso": 11,
      "origen": "drive"
     },
     {
@@ -2777,8 +5712,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/claudia-parra/claudia-parra-reel-2.mp4",
-     "peso": 24,
+     "local": "assets/trabajos/claudia-parra/2023-claudia-parra-reel-2-red-ree-gob-pol.mp4",
+     "peso": 2,
      "origen": "drive"
     },
     {
@@ -2788,8 +5723,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/claudia-parra/claudia-parra-reel-3.mp4",
-     "peso": 105,
+     "local": "assets/trabajos/claudia-parra/2023-claudia-parra-reel-3-red-ree-gob-pol.mp4",
+     "peso": 10,
      "origen": "drive"
     },
     {
@@ -2799,8 +5734,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/claudia-parra/claudia-parra-reel-4.mp4",
-     "peso": 57,
+     "local": "assets/trabajos/claudia-parra/2023-claudia-parra-reel-4-red-ree-gob-pol.mp4",
+     "peso": 6,
      "origen": "drive"
     }
    ]
@@ -2813,7 +5748,7 @@ window.PORTAFOLIO = {
    "sector": "Construcción, inmobiliaria y hogar",
    "subsector": "Acabados y materiales",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Empresa dedicada a la realización de valdosas, cerámicas, bloques, tejas y demás derivados de la arcilla del norte de santander",
    "logos": {
     "H_color": "assets/marcas/ceramicas-duke/H_color.png",
     "H_negro": "assets/marcas/ceramicas-duke/H_negro.png",
@@ -2833,102 +5768,102 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-producto-8.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-producto-8-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-producto-1.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-producto-1-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-producto-2.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-producto-2-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-producto-3.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-producto-3-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-producto-4.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-producto-4-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-producto-5.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-producto-5-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-producto-6.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-producto-6-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-producto-7.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-producto-7-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-12.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-12-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-1.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-1-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-2.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-2-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-3.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-3-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-4.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-4-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-5.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-5-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-6.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-6-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-7.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-7-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-8.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-8-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-9.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-9-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-10.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-10-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/ceramicas-duke/ceramicas-duke-fotografia-publicitaria-11.jpg",
+       "src": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-fotografia-publicitaria-11-fot-cor-con-aca.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -2941,8 +5876,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/ceramicas-duke/ceramicas-duke-reel-1.mp4",
-     "peso": 19,
+     "local": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-reel-1-red-ree-con-aca.mp4",
+     "peso": 14,
      "origen": "drive"
     },
     {
@@ -2952,8 +5887,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/ceramicas-duke/ceramicas-duke-reel-2.mp4",
-     "peso": 9,
+     "local": "assets/trabajos/ceramicas-duke/2023-ceramicas-duke-reel-2-red-ree-con-aca.mp4",
+     "peso": 4,
      "origen": "drive"
     }
    ]
@@ -2966,7 +5901,7 @@ window.PORTAFOLIO = {
    "sector": "Educación",
    "subsector": "Instituciones educativas",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Instituto educativo de cali",
    "logos": {
     "H_blanco": "assets/marcas/censei/H_blanco.png",
     "H_color": "assets/marcas/censei/H_color.png",
@@ -2984,8 +5919,518 @@ window.PORTAFOLIO = {
      "sub": "Manual de identidad corporativa",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/censei/censei-manual-corporativo.pdf",
+     "local": "assets/trabajos/censei/2023-censei-manual-corporativo-brd-man-edu-ins.pdf",
      "peso": 10,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "cda-verifycar",
+   "nombre": "CDA Verifycar",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Automotriz y motos",
+   "subsector": "Revisión técnico-mecánica (CDA)",
+   "alianza": "",
+   "descripcion": "Empresa con multiples sedes dedicadas a la realización de tecnicomecanica tanto de motos como de carros",
+   "logos": {
+    "H_color": "assets/marcas/cda-verifycar/H_color.png",
+    "H_negro": "assets/marcas/cda-verifycar/H_negro.png",
+    "H_blanco": "assets/marcas/cda-verifycar/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-17-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-1-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-2-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-3-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-4-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-5-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-6-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-7-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-8-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-9-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-10-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-11-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-12-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-13-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-14-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-15-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-16-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-18-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-19-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-20-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-21-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-22-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-23-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-32-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-33-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-24-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-25-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-26-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-27-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-28-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-29-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-30-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cda-verifycar/2023-cda-verifycar-fotografia-producto-31-fot-cor-aut-cda.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-1-red-ree-aut-cda.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-2-red-ree-aut-cda.mp4",
+     "peso": 14,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-4-red-ree-aut-cda.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-3-red-ree-aut-cda.mp4",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-8-red-ree-aut-cda.mp4",
+     "peso": 27,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-5-red-ree-aut-cda.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-7-red-ree-aut-cda.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-6-red-ree-aut-cda.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-10-red-ree-aut-cda.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-11-red-ree-aut-cda.mp4",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (12)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-12-red-ree-aut-cda.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (13)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-13-red-ree-aut-cda.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (14)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-14-red-ree-aut-cda.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cda-verifycar/2023-cda-verifycar-reel-9-red-ree-aut-cda.mp4",
+     "peso": 13,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "calzados-elite",
+   "nombre": "Calzados Elite",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Calzado",
+   "alianza": "",
+   "descripcion": "empresa peruana con sede en Colombia, dedicada a la venta online de calzado",
+   "logos": {
+    "H_blanco": "assets/marcas/calzados-elite/H_blanco.png",
+    "H_color": "assets/marcas/calzados-elite/H_color.png",
+    "H_negro": "assets/marcas/calzados-elite/H_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/calzados-elite/2023-calzados-elite-reel-1-red-ree-mod-cal.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/calzados-elite/2023-calzados-elite-reel-2-red-ree-mod-cal.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/calzados-elite/2023-calzados-elite-reel-3-red-ree-mod-cal.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/calzados-elite/2023-calzados-elite-reel-4-red-ree-mod-cal.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/calzados-elite/2023-calzados-elite-reel-5-red-ree-mod-cal.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/calzados-elite/2023-calzados-elite-reel-6-red-ree-mod-cal.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/calzados-elite/2023-calzados-elite-reel-7-red-ree-mod-cal.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/calzados-elite/2023-calzados-elite-reel-8-red-ree-mod-cal.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/calzados-elite/2023-calzados-elite-reel-9-red-ree-mod-cal.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/calzados-elite/2023-calzados-elite-reel-10-red-ree-mod-cal.mp4",
+     "peso": 6,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "bendito-viaje",
+   "nombre": "Bendito Viaje",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Turismo y hotelería",
+   "subsector": "Agencias de viajes",
+   "alianza": "",
+   "descripcion": "Agencia de viajes ubicada en cucuta",
+   "logos": {
+    "H_blanco": "assets/marcas/bendito-viaje/H_blanco.png",
+    "H_color": "assets/marcas/bendito-viaje/H_color.png",
+    "H_negro": "assets/marcas/bendito-viaje/H_negro.png",
+    "V_color": "assets/marcas/bendito-viaje/V_color.png",
+    "V_negro": "assets/marcas/bendito-viaje/V_negro.png",
+    "V_blanco": "assets/marcas/bendito-viaje/V_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Manual Corporativo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Manual de identidad corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bendito-viaje/2023-bendito-viaje-manual-corporativo-brd-man-tur-via.pdf",
+     "peso": 15,
      "origen": "drive"
     }
    ]
@@ -2995,10 +6440,10 @@ window.PORTAFOLIO = {
    "nombre": "Bambu",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Restaurante de comida venezolana ubicado en los patios",
    "logos": {
     "H_blanco": "assets/marcas/bambu/H_blanco.png",
     "H_color": "assets/marcas/bambu/H_color.png",
@@ -3018,7 +6463,7 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/bambu/bambu-feed-completo.jpg",
+       "src": "assets/trabajos/bambu/2023-bambu-feed-completo-red-fee-ali-res.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -3031,7 +6476,7 @@ window.PORTAFOLIO = {
      "sub": "Menús y cartas",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/bambu/bambu-menu.jpg",
+     "local": "assets/trabajos/bambu/2023-bambu-menu-edi-men-ali-res.jpg",
      "peso": 0,
      "origen": "drive"
     },
@@ -3042,7 +6487,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/bambu/bambu-reel-hamburguesa-panda-grill.mp4",
+     "local": "assets/trabajos/bambu/2023-bambu-reel-hamburguesa-panda-grill-red-ree-ali-res.mp4",
      "peso": 6,
      "origen": "drive"
     },
@@ -3053,7 +6498,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/bambu/bambu-reel-pepito-mixto.mp4",
+     "local": "assets/trabajos/bambu/2023-bambu-reel-pepito-mixto-red-ree-ali-res.mp4",
      "peso": 9,
      "origen": "drive"
     },
@@ -3064,7 +6509,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/bambu/bambu-reel-picada-pequena.mp4",
+     "local": "assets/trabajos/bambu/2023-bambu-reel-picada-pequena-red-ree-ali-res.mp4",
      "peso": 12,
      "origen": "drive"
     },
@@ -3075,8 +6520,290 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/bambu/bambu-intro.mp4",
+     "local": "assets/trabajos/bambu/2023-bambu-intro-ani-log-ali-res.mp4",
      "peso": 2,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "bajaj-automarcol",
+   "nombre": "Bajaj Automarcol",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Automotriz y motos",
+   "subsector": "Concesionarios de motos",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {
+    "H_color": "assets/marcas/bajaj-automarcol/H_color.png",
+    "H_negro": "assets/marcas/bajaj-automarcol/H_negro.png",
+    "H_blanco": "assets/marcas/bajaj-automarcol/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-24-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-1-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-2-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-3-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-4-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-5-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-6-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-7-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-8-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-9-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-10-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-11-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-12-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-13-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-14-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-15-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-16-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-17-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-18-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-19-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-20-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-22-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-25-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-26-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-21-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-fotografia-producto-23-fot-cor-aut-mot.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-1-red-ree-aut-mot.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-2-red-ree-aut-mot.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-3-red-ree-aut-mot.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-4-red-ree-aut-mot.mp4",
+     "peso": 14,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-5-red-ree-aut-mot.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-6-red-ree-aut-mot.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-7-red-ree-aut-mot.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-8-red-ree-aut-mot.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-9-red-ree-aut-mot.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-10-red-ree-aut-mot.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajaj-automarcol/2023-bajaj-automarcol-reel-11-red-ree-aut-mot.mp4",
+     "peso": 17,
      "origen": "drive"
     }
    ]
@@ -3086,10 +6813,10 @@ window.PORTAFOLIO = {
    "nombre": "Avicola Andina",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Alimentos y bebidas",
-   "subsector": "Productos alimenticios",
+   "sector": "Agro y campo",
+   "subsector": "Ganadería y avícola",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Una empresa ubicada en Venezuela en los andes, dedicada a la producción avicola",
    "logos": {
     "H_color": "assets/marcas/avicola-andina/H_color.png",
     "H_negro": "assets/marcas/avicola-andina/H_negro.png",
@@ -3104,7 +6831,7 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/avicola-andina/avicola-andina-intro.mp4",
+     "local": "assets/trabajos/avicola-andina/2023-avicola-andina-intro-ani-log-agr-gan.mp4",
      "peso": 2,
      "origen": "drive"
     }
@@ -3115,10 +6842,10 @@ window.PORTAFOLIO = {
    "nombre": "Asesnort",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Fundaciones, iglesias y gremios",
+   "subsector": "Gremios y asociaciones",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "La Asociación de Estaciones de Servicio de Norte de Santander (ASESNORT) orienta, representa y defiende los intereses de los distribuidores minoristas de combustibles y biocombustibles en el departamento",
    "logos": {
     "H_color": "assets/marcas/asesnort/H_color.png",
     "H_negro": "assets/marcas/asesnort/H_negro.png",
@@ -3138,27 +6865,27 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/asesnort/asesnort-fotografia-publicitaria-1.jpg",
+       "src": "assets/trabajos/asesnort/2023-asesnort-fotografia-publicitaria-1-fot-cor-ong-gre.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/asesnort/asesnort-fotografia-publicitaria-2.jpg",
+       "src": "assets/trabajos/asesnort/2023-asesnort-fotografia-publicitaria-2-fot-cor-ong-gre.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/asesnort/asesnort-fotografia-publicitaria-3.jpg",
+       "src": "assets/trabajos/asesnort/2023-asesnort-fotografia-publicitaria-3-fot-cor-ong-gre.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/asesnort/asesnort-fotografia-publicitaria-4.jpg",
+       "src": "assets/trabajos/asesnort/2023-asesnort-fotografia-publicitaria-4-fot-cor-ong-gre.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/asesnort/asesnort-fotografia-publicitaria-5.jpg",
+       "src": "assets/trabajos/asesnort/2023-asesnort-fotografia-publicitaria-5-fot-cor-ong-gre.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -3171,8 +6898,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/asesnort/asesnort-reel-1.mp4",
-     "peso": 16,
+     "local": "assets/trabajos/asesnort/2023-asesnort-reel-1-red-ree-ong-gre.mp4",
+     "peso": 9,
      "origen": "drive"
     },
     {
@@ -3182,8 +6909,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/asesnort/asesnort-reel-2.mp4",
-     "peso": 41,
+     "local": "assets/trabajos/asesnort/2023-asesnort-reel-2-red-ree-ong-gre.mp4",
+     "peso": 34,
      "origen": "drive"
     }
    ]
@@ -3196,7 +6923,7 @@ window.PORTAFOLIO = {
    "sector": "Alimentos y bebidas",
    "subsector": "Productos alimenticios",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Empresa dedicada a la producción de arroz del norte de santander",
    "logos": {
     "H_color": "assets/marcas/arroz-san-andres/H_color.png",
     "H_negro": "assets/marcas/arroz-san-andres/H_negro.png",
@@ -3216,57 +6943,57 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-fotografia-producto-10.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-fotografia-producto-10-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-fotografia-producto-11.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-fotografia-producto-11-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-fotografia-producto-1.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-fotografia-producto-1-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-fotografia-producto-7.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-fotografia-producto-7-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-fotografia-producto-8.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-fotografia-producto-8-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-fotografia-producto-9.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-fotografia-producto-9-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-fotografia-producto-14.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-fotografia-producto-14-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-fotografia-producto-12.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-fotografia-producto-12-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-fotografia-producto-13.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-fotografia-producto-13-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-2023-mayo-1455.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-2023-mayo-1455-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/arroz-san-andres/arroz-san-andres-2023-mayo-1450.jpg",
+       "src": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-2023-mayo-1450-fot-cor-ali-pro.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -3279,8 +7006,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/arroz-san-andres/arroz-san-andres-reel-4.mp4",
-     "peso": 15,
+     "local": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-reel-4-red-ree-ali-pro.mp4",
+     "peso": 7,
      "origen": "drive"
     },
     {
@@ -3290,8 +7017,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/arroz-san-andres/arroz-san-andres-reel-3.mp4",
-     "peso": 31,
+     "local": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-reel-3-red-ree-ali-pro.mp4",
+     "peso": 18,
      "origen": "drive"
     },
     {
@@ -3301,8 +7028,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/arroz-san-andres/arroz-san-andres-reel-2.mp4",
-     "peso": 32,
+     "local": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-reel-2-red-ree-ali-pro.mp4",
+     "peso": 19,
      "origen": "drive"
     },
     {
@@ -3312,8 +7039,554 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/arroz-san-andres/arroz-san-andres-reel-1.mp4",
+     "local": "assets/trabajos/arroz-san-andres/2023-arroz-san-andres-reel-1-red-ree-ali-pro.mp4",
+     "peso": 4,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "arroz-mora",
+   "nombre": "Arroz Mora",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Productos alimenticios",
+   "alianza": "",
+   "descripcion": "Empresa dedicada a la producción de arroz del norte de santander",
+   "logos": {
+    "H_color": "assets/marcas/arroz-mora/H_color.png",
+    "H_negro": "assets/marcas/arroz-mora/H_negro.png",
+    "H_blanco": "assets/marcas/arroz-mora/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-12-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-2-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-1-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-3-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-4-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-5-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-6-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-7-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-8-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-9-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-10-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/arroz-mora/2023-arroz-mora-fotografia-producto-11-fot-cor-ali-pro.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/arroz-mora/2023-arroz-mora-reel-1-red-ree-ali-pro.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/arroz-mora/2023-arroz-mora-reel-2-red-ree-ali-pro.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/arroz-mora/2023-arroz-mora-reel-3-red-ree-ali-pro.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/arroz-mora/2023-arroz-mora-reel-4-red-ree-ali-pro.mp4",
+     "peso": 17,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/arroz-mora/2023-arroz-mora-reel-5-red-ree-ali-pro.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/arroz-mora/2023-arroz-mora-reel-6-red-ree-ali-pro.mp4",
+     "peso": 9,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "aneliz-creative",
+   "nombre": "Aneliz Creative",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Medios, entretenimiento y eventos",
+   "subsector": "Eventos y decoración",
+   "alianza": "",
+   "descripcion": "Empresa dedicada al entretenimiento infantil en fiestas, también hace decoraciones de fiestas infantiles",
+   "logos": {
+    "H_blanco": "assets/marcas/aneliz-creative/H_blanco.png",
+    "H_color": "assets/marcas/aneliz-creative/H_color.png",
+    "H_negro": "assets/marcas/aneliz-creative/H_negro.png",
+    "V_color": "assets/marcas/aneliz-creative/V_color.png",
+    "V_negro": "assets/marcas/aneliz-creative/V_negro.png",
+    "V_blanco": "assets/marcas/aneliz-creative/V_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/aneliz-creative/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/aneliz-creative/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/aneliz-creative/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/aneliz-creative/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/aneliz-creative/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/aneliz-creative/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/aneliz-creative/2023-aneliz-creative-diseno-logo-brd-log-med-eve.pdf",
+     "peso": 24,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "akt-area-motos-cucuta",
+   "nombre": "AKT Área Motos Cúcuta",
+   "anio": "2023",
+   "fecha": "2023-01-01",
+   "sector": "Automotriz y motos",
+   "subsector": "Concesionarios de motos",
+   "alianza": "",
+   "descripcion": "es un establecimiento comercial autorizado que funciona como punto de venta, asesoría y servicio de la marca colombiana AKT Motos en la ciudad de Cúcuta.",
+   "logos": {
+    "H_color": "assets/marcas/akt-area-motos-cucuta/H_color.png",
+    "H_negro": "assets/marcas/akt-area-motos-cucuta/H_negro.png",
+    "H_blanco": "assets/marcas/akt-area-motos-cucuta/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel (27)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-27-red-ree-aut-mot.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (26)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-26-red-ree-aut-mot.mp4",
+     "peso": 14,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (25)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-25-red-ree-aut-mot.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (20)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-20-red-ree-aut-mot.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (19)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-19-red-ree-aut-mot.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (18)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-18-red-ree-aut-mot.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (24)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-24-red-ree-aut-mot.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (23)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-23-red-ree-aut-mot.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (22)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-22-red-ree-aut-mot.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (21)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-21-red-ree-aut-mot.mp4",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-3-red-ree-aut-mot.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-2-red-ree-aut-mot.mp4",
      "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-10-red-ree-aut-mot.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-9-red-ree-aut-mot.mp4",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (13)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-13-red-ree-aut-mot.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-11-red-ree-aut-mot.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (12)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-12-red-ree-aut-mot.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (16)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-16-red-ree-aut-mot.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (17)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-17-red-ree-aut-mot.mp4",
+     "peso": 18,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (15)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-15-red-ree-aut-mot.mp4",
+     "peso": 19,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (14)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-14-red-ree-aut-mot.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-1-red-ree-aut-mot.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-4-red-ree-aut-mot.mp4",
+     "peso": 23,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-5-red-ree-aut-mot.mp4",
+     "peso": 17,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-8-red-ree-aut-mot.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-7-red-ree-aut-mot.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/akt-area-motos-cucuta/2023-akt-area-motos-cucuta-reel-6-red-ree-aut-mot.mp4",
+     "peso": 15,
      "origen": "drive"
     }
    ]
@@ -3323,10 +7596,10 @@ window.PORTAFOLIO = {
    "nombre": "2Brothers E&M",
    "anio": "2023",
    "fecha": "2023-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Servicios profesionales",
+   "subsector": "Agencias de publicidad y marketing",
    "alianza": "",
-   "descripcion": "",
+   "descripcion": "Empresa relacionada con la creación de contenido y marketing en la ciudad de cúcuta",
    "logos": {
     "H_color": "assets/marcas/2brothers-e-m/H_color.png",
     "H_negro": "assets/marcas/2brothers-e-m/H_negro.png",
@@ -3341,8 +7614,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/2brothers-e-m/2brothers-e-m-reel-1.mp4",
-     "peso": 12,
+     "local": "assets/trabajos/2brothers-e-m/2023-2brothers-e-m-reel-1-red-ree-ser-pub.mp4",
+     "peso": 2,
      "origen": "drive"
     },
     {
@@ -3352,8 +7625,8 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/2brothers-e-m/2brothers-e-m-reel-2.mp4",
-     "peso": 20,
+     "local": "assets/trabajos/2brothers-e-m/2023-2brothers-e-m-reel-2-red-ree-ser-pub.mp4",
+     "peso": 4,
      "origen": "drive"
     }
    ]
@@ -3415,7 +7688,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/yebi/2022-yebi-aceite-omega-catalogo-whatsapp-business-2-edi-cat-sal-far.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -3426,7 +7699,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/yebi/2022-yebi-aceite-omega-catalogo-whatsapp-business-3-edi-cat-sal-far.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -3470,7 +7743,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/yebi/2022-yebi-aceite-omega-catalogo-whatsapp-business-7-edi-cat-sal-far.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -3730,7 +8003,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/kdosh/2022-kdosh-reel-break-dance-02-red-ree-mod-rop.mp4",
-     "peso": 33,
+     "peso": 6,
      "origen": "drive"
     },
     {
@@ -3741,7 +8014,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/kdosh/2022-kdosh-reel-rollerblading-01-red-ree-mod-rop.mp4",
-     "peso": 50,
+     "peso": 10,
      "origen": "drive"
     },
     {
@@ -3752,7 +8025,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/kdosh/2022-kdosh-reel-rollerblading-02-red-ree-mod-rop.mp4",
-     "peso": 40,
+     "peso": 7,
      "origen": "drive"
     },
     {
@@ -3763,7 +8036,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/kdosh/2022-kdosh-reel-stun-dt-125-01-red-ree-mod-rop.mp4",
-     "peso": 170,
+     "peso": 36,
      "origen": "drive"
     }
    ]
@@ -3910,7 +8183,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/droguerias-guasimales-plus/2022-droguerias-guasimales-plus-curiosidades-03a-red-ree-sal-far.mp4",
-     "peso": 19,
+     "peso": 2,
      "origen": "drive"
     },
     {
@@ -3921,7 +8194,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/droguerias-guasimales-plus/2022-droguerias-guasimales-plus-intro-ani-log-sal-far.mp4",
-     "peso": 3,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -4006,7 +8279,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/designio/2022-designio-virgenes-01-edi-ilu-com-per.jpg",
-     "peso": 12,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -4017,7 +8290,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/designio/2022-designio-virgenes-02-edi-ilu-com-per.jpg",
-     "peso": 13,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -4028,7 +8301,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/designio/2022-designio-virgenes-03-edi-ilu-com-per.jpg",
-     "peso": 13,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -4039,7 +8312,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/designio/2022-designio-virgenes-04-edi-ilu-com-per.jpg",
-     "peso": 12,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -4050,7 +8323,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/designio/2022-designio-virgenes-05-edi-ilu-com-per.jpg",
-     "peso": 12,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -4373,7 +8646,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/aba/2022-aba-mockup-etiquetas-mani-salada-brd-sen-ali-pro.jpg",
-     "peso": 4,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -4384,7 +8657,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/aba/2022-aba-nueces-catalogo-whatsapp-business-10-edi-cat-ali-pro.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -4505,7 +8778,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/aba/2022-aba-nueces-catalogo-whatsapp-business-2-edi-cat-ali-pro.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -4549,7 +8822,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/aba/2022-aba-nueces-catalogo-whatsapp-business-6-edi-cat-ali-pro.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -4763,7 +9036,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/legado/2021-legado-mockup-caja-feliz-brd-sen-ali-res.png",
-     "peso": 9,
+     "peso": 2,
      "origen": "drive"
     },
     {
@@ -4774,7 +9047,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/legado/2023-04-legado-reel-red-ree-ali-res.mp4",
-     "peso": 25,
+     "peso": 14,
      "origen": "drive"
     }
    ]
@@ -4997,7 +9270,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/catatumbo-natural-business/2021-catatumbo-natural-business-diseno-arana-01-brd-sen-ali-pro.jpg",
-     "peso": 16,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -5008,7 +9281,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/catatumbo-natural-business/2021-catatumbo-natural-business-diseno-arana-02-brd-sen-ali-pro.jpg",
-     "peso": 13,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -5241,7 +9514,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/puerto-seguro/2020-puerto-seguro-catalogo-whatsapp-business-8-edi-cat-ali-res.jpg",
-     "peso": 4,
+     "peso": 1,
      "origen": "drive"
     },
     {
@@ -5252,7 +9525,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/puerto-seguro/2020-puerto-seguro-catalogo-whatsapp-business-1-edi-cat-ali-res.jpg",
-     "peso": 2,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -5263,7 +9536,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/puerto-seguro/2020-puerto-seguro-catalogo-whatsapp-business-2-edi-cat-ali-res.jpg",
-     "peso": 4,
+     "peso": 1,
      "origen": "drive"
     },
     {
@@ -5274,7 +9547,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/puerto-seguro/2020-puerto-seguro-catalogo-whatsapp-business-3-edi-cat-ali-res.jpg",
-     "peso": 4,
+     "peso": 1,
      "origen": "drive"
     },
     {
@@ -5285,7 +9558,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/puerto-seguro/2020-puerto-seguro-catalogo-whatsapp-business-4-edi-cat-ali-res.jpg",
-     "peso": 4,
+     "peso": 1,
      "origen": "drive"
     },
     {
@@ -5296,7 +9569,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/puerto-seguro/2020-puerto-seguro-catalogo-whatsapp-business-5-edi-cat-ali-res.jpg",
-     "peso": 4,
+     "peso": 1,
      "origen": "drive"
     },
     {
@@ -5307,7 +9580,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/puerto-seguro/2020-puerto-seguro-catalogo-whatsapp-business-6-edi-cat-ali-res.jpg",
-     "peso": 4,
+     "peso": 1,
      "origen": "drive"
     },
     {
@@ -5318,7 +9591,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/puerto-seguro/2020-puerto-seguro-catalogo-whatsapp-business-7-edi-cat-ali-res.jpg",
-     "peso": 3,
+     "peso": 1,
      "origen": "drive"
     }
    ]
@@ -5557,7 +9830,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/los-animales-de-noe/2020-los-animales-de-noe-mockup-papeleria-corporativa-brd-pap-sal-vet.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -5568,7 +9841,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/los-animales-de-noe/2020-los-animales-de-noe-tarjetas-de-presentacion-01-brd-pap-sal-vet.jpg",
-     "peso": 7,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -5579,7 +9852,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/los-animales-de-noe/2020-los-animales-de-noe-hoja-membrete-presentacion-01-brd-pap-sal-vet.jpg",
-     "peso": 9,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -5590,7 +9863,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/los-animales-de-noe/2020-los-animales-de-noe-mockup-carnet-brd-pap-sal-vet.jpg",
-     "peso": 3,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -5601,7 +9874,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/los-animales-de-noe/2020-los-animales-de-noe-intro-ani-log-sal-vet.mp4",
-     "peso": 4,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -5801,7 +10074,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/entre-pinceles/2020-entre-pinceles-triptico-01-brd-pap-com-per.jpg",
-     "peso": 3,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -5812,7 +10085,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/entre-pinceles/2020-entre-pinceles-triptico-02-brd-pap-com-per.jpg",
-     "peso": 3,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -5923,7 +10196,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/u-make/2019-u-make-la-robotica-red-ree-edu-cur.mp4",
-     "peso": 62,
+     "peso": 7,
      "origen": "drive"
     }
    ]
@@ -6044,7 +10317,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/terranova/2019-terranova-somos-profesionales-red-ree-con-mue.mp4",
-     "peso": 60,
+     "peso": 4,
      "origen": "drive"
     }
    ]
@@ -6073,7 +10346,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/superfacil-com/2019-superfacil-com-banner-brd-sen-com-sup.jpg",
-     "peso": 51,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -6129,7 +10402,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/style-glamour/2019-style-glamour-volantes-brd-pap-mod-pel.pdf",
-     "peso": 11,
+     "peso": 6,
      "origen": "drive"
     }
    ]
@@ -6185,7 +10458,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/servimpresiones-la-torre/2019-servimpresores-la-torre-aviso-fachada-banner-brd-sen-ind-imp.jpg",
-     "peso": 68,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -6207,7 +10480,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/servimpresiones-la-torre/2019-servimpresores-la-torre-vidrio-fachada-brd-sen-ind-imp.jpg",
-     "peso": 5,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -6236,7 +10509,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/secretos-de-mujer/2019-secretos-de-mujer-tarjetas-de-presentacion-brd-pap-mod-pel.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -6247,7 +10520,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/secretos-de-mujer/2019-secretos-de-mujer-banner-arana-brd-sen-mod-pel.jpg",
-     "peso": 72,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -6852,7 +11125,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/osorios-import/2019-osorios-import-aviso-fachada-der-export-brd-sen-aut-rep.jpg",
-     "peso": 27,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -6863,7 +11136,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/osorios-import/2019-osorios-import-aviso-fachada-izq-export-brd-sen-aut-rep.jpg",
-     "peso": 20,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -6984,7 +11257,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ortho-medic/2019-ortho-medic-carnet-brd-pap-sal-odo.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -7046,7 +11319,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/origami-studio/2019-origami-studio-services-red-ree-pso-mpe.mp4",
-     "peso": 36,
+     "peso": 3,
      "origen": "drive"
     },
     {
@@ -7057,7 +11330,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/origami-studio/2019-origami-studio-intro-ani-log-pso-mpe.mp4",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -7334,7 +11607,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ipanema/2019-ipanema-portada-de-cuaderno-brd-pap-mod-cal.jpg",
-     "peso": 8,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -7430,7 +11703,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/intermedios-publicidad/2019-intermedios-publicidad-12-anos-red-ree-ser-pub.mp4",
-     "peso": 55,
+     "peso": 4,
      "origen": "drive"
     },
     {
@@ -7441,7 +11714,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/intermedios-publicidad/2019-intermedios-publicidad-ubicacion-red-ree-ser-pub.mp4",
-     "peso": 52,
+     "peso": 4,
      "origen": "drive"
     }
    ]
@@ -7571,7 +11844,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/inmobiliria-aval/2019-inmobiliaria-aval-tarjetas-de-presentacion-01-brd-pap-con-inm.jpg",
-     "peso": 2,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -7582,7 +11855,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/inmobiliria-aval/2019-inmobiliaria-aval-tarjetas-de-presentacion-02-brd-pap-con-inm.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -7593,7 +11866,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/inmobiliria-aval/2019-inmobiliaria-aval-volantes-01-brd-pap-con-inm.png",
-     "peso": 3,
+     "peso": 2,
      "origen": "drive"
     },
     {
@@ -7615,7 +11888,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/inmobiliria-aval/2019-inmoviliaria-aval-mockup-carnets-brd-pap-con-inm.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -7659,7 +11932,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/inmobiliria-aval/2019-inmobiliaria-aval-mockup-volantes-brd-pap-con-inm.jpg",
-     "peso": 3,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -7670,7 +11943,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/inmobiliria-aval/2019-inmobiliria-aval-montaje-04-brd-sen-con-inm.jpg",
-     "peso": 5,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -7795,7 +12068,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/heladeria-eiss/2019-heladeria-eiss-mockup-tarjetas-de-presentacion-brd-pap-ali-caf.jpg",
-     "peso": 8,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -7806,7 +12079,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/heladeria-eiss/2019-heladeria-eiss-aviso-brd-sen-ali-caf.jpg",
-     "peso": 20,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -7817,7 +12090,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/heladeria-eiss/2019-heladeria-eiss-banner-brd-sen-ali-caf.jpg",
-     "peso": 3,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -7890,7 +12163,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/health-technologies/2019-health-technologies-banner-brd-sen-com-ele.jpg",
-     "peso": 11,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -7974,7 +12247,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/glasse-fruit/2019-glasse-fruit-etiqueta-mermelada-1-pac-eti-ali-pro.jpg",
-     "peso": 7,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -7985,7 +12258,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/glasse-fruit/2019-glasse-fruit-etiqueta-mermelada-2-pac-eti-ali-pro.jpg",
-     "peso": 10,
+     "peso": 1,
      "origen": "drive"
     },
     {
@@ -7996,7 +12269,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/glasse-fruit/2019-glasse-fruit-etiqueta-mermelada-3-pac-eti-ali-pro.jpg",
-     "peso": 6,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -8142,7 +12415,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fragola-cioccolato/2019-fragola-cioccolato-menu-01-edi-men-ali-caf.jpg",
-     "peso": 5,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -8153,7 +12426,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fragola-cioccolato/2019-fragola-cioccolato-menu-02-edi-men-ali-caf.jpg",
-     "peso": 5,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -8312,7 +12585,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/d-toches/2019-d-toches-menu-01-edi-men-ali-res.jpg",
-     "peso": 6,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -8323,7 +12596,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/d-toches/2019-d-toches-menu-02-edi-men-ali-res.jpg",
-     "peso": 8,
+     "peso": 1,
      "origen": "drive"
     }
    ]
@@ -8352,7 +12625,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/cenas-navidenas/2019-cenas-navidenas-banner-brd-sen-ali-pro.png",
-     "peso": 14,
+     "peso": 4,
      "origen": "drive"
     }
    ]
@@ -9154,7 +13427,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-11-edi-cat-com-per.jpg",
-     "peso": 3,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9165,7 +13438,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-00-edi-cat-com-per.jpg",
-     "peso": 2,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9176,7 +13449,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-01-edi-cat-com-per.jpg",
-     "peso": 3,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9187,7 +13460,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-02-edi-cat-com-per.jpg",
-     "peso": 4,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9198,7 +13471,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-03-edi-cat-com-per.jpg",
-     "peso": 4,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9209,7 +13482,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-04-edi-cat-com-per.jpg",
-     "peso": 4,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9220,7 +13493,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-05-edi-cat-com-per.jpg",
-     "peso": 4,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9231,7 +13504,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-06-edi-cat-com-per.jpg",
-     "peso": 3,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9242,7 +13515,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-07-edi-cat-com-per.jpg",
-     "peso": 3,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9253,7 +13526,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-08-edi-cat-com-per.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9264,7 +13537,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-09-edi-cat-com-per.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9275,7 +13548,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/ihobby/2018-03-ihobby-catalogo-pag-10-edi-cat-com-per.jpg",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -9555,7 +13828,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-fotomilenio-stop-motion-magazing-red-ree-com-per.mp4",
-     "peso": 28,
+     "peso": 2,
      "origen": "drive"
     },
     {
@@ -9566,7 +13839,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-fotomilenio-stop-motion-estiba-red-ree-com-per.mp4",
-     "peso": 33,
+     "peso": 2,
      "origen": "drive"
     },
     {
@@ -9577,7 +13850,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-fotomilenio-dia-del-padre-red-ree-com-per.mp4",
-     "peso": 45,
+     "peso": 3,
      "origen": "drive"
     },
     {
@@ -9588,7 +13861,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-1.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9599,7 +13872,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-2.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9610,7 +13883,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-3.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9621,7 +13894,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-4.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9632,7 +13905,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-5.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9643,7 +13916,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-6.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9654,7 +13927,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-7.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9665,7 +13938,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-8.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9676,7 +13949,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-9.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9687,7 +13960,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-10.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9698,7 +13971,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-11.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9709,7 +13982,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-12.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9720,7 +13993,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-13.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9731,7 +14004,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-14.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9742,7 +14015,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-15.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9753,7 +14026,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-16.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9764,7 +14037,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-17.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9775,7 +14048,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-18.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9786,7 +14059,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-19.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     },
     {
@@ -9797,7 +14070,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/fotomilenio/2018-03-fotomilenio-sti-dig-med-fot-20.png",
-     "peso": 1,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -9871,7 +14144,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/dolce-riposo/2017-11-dolce-riposo-ani-log-ser-fun.mp4",
-     "peso": 10,
+     "peso": 0,
      "origen": "drive"
     }
    ]
@@ -9945,7 +14218,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/bantrophy/2017-08-bantrophy-ani-log-com-tro.mp4",
-     "peso": 52,
+     "peso": 6,
      "origen": "drive"
     }
    ]
@@ -10204,7 +14477,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/la-boulangerie/2017-02-la-boulangerie-catalogo-whatsapp-business-red-ree-ali-pan.mp4",
-     "peso": 51,
+     "peso": 3,
      "origen": "drive"
     },
     {
@@ -10215,7 +14488,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/la-boulangerie/2017-02-la-boulangerie-rojo-infinito-red-ree-ali-pan.mp4",
-     "peso": 183,
+     "peso": 23,
      "origen": "drive"
     },
     {
@@ -10226,7 +14499,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/la-boulangerie/2017-la-boulangerie-ani-log-ali-pan.mp4",
-     "peso": 14,
+     "peso": 1,
      "origen": "drive"
     }
    ]
@@ -10294,14 +14567,14 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/cerberus/2015-04-cerberus-ani-log-med-gam.mp4",
-     "peso": 24,
+     "peso": 1,
      "origen": "drive"
     }
    ]
   },
   {
-   "id": "terpel-eds-bocono",
-   "nombre": "Terpel EDS Boconó",
+   "id": "el-paraiso",
+   "nombre": "El Paraiso",
    "anio": "0000",
    "fecha": "0000-01-01",
    "sector": "Sin clasificar",
@@ -10309,2066 +14582,56 @@ window.PORTAFOLIO = {
    "alianza": "",
    "descripcion": "",
    "logos": {
-    "H_negro": "assets/marcas/terpel-eds-bocono/H_negro.png",
-    "V_blanco": "assets/marcas/terpel-eds-bocono/V_blanco.png",
-    "H_blanco": "assets/marcas/terpel-eds-bocono/H_blanco.png",
-    "V_color": "assets/marcas/terpel-eds-bocono/V_color.png",
-    "H_color": "assets/marcas/terpel-eds-bocono/H_color.png",
-    "V_negro": "assets/marcas/terpel-eds-bocono/V_negro.png"
+    "H_negro": "assets/marcas/el-paraiso/H_negro.png",
+    "H_blanco": "assets/marcas/el-paraiso/H_blanco.png",
+    "H_color": "assets/marcas/el-paraiso/H_color.png",
+    "V_blanco": "assets/marcas/el-paraiso/V_blanco.png",
+    "V_color": "assets/marcas/el-paraiso/V_color.png",
+    "V_negro": "assets/marcas/el-paraiso/V_negro.png"
    },
    "origen": "Drive",
    "trabajos": [
     {
-     "titulo": "Fotografía",
+     "titulo": "Diseño de logotipo",
      "clase": "galeria",
-     "coleccion": "collage",
-     "tipo": "Fotografía",
-     "sub": "",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
      "descripcion": "",
      "drive": "",
      "local": "",
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-6.jpg",
-       "nombre": "",
+       "src": "assets/marcas/el-paraiso/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/el-paraiso/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-7.jpg",
-       "nombre": "",
+       "src": "assets/marcas/el-paraiso/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/el-paraiso/V_blanco.png",
+       "nombre": "Vertical · Blanco",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-8.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
+       "src": "assets/marcas/el-paraiso/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
       },
       {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-9.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-10.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-11.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-12.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-13.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-5.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-4.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-3.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-2.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-1.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-14.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-15.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-16.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-17.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-18.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-19.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-20.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-21.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-22.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-23.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-24.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-25.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-fotografia-producto-26.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
+       "src": "assets/marcas/el-paraiso/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
       }
      ]
-    },
-    {
-     "titulo": "Reel (1)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-reel-1.mp4",
-     "peso": 14,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (2)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-reel-2.mp4",
-     "peso": 14,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (3)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-reel-3.mp4",
-     "peso": 13,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (4)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-reel-4.mp4",
-     "peso": 10,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (5)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-reel-5.mp4",
-     "peso": 32,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (6)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-reel-6.mp4",
-     "peso": 7,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (7)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/terpel-eds-bocono/terpel-eds-bocono-reel-7.mp4",
-     "peso": 32,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "red-salud-ips",
-   "nombre": "Red Salud IPS",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_blanco": "assets/marcas/red-salud-ips/H_blanco.png",
-    "H_color": "assets/marcas/red-salud-ips/H_color.png",
-    "H_negro": "assets/marcas/red-salud-ips/H_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Fotografía",
-     "clase": "galeria",
-     "coleccion": "collage",
-     "tipo": "Fotografía",
-     "sub": "",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-12.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-1.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-2.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-3.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-4.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-5.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-6.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-7.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-8.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-9.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-10.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/red-salud-ips/red-salud-ips-fotografia-publicitaria-11.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      }
-     ]
-    },
-    {
-     "titulo": "Reel (1)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/red-salud-ips/red-salud-ips-reel-1.mp4",
-     "peso": 10,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (2)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/red-salud-ips/red-salud-ips-reel-2.mp4",
-     "peso": 10,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (3)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/red-salud-ips/red-salud-ips-reel-3.mp4",
-     "peso": 9,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (4)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/red-salud-ips/red-salud-ips-reel-4.mp4",
-     "peso": 9,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (5)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/red-salud-ips/red-salud-ips-reel-5.mp4",
-     "peso": 19,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (6)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/red-salud-ips/red-salud-ips-reel-6.mp4",
-     "peso": 12,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (7)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/red-salud-ips/red-salud-ips-reel-7.mp4",
-     "peso": 9,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "nona-pepa",
-   "nombre": "Nona Pepa",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_color": "assets/marcas/nona-pepa/H_color.png",
-    "H_negro": "assets/marcas/nona-pepa/H_negro.png",
-    "H_blanco": "assets/marcas/nona-pepa/H_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Fotografía",
-     "clase": "galeria",
-     "coleccion": "collage",
-     "tipo": "Fotografía",
-     "sub": "",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-37.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-18.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-19.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-20.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-21.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-22.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-23.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-14.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-15.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-16.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-17.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-12.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-13.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-10.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-11.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-5.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-6.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-7.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-8.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-9.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-1.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-2.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-3.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-4.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-30.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-31.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-32.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-33.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-24.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-25.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-26.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-27.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-28.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-29.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-34.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-35.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/nona-pepa/nona-pepa-fotografia-publicitaria-36.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      }
-     ]
-    },
-    {
-     "titulo": "Reel (1)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-1.mp4",
-     "peso": 16,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (2)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-2.mp4",
-     "peso": 15,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (3)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-3.mp4",
-     "peso": 31,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (4)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-4.mp4",
-     "peso": 34,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (5)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-5.mp4",
-     "peso": 31,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (6)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-6.mp4",
-     "peso": 14,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (7)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-7.mp4",
-     "peso": 24,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (8)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-8.mp4",
-     "peso": 11,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (9)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-9.mp4",
-     "peso": 24,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (10)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-10.mp4",
-     "peso": 23,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (11)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-11.mp4",
-     "peso": 38,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (12)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-12.mp4",
-     "peso": 9,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (13)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-13.mp4",
-     "peso": 16,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (14)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-14.mp4",
-     "peso": 9,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (15)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-15.mp4",
-     "peso": 13,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (16)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-16.mp4",
-     "peso": 22,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (17)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/nona-pepa/nona-pepa-reel-17.mp4",
-     "peso": 46,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "moto-stop",
-   "nombre": "Moto Stop",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_negro": "assets/marcas/moto-stop/H_negro.png",
-    "H_blanco": "assets/marcas/moto-stop/H_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Intro",
-     "clase": "video",
-     "tipo": "Motion graphics y animación",
-     "sub": "Animación de logo",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/moto-stop/moto-stop-intro.mp4",
-     "peso": 4,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "hospiclinic",
-   "nombre": "Hospiclinic",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_color": "assets/marcas/hospiclinic/H_color.png",
-    "H_negro": "assets/marcas/hospiclinic/H_negro.png",
-    "H_blanco": "assets/marcas/hospiclinic/H_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Fotografía",
-     "clase": "galeria",
-     "coleccion": "collage",
-     "tipo": "Fotografía",
-     "sub": "",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/trabajos/hospiclinic/hospiclinic-fotografia-publicitaria-1.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/hospiclinic/hospiclinic-fotografia-publicitaria-2.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/hospiclinic/hospiclinic-fotografia-publicitaria-3.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/hospiclinic/hospiclinic-fotografia-publicitaria-4.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/hospiclinic/hospiclinic-fotografia-publicitaria-5.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      }
-     ]
-    },
-    {
-     "titulo": "Reel (1)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/hospiclinic/hospiclinic-reel-1.mp4",
-     "peso": 12,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (2)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/hospiclinic/hospiclinic-reel-2.mp4",
-     "peso": 14,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (3)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/hospiclinic/hospiclinic-reel-3.mp4",
-     "peso": 11,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (4)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/hospiclinic/hospiclinic-reel-4.mp4",
-     "peso": 10,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (5)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/hospiclinic/hospiclinic-reel-5.mp4",
-     "peso": 7,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "honda-motos-cucuta",
-   "nombre": "Honda Motos Cúcuta",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_color": "assets/marcas/honda-motos-cucuta/H_color.png",
-    "H_negro": "assets/marcas/honda-motos-cucuta/H_negro.png",
-    "H_blanco": "assets/marcas/honda-motos-cucuta/H_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Fotografía",
-     "clase": "galeria",
-     "coleccion": "collage",
-     "tipo": "Fotografía",
-     "sub": "",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-7.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-8.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-9.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-10.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-11.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-12.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-17.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-18.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-19.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-20.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-21.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-1.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-2.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-3.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-4.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-5.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-6.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-13.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-14.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-15.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-fotografia-producto-16.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      }
-     ]
-    },
-    {
-     "titulo": "Reel (1)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-reel-1.mp4",
-     "peso": 5,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (2)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-reel-2.mp4",
-     "peso": 11,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (3)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-reel-3.mp4",
-     "peso": 11,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (4)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-reel-4.mp4",
-     "peso": 15,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (5)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-reel-5.mp4",
-     "peso": 12,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (6)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-reel-6.mp4",
-     "peso": 13,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (7)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-reel-7.mp4",
-     "peso": 12,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (8)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/honda-motos-cucuta/honda-motos-cucuta-reel-8.mp4",
-     "peso": 8,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "dr-juan-castaneda",
-   "nombre": "Dr. Juan Castañeda",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_color": "assets/marcas/dr-juan-castaneda/H_color.png",
-    "H_negro": "assets/marcas/dr-juan-castaneda/H_negro.png",
-    "H_blanco": "assets/marcas/dr-juan-castaneda/H_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Fotografía",
-     "clase": "galeria",
-     "coleccion": "collage",
-     "tipo": "Fotografía",
-     "sub": "",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-fotografia-publicitaria-9.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-fotografia-publicitaria-1.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-fotografia-publicitaria-2.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-fotografia-publicitaria-3.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-fotografia-publicitaria-4.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-fotografia-publicitaria-5.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-fotografia-publicitaria-6.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-fotografia-publicitaria-7.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-fotografia-publicitaria-8.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      }
-     ]
-    },
-    {
-     "titulo": "Reel (1)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-reel-1.mp4",
-     "peso": 11,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (2)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-reel-2.mp4",
-     "peso": 31,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (3)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/dr-juan-castaneda/dr-juan-castaneda-reel-3.mp4",
-     "peso": 24,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "cda-verifycar",
-   "nombre": "CDA Verifycar",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_color": "assets/marcas/cda-verifycar/H_color.png",
-    "H_negro": "assets/marcas/cda-verifycar/H_negro.png",
-    "H_blanco": "assets/marcas/cda-verifycar/H_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Fotografía",
-     "clase": "galeria",
-     "coleccion": "collage",
-     "tipo": "Fotografía",
-     "sub": "",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-17.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-1.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-2.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-3.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-4.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-5.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-6.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-7.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-8.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-9.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-10.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-11.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-12.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-13.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-14.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-15.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-16.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-18.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-19.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-20.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-21.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-22.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-23.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-32.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-33.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-24.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-25.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-26.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-27.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-28.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-29.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-30.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/cda-verifycar/cda-verifycar-fotografia-producto-31.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      }
-     ]
-    },
-    {
-     "titulo": "Reel (1)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-1.mp4",
-     "peso": 52,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (2)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-2.mp4",
-     "peso": 122,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (4)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-4.mp4",
-     "peso": 70,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (3)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-3.mp4",
-     "peso": 21,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (8)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-8.mp4",
-     "peso": 34,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (5)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-5.mp4",
-     "peso": 8,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (7)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-7.mp4",
-     "peso": 18,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (6)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-6.mp4",
-     "peso": 42,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (10)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-10.mp4",
-     "peso": 25,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (11)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-11.mp4",
-     "peso": 2,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (12)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-12.mp4",
-     "peso": 10,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (13)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-13.mp4",
-     "peso": 105,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (14)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-14.mp4",
-     "peso": 22,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (9)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cda-verifycar/cda-verifycar-reel-9.mp4",
-     "peso": 20,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "bajaj-automarcol",
-   "nombre": "Bajaj Automarcol",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_color": "assets/marcas/bajaj-automarcol/H_color.png",
-    "H_negro": "assets/marcas/bajaj-automarcol/H_negro.png",
-    "H_blanco": "assets/marcas/bajaj-automarcol/H_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Fotografía",
-     "clase": "galeria",
-     "coleccion": "collage",
-     "tipo": "Fotografía",
-     "sub": "",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-24.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-1.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-2.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-3.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-4.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-5.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-6.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-7.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-8.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-9.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-10.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-11.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-12.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-13.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-14.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-15.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-16.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-17.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-18.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-19.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-20.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-22.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-25.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-26.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-21.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-fotografia-producto-23.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      }
-     ]
-    },
-    {
-     "titulo": "Reel (1)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-1.mp4",
-     "peso": 19,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (2)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-2.mp4",
-     "peso": 12,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (3)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-3.mp4",
-     "peso": 11,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (4)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-4.mp4",
-     "peso": 96,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (5)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-5.mp4",
-     "peso": 88,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (6)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-6.mp4",
-     "peso": 46,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (7)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-7.mp4",
-     "peso": 56,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (8)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-8.mp4",
-     "peso": 10,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (9)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-9.mp4",
-     "peso": 12,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (10)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-10.mp4",
-     "peso": 24,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (11)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajaj-automarcol/bajaj-automarcol-reel-11.mp4",
-     "peso": 31,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "arroz-mora",
-   "nombre": "Arroz Mora",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_color": "assets/marcas/arroz-mora/H_color.png",
-    "H_negro": "assets/marcas/arroz-mora/H_negro.png",
-    "H_blanco": "assets/marcas/arroz-mora/H_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Fotografía",
-     "clase": "galeria",
-     "coleccion": "collage",
-     "tipo": "Fotografía",
-     "sub": "",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-12.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-2.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-1.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-3.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-4.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-5.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-6.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-7.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-8.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-9.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-10.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/arroz-mora/arroz-mora-fotografia-producto-11.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      }
-     ]
-    },
-    {
-     "titulo": "Reel (1)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/arroz-mora/arroz-mora-reel-1.mp4",
-     "peso": 7,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (2)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/arroz-mora/arroz-mora-reel-2.mp4",
-     "peso": 9,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (3)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/arroz-mora/arroz-mora-reel-3.mp4",
-     "peso": 5,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (4)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/arroz-mora/arroz-mora-reel-4.mp4",
-     "peso": 23,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (5)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/arroz-mora/arroz-mora-reel-5.mp4",
-     "peso": 12,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Reel (6)",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "Reels",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/arroz-mora/arroz-mora-reel-6.mp4",
-     "peso": 11,
-     "origen": "drive"
     }
    ]
   }

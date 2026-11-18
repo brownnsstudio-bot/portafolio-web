@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'Switzer';
+  src: url('/fonts/Switzer-Variable.woff2') format('woff2');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+.eh_page {
+  --eh-bg: #ebebe9;
+  --eh-fg: #101010;
+  --eh-margin: 40px;
+  --eh-sans: 'Switzer', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  width: 100%;
+  box-sizing: border-box;
+  background: var(--eh-bg);
+}
+
+.eh_cover {
+  height: 100vh;
+  height: 100svh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.eh_hint {
+  margin: 0;
+  font-family: var(--eh-sans);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: rgba(16, 16, 16, 0.45);
+}
+
+.eh_stage {
+  height: 100vh;
+  height: 100svh;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--eh-margin);
+}
+
+.eh_slab {
+  position: relative;
+  font-family: var(--eh-sans);
+  font-size: clamp(52px, 14.5vw, 240px);
+  font-weight: 340;
+  line-height: 1;
+  letter-spacing: -0.045em;
+  white-space: nowrap;
+  color: var(--eh-fg);
+  -webkit-font-smoothing: antialiased;
+}
+
+.eh_word {
+  position: relative;
+  margin: 0;
+  font: inherit;
+}
+
+/* JS-built copies of the word, stacked exactly on it and painted behind it. */
+.eh_echo {
+  position: absolute;
+  inset: 0;
+  visibility: hidden;
+  transform: rotateX(var(--eh-rx)) rotateY(var(--eh-ry)) translateZ(calc(var(--eh-depth) * var(--eh-i) * var(--eh-reach) * -1));
+  color: color-mix(in oklab, var(--eh-ink), var(--eh-ground) var(--eh-fade, 0%));
+  pointer-events: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.eh_track.eh_is-scrub {
+  height: 300vh;
+}
+
+.eh_is-scrub .eh_stage {
+  position: sticky;
+  top: 0;
+}
+
+/* The slab grows away from the word, so the word shifts back to centre both. */
+.eh_is-built .eh_slab {
+  perspective: var(--eh-perspective);
+  perspective-origin: var(--eh-vanish);
+  transform: rotate(var(--eh-rz)) translate(var(--eh-shift));
+}
+
+.eh_is-built .eh_word {
+  transform: rotateX(var(--eh-rx)) rotateY(var(--eh-ry));
+}
+
+@media (max-width: 767px) {
+  .eh_page {
+    --eh-margin: 20px;
+  }
+}

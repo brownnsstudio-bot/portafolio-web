@@ -68,7 +68,10 @@ ALIAS = {"Armando Henao Decorador": "Armando Henao Eventos", "Servimpresores La 
          "NR Osorio Motos": "Inversiones NR Osorio Motos", "Gladi Accesorios": "Gladi",
          "Vísteme": "Tierra Santa (Visteme)", "Viva Fiesta": "Todo Fiesta", "Heladería EISS": "Heladeria EISS",
          "Gladys Salòn Spa": "Gladys Salón-Spa", "Noé Veterinaria": "Los Animales de Noé",
-         "Beee": "Beee (Miguel Barragán)", "Noé Agropecuaría": "Noé Agropecuaria"}
+         "Beee": "Beee (Miguel Barragán)", "Noé Agropecuaría": "Noé Agropecuaria",
+         "Honda Motos Cúcuta": "Honda Cúcuta", "Bajaj Automarcol": "Automarcol",
+         "Red Salud IPS": "IPS Red Salud", "Dr. Juan Castañeda": "Dr. Juan Carlos Castañeda",
+         "Hospiclinic": "Hospiclinic de Colombia"}
 for a in ALIAS: CONOCIDOS.append(a)
 CONOCIDOS = sorted(set(CONOCIDOS), key=len, reverse=True)
 

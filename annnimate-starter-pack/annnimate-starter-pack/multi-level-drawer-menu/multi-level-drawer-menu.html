@@ -1,0 +1,297 @@
+<!-- Multi-Level Drawer Menu -->
+<!-- Cascading two-panel drawer: clip-path L→R reveal, hover-driven primary/sub active states, swapping stage image -->
+
+<div class="mldm_wrap" data-anm-multi-level-drawer-menu data-anm-duration="0.9" data-anm-ease="expo.out" data-anm-stagger="0.06" data-anm-panel-bg="#ececec">
+
+  <!-- Page content sits below the drawer; never transforms on open -->
+  <div class="mldm_page" data-anm-mldm-page>
+    <section class="mldm_page_hero">
+      <div class="mldm_page_inner">
+        <div class="mldm_page_text">
+          <p class="mldm_page_eyebrow">Spring Collection / 03</p>
+          <h1 class="mldm_page_heading">The shape of distance.</h1>
+          <p class="mldm_page_sub">Apparel and footwear for the long way home.</p>
+        </div>
+        <div class="mldm_page_poster">
+          <img class="mldm_page_poster_img" src="https://annnimate.b-cdn.net/preview-assets/images/sports/street-running-hero-4.avif" alt="" />
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Logo (left). Sits BELOW the drawer overlay so the drawer covers it on open. -->
+  <span class="mldm_logo" data-anm-mldm-logo>Kinetic Athletics</span>
+
+  <!-- Toggle (right). Sits ABOVE the drawer overlay so it stays clickable when open. -->
+  <button
+    class="mldm_toggle"
+    data-anm-mldm-toggle
+    aria-expanded="false"
+    aria-controls="mldm_overlay"
+    aria-label="Open navigation menu"
+  >
+    <span class="mldm_toggle_label_wrap">
+      <span class="mldm_toggle_label_track" data-anm-mldm-label-track>
+        <span class="mldm_toggle_label mldm_toggle_label_open" data-anm-mldm-label-open>Menu</span>
+        <span class="mldm_toggle_label mldm_toggle_label_close">Close</span>
+      </span>
+    </span>
+    <span class="mldm_toggle_icon" aria-hidden="true">
+      <span class="mldm_toggle_line mldm_toggle_line_top" data-anm-mldm-icon-top></span>
+      <span class="mldm_toggle_line mldm_toggle_line_bottom" data-anm-mldm-icon-bottom></span>
+    </span>
+  </button>
+
+  <!-- Drawer overlay — fixed full-viewport. Closed by default; clip-path reveals panels + stage L→R on open. -->
+  <div
+    class="mldm_overlay"
+    id="mldm_overlay"
+    data-anm-mldm-overlay
+    role="dialog"
+    aria-modal="true"
+    aria-label="Navigation"
+    aria-hidden="true"
+    inert
+  >
+    <!-- Scrim tinted with the sage page bg — tap to close -->
+    <button class="mldm_scrim" data-anm-mldm-scrim aria-label="Close menu" tabindex="-1"></button>
+
+    <!-- Panel 1 — primary categories. 32px margin from top/left/bottom. -->
+    <aside class="mldm_panel mldm_panel_primary" data-anm-mldm-panel data-anm-mldm-panel-level="1">
+      <div class="mldm_panel_inner">
+
+        <nav class="mldm_primary_nav" aria-label="Primary categories">
+          <ul class="mldm_list">
+            <li class="mldm_item">
+              <button
+                class="mldm_primary"
+                data-anm-mldm-primary
+                data-anm-mldm-target="running"
+                aria-expanded="false"
+              >
+                <span class="mldm_primary_dot" aria-hidden="true"></span>
+                <span class="mldm_primary_label">Running</span>
+              </button>
+            </li>
+            <li class="mldm_item">
+              <button
+                class="mldm_primary"
+                data-anm-mldm-primary
+                data-anm-mldm-target="cycling"
+                aria-expanded="false"
+              >
+                <span class="mldm_primary_dot" aria-hidden="true"></span>
+                <span class="mldm_primary_label">Cycling</span>
+              </button>
+            </li>
+            <li class="mldm_item">
+              <button
+                class="mldm_primary"
+                data-anm-mldm-primary
+                data-anm-mldm-target="tennis"
+                aria-expanded="false"
+              >
+                <span class="mldm_primary_dot" aria-hidden="true"></span>
+                <span class="mldm_primary_label">Tennis</span>
+              </button>
+            </li>
+            <li class="mldm_item">
+              <button
+                class="mldm_primary"
+                data-anm-mldm-primary
+                data-anm-mldm-target="track"
+                aria-expanded="false"
+              >
+                <span class="mldm_primary_dot" aria-hidden="true"></span>
+                <span class="mldm_primary_label">Track</span>
+              </button>
+            </li>
+          </ul>
+
+          <a class="mldm_explore" data-anm-mldm-secondary href="#">Explore all</a>
+        </nav>
+
+        <div class="mldm_cards">
+          <a class="mldm_card" data-anm-mldm-secondary href="#">
+            <span class="mldm_card_media">
+              <img class="mldm_card_img" src="https://annnimate.b-cdn.net/preview-assets/images/sports/running-hero-female-1.avif" alt="" />
+            </span>
+            <span class="mldm_card_label">Events</span>
+          </a>
+          <a class="mldm_card" data-anm-mldm-secondary href="#">
+            <span class="mldm_card_media">
+              <img class="mldm_card_img" src="https://annnimate.b-cdn.net/preview-assets/images/sports/street-running-earbuds-3.avif" alt="" />
+            </span>
+            <span class="mldm_card_label">Merch</span>
+          </a>
+        </div>
+
+        <nav class="mldm_footer_nav" aria-label="Secondary">
+          <a class="mldm_footer_link" data-anm-mldm-secondary href="#">About</a>
+          <a class="mldm_footer_link" data-anm-mldm-secondary href="#">Our Philosophy</a>
+        </nav>
+      </div>
+    </aside>
+
+    <!-- Panel 2 — subcategories. Stacked sublists, current one visible. -->
+    <aside class="mldm_panel mldm_panel_secondary" data-anm-mldm-panel data-anm-mldm-panel-level="2">
+      <button
+        class="mldm_back"
+        data-anm-mldm-back
+        aria-label="Back to primary categories"
+      >
+        <span class="mldm_back_icon" aria-hidden="true"></span>
+        <span class="mldm_back_label">Back</span>
+      </button>
+      <div class="mldm_panel_inner">
+
+        <div class="mldm_sublist_stack" data-anm-mldm-sublist-stack>
+
+          <div class="mldm_sublist mldm_sublist_active" data-anm-mldm-sublist data-anm-mldm-sublist-for="running" aria-hidden="false">
+            <ul class="mldm_list">
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Shoes</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Shorts</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Shirts</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Tank tops</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Fueling</span>
+                </button>
+              </li>
+            </ul>
+          </div>
+
+          <div class="mldm_sublist" data-anm-mldm-sublist data-anm-mldm-sublist-for="cycling" aria-hidden="true">
+            <ul class="mldm_list">
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Bikes</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Helmets</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Jerseys</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Bib shorts</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Accessories</span>
+                </button>
+              </li>
+            </ul>
+          </div>
+
+          <div class="mldm_sublist" data-anm-mldm-sublist data-anm-mldm-sublist-for="tennis" aria-hidden="true">
+            <ul class="mldm_list">
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Racquets</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Shoes</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Apparel</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Balls</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Bags</span>
+                </button>
+              </li>
+            </ul>
+          </div>
+
+          <div class="mldm_sublist" data-anm-mldm-sublist data-anm-mldm-sublist-for="track" aria-hidden="true">
+            <ul class="mldm_list">
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Spikes</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Singlets</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Shorts</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Recovery</span>
+                </button>
+              </li>
+              <li class="mldm_item">
+                <button class="mldm_sublink" data-anm-mldm-secondary-link>
+                  <span class="mldm_sublink_dot" aria-hidden="true"></span>
+                  <span class="mldm_sublink_label">Training</span>
+                </button>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+
+        <a class="mldm_sub_explore" data-anm-mldm-secondary href="#">Explore all</a>
+      </div>
+    </aside>
+
+  </div>
+</div>

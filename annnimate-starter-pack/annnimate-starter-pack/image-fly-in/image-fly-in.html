@@ -1,0 +1,75 @@
+<!-- Image Fly-In - VANTA editorial sports brand demo
+     Root carries data-anm-image-fly-in. Full-viewport dark 3D depth field: 12
+     product/texture images fly in from deep in the page toward the viewer
+     around a centered manifesto headline. Images are real <img> elements so
+     buyers can swap sources directly in markup. -->
+
+<section class="ifi_section" data-anm-image-fly-in
+  data-anm-duration="10"
+  data-anm-depth="2000"
+  data-anm-speed="1"
+  data-anm-scroll-boost="3.5"
+  data-anm-pan="40"
+  data-anm-hole-buffer="120">
+
+  <!-- 3D stage: panned with the cursor by JS. Holds all 12 image cards, each
+       driven independently by a single ticker loop (x/y/z/opacity). -->
+  <div class="ifi_stage" data-anm-ifi-stage>
+
+    <div class="ifi_card ifi_card_portrait_lg" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/product_tennis-racket_02.jpg?width=640" alt="Tennis racket detail">
+    </div>
+
+    <div class="ifi_card ifi_card_portrait_md" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/product_tennis-racket_05.jpg?width=640" alt="Tennis racket detail">
+    </div>
+
+    <div class="ifi_card ifi_card_portrait_sm" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/product_football-boot_01.jpg?width=640" alt="Football boot">
+    </div>
+
+    <div class="ifi_card ifi_card_portrait_lg ifi_card_hide_mobile" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/product_half-zip_01.jpg?width=640" alt="Half-zip top">
+    </div>
+
+    <div class="ifi_card ifi_card_portrait_md" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/product_shoe_01.jpg?width=640" alt="Running shoe">
+    </div>
+
+    <div class="ifi_card ifi_card_portrait_sm ifi_card_hide_mobile" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/product_ball_02.jpg?width=640" alt="Ball detail">
+    </div>
+
+    <div class="ifi_card ifi_card_portrait_lg ifi_card_hide_mobile" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/product_tennis-net_01.jpg?width=640" alt="Tennis net">
+    </div>
+
+    <div class="ifi_card ifi_card_landscape_lg" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/product_football-boot_06.jpg?width=640" alt="Football boot, side view">
+    </div>
+
+    <div class="ifi_card ifi_card_landscape_sm ifi_card_hide_mobile" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/product_shoe_06.jpg?width=640" alt="Sneaker, side view">
+    </div>
+
+    <div class="ifi_card ifi_card_square_lg" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/texture_tennis-macro_01.jpg?width=640" alt="Tennis ball macro texture">
+    </div>
+
+    <div class="ifi_card ifi_card_square_sm ifi_card_hide_mobile" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/scatter_ball-rackets_01.jpg?width=640" alt="Ball and rackets">
+    </div>
+
+    <div class="ifi_card ifi_card_square_sm" data-anm-ifi-card>
+      <img class="ifi_card_img" src="https://annnimate.b-cdn.net/preview-assets/vanta/texture_fabric-macro_01.jpg?width=640" alt="Fabric macro texture">
+    </div>
+
+  </div>
+
+  <!-- Centre content, own layer above the stage - never moves with the pan. -->
+  <div class="ifi_content" data-anm-ifi-content>
+    <h2 class="ifi_headline" data-anm-ifi-headline>Everything else is noise.</h2>
+    <p class="ifi_support" data-anm-ifi-support>Focus is what remains when the season strips away everything you do not need.</p>
+  </div>
+
+</section>

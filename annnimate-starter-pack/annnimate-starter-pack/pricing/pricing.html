@@ -1,0 +1,89 @@
+<!-- Pricing - three plan cards with a monthly/yearly switch. Root
+     carries data-anm-pricing. The price and period spans start empty
+     - JS builds the digit-roller and two-face swap markup from each card's
+     data-anm-monthly / data-anm-yearly at init. -->
+
+<section class="prc_wrap" data-anm-pricing
+  data-anm-roll-duration="0.6"
+  data-anm-digit-stagger="0.04"
+  data-anm-toggle-duration="0.4"
+  data-anm-shimmer-duration="2.4"
+  data-anm-savings-label="Save 17%"
+  data-anm-default-period="monthly"
+  data-anm-currency="EUR"
+  data-anm-show-savings-chip="true"
+  data-anm-ease="annnimateInOut">
+
+  <div class="prc_head">
+    <img class="prc_logo" src="https://annnimate.b-cdn.net/preview-assets/vanta/brand/vanta-logo-light.svg" alt="Vanta">
+    <h2 class="prc_title">Membership</h2>
+  </div>
+
+  <div class="prc_toggle_row">
+    <button type="button" class="prc_toggle" data-anm-prc-toggle>
+      <span class="prc_toggle_knob" data-anm-prc-knob aria-hidden="true"></span>
+      <span class="prc_toggle_label">Monthly</span>
+      <span class="prc_toggle_label">Yearly</span>
+    </button>
+    <span class="prc_chip" data-anm-prc-chip>
+      <span data-anm-prc-chip-inner></span>
+    </span>
+  </div>
+
+  <div class="prc_cards">
+    <div class="prc_card" data-anm-prc-card data-anm-monthly="20" data-anm-yearly="199">
+      <div class="prc_card_name prc_name_silver" data-anm-prc-name>Club</div>
+      <div class="prc_card_price">
+        <span class="prc_price_currency" data-anm-prc-currency></span>
+        <span class="prc_price_value" data-anm-prc-price></span>
+        <span class="prc_price_period" data-anm-prc-period></span>
+        <span class="prc_price_sr" data-anm-prc-sr></span>
+      </div>
+      <ul class="prc_features">
+        <li class="prc_feature" data-anm-prc-feature>Weekly training plans</li>
+        <li class="prc_feature" data-anm-prc-feature>Community runs</li>
+        <li class="prc_feature" data-anm-prc-feature>Member pricing on kit</li>
+        <li class="prc_feature" data-anm-prc-feature>Monthly journal</li>
+      </ul>
+      <button type="button" class="prc_cta">Join Club</button>
+    </div>
+
+    <div class="prc_card prc_card_popular" data-anm-prc-card data-anm-monthly="55" data-anm-yearly="549" data-anm-popular>
+      <span class="prc_card_badge">Popular</span>
+      <div class="prc_card_name prc_name_champagne" data-anm-prc-name>Pro</div>
+      <div class="prc_card_price">
+        <span class="prc_price_currency" data-anm-prc-currency></span>
+        <span class="prc_price_value" data-anm-prc-price></span>
+        <span class="prc_price_period" data-anm-prc-period></span>
+        <span class="prc_price_sr" data-anm-prc-sr></span>
+      </div>
+      <ul class="prc_features">
+        <li class="prc_feature" data-anm-prc-feature>Everything in Club</li>
+        <li class="prc_feature" data-anm-prc-feature>Coach check-ins</li>
+        <li class="prc_feature" data-anm-prc-feature>Race-day crew</li>
+        <li class="prc_feature" data-anm-prc-feature>Recovery sessions</li>
+        <li class="prc_feature" data-anm-prc-feature>Early access to drops</li>
+      </ul>
+      <button type="button" class="prc_cta prc_cta_popular">Join Pro</button>
+    </div>
+
+    <div class="prc_card" data-anm-prc-card data-anm-monthly="119" data-anm-yearly="1199">
+      <div class="prc_card_name prc_name_ice" data-anm-prc-name>Elite</div>
+      <div class="prc_card_price">
+        <span class="prc_price_currency" data-anm-prc-currency></span>
+        <span class="prc_price_value" data-anm-prc-price></span>
+        <span class="prc_price_period" data-anm-prc-period></span>
+        <span class="prc_price_sr" data-anm-prc-sr></span>
+      </div>
+      <ul class="prc_features">
+        <li class="prc_feature" data-anm-prc-feature>Everything in Pro</li>
+        <li class="prc_feature" data-anm-prc-feature>Weekly 1:1 coaching</li>
+        <li class="prc_feature" data-anm-prc-feature>Physio and nutrition plan</li>
+        <li class="prc_feature" data-anm-prc-feature>Training camp invites</li>
+        <li class="prc_feature" data-anm-prc-feature>Private locker</li>
+      </ul>
+      <button type="button" class="prc_cta">Join Elite</button>
+    </div>
+  </div>
+
+</section>

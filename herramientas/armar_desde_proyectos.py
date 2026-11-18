@@ -12,6 +12,13 @@ from PIL import Image, ImageChops, ImageCms, ImageOps
 import io
 Image.MAX_IMAGE_PIXELS = None   # banners de gran formato: se reducen a tamaño web, no se copian crudos
 _SRGB = ImageCms.createProfile("sRGB")
+# Perfil CMYK de impresión (US Web Coated SWOP): se asume cuando una imagen CMYK
+# NO trae perfil ICC embebido, para que el color no se sature (naranjas/morados).
+try:
+    _SWOP = ImageCms.getOpenProfile(r"C:\Windows\System32\spool\drivers\color\RSWOP.icm")
+    _CMYK_SWOP = ImageCms.buildTransform(_SWOP, _SRGB, "CMYK", "RGB", renderingIntent=0)
+except Exception:
+    _CMYK_SWOP = None
 
 def a_srgb(im):
     """Convierte a RGB respetando el color real: si trae perfil ICC (CMYK/Adobe), lo pasa a sRGB.
@@ -21,6 +28,11 @@ def a_srgb(im):
         try:
             src = ImageCms.ImageCmsProfile(io.BytesIO(icc))
             return ImageCms.profileToProfile(im, src, _SRGB, outputMode="RGB")
+        except Exception:
+            pass
+    if im.mode == "CMYK" and _CMYK_SWOP is not None:   # CMYK sin perfil: asumir SWOP, no saturar
+        try:
+            return ImageCms.applyTransform(im, _CMYK_SWOP)
         except Exception:
             pass
     return im.convert("RGB") if im.mode != "RGB" else im

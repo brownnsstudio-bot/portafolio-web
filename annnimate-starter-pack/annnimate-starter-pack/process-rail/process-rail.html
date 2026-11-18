@@ -1,0 +1,76 @@
+<!-- Process Rail - a how-it-works row on a line.
+     The root is a scroll track and its stage is position: sticky (no JS pin);
+     one scrubbed timeline moves the bead along the live path
+     (desktop or mobile), draws the line up to it and brings up each step's
+     image as the bead arrives. The line is fitted to the steps at runtime (desktop: the rail's full
+     width; mobile: first number to last);
+     steps space themselves evenly along it in DOM order. -->
+
+<section class="prl_wrap" data-anm-process-rail
+  data-anm-scrub="0.6"
+  data-anm-bead-size="10"
+  data-anm-sticky="true"
+  data-anm-stagger="0.08">
+
+  <div class="prl_stage">
+
+  <div class="prl_rail" data-anm-prl-rail>
+
+    <svg class="prl_svg prl_svg_desktop" viewBox="0 0 1200 40" aria-hidden="true" focusable="false">
+      <path class="prl_path" data-anm-prl-path="desktop" d="M 20 20 L 1180 20" />
+    </svg>
+
+    <svg class="prl_svg prl_svg_mobile" viewBox="0 0 80 560" aria-hidden="true" focusable="false">
+      <path class="prl_path" data-anm-prl-path="mobile" d="M 40 16 L 40 544" />
+    </svg>
+
+    <span class="prl_bead" data-anm-prl-bead></span>
+
+    <ol class="prl_steps">
+      <li class="prl_step" data-anm-prl-step>
+        <button type="button" class="prl_step_btn">
+          <span class="prl_step_num" data-anm-prl-num aria-hidden="true">01</span>
+          <span class="prl_step_title">Scan</span>
+          <span class="prl_step_text">Both feet are scanned in store, standing and mid-stride.</span>
+          <span class="prl_step_media" data-anm-prl-media>
+            <img src="https://annnimate.b-cdn.net/preview-assets/vanta/product_shoe_01.jpg?width=800" alt="A running shoe in tan and cream" loading="lazy" />
+          </span>
+        </button>
+      </li>
+      <li class="prl_step" data-anm-prl-step>
+        <button type="button" class="prl_step_btn">
+          <span class="prl_step_num" data-anm-prl-num aria-hidden="true">02</span>
+          <span class="prl_step_title">Cut</span>
+          <span class="prl_step_text">A last is milled to the scan and the upper is cut around it.</span>
+          <span class="prl_step_media" data-anm-prl-media>
+            <img src="https://annnimate.b-cdn.net/preview-assets/vanta/texture_fabric-macro_05.jpg?width=800" alt="Close-up of grey technical fabric" loading="lazy" />
+          </span>
+        </button>
+      </li>
+      <li class="prl_step" data-anm-prl-step>
+        <button type="button" class="prl_step_btn">
+          <span class="prl_step_num" data-anm-prl-num aria-hidden="true">03</span>
+          <span class="prl_step_title">Build</span>
+          <span class="prl_step_text">Sole, plate and upper are bonded by hand in Berlin.</span>
+          <span class="prl_step_media" data-anm-prl-media>
+            <img src="https://annnimate.b-cdn.net/preview-assets/vanta/product_shoe_05.jpg?width=800" alt="A finished running shoe with a white sole" loading="lazy" />
+          </span>
+        </button>
+      </li>
+      <li class="prl_step" data-anm-prl-step>
+        <button type="button" class="prl_step_btn">
+          <span class="prl_step_num" data-anm-prl-num aria-hidden="true">04</span>
+          <span class="prl_step_title">Run</span>
+          <span class="prl_step_text">Delivered in twelve days, with a second fitting after fifty kilometres.</span>
+          <span class="prl_step_media" data-anm-prl-media>
+            <img src="https://annnimate.b-cdn.net/preview-assets/vanta/action_runner_01.jpg?width=800" alt="A runner mid-stride on a red track" loading="lazy" />
+          </span>
+        </button>
+      </li>
+    </ol>
+
+  </div>
+
+  </div>
+
+</section>
