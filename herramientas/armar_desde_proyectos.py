@@ -257,6 +257,19 @@ def copiar_trabajo(full, sid):
     ext = os.path.splitext(full)[1].lower()
     dst_dir = os.path.join(DEST_TRAB, sid); os.makedirs(dst_dir, exist_ok=True)
     nombre = slug(os.path.splitext(os.path.basename(full))[0])
+    # INCREMENTAL: si ya existe la copia web y la fuente no es más nueva, no reprocesar.
+    # Así una regeneración solo toca el contenido NUEVO o cambiado (p. ej. el del año en curso
+    # o lo que aún no tenía copia); el resto queda idéntico y git no lo ve como modificado -> push chico.
+    # Para forzar un reprocesado total: borrar assets/trabajos o pasar --rehacer.
+    if "--rehacer" not in sys.argv:
+        if ext in (".jpg", ".jpeg", ".png", ".webp"):
+            _prev = os.path.join(dst_dir, nombre + (".png" if ext == ".png" else ".jpg"))
+        elif ext in VID:
+            _prev = os.path.join(dst_dir, nombre + ".mp4")
+        else:
+            _prev = os.path.join(dst_dir, nombre + ext)
+        if os.path.exists(_prev) and os.path.getmtime(full) <= os.path.getmtime(_prev) + 1:
+            return os.path.relpath(_prev, WEB).replace("\\", "/")
     if ext in (".jpg", ".jpeg", ".png", ".webp"):
         es_png = ext == ".png"
         dst = os.path.join(dst_dir, nombre + (".png" if es_png else ".jpg"))
