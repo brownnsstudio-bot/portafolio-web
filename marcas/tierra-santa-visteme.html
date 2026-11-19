@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vísteme · Manual de identidad</title>
+<meta name="description" content="Caso de marca — Manual de identidad corporativa de Vísteme, tienda de ropa para toda la familia, 2019.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --coral:#ef4136; --orange:#f7941e; --amber:#fbb03b; --salmon:#f2785c; --pink:#ec6ea4; --fucsia:#d4145a;
+  --ink:#2b2426; --muted:#8a7d80; --line:#efe3e0;
+  --paper:#f7f3f1; --card:#ffffff; --shadow:0 18px 50px -24px rgba(214,20,90,.35);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:Inter,system-ui,sans-serif;color:var(--ink);background:var(--paper);-webkit-font-smoothing:antialiased;overflow-x:hidden;line-height:1.6}
+h1,h2,h3,.display{font-family:Jost,sans-serif;line-height:1.05;letter-spacing:-.01em}
+img{max-width:100%;display:block}
+a{color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding:0 24px}
+.eyebrow{font-family:Jost;font-weight:600;font-size:.82rem;letter-spacing:.22em;text-transform:uppercase;color:var(--coral)}
+#prog{position:fixed;top:0;left:0;height:4px;width:0;z-index:60;background:linear-gradient(90deg,var(--coral),var(--orange),var(--amber),var(--salmon),var(--pink),var(--fucsia));transition:width .1s linear}
+.top{position:fixed;inset:4px 0 auto 0;z-index:50;display:flex;justify-content:space-between;align-items:center;padding:14px 24px;background:rgba(247,243,241,.82);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top a.back{font-family:Jost;font-weight:600;text-decoration:none;font-size:.95rem;transition:color .2s}
+.top a.back:hover{color:var(--coral)}
+.top .tag{font-size:.8rem;color:var(--muted);font-weight:500}
+
+.hero{position:relative;height:230vh;background:#fdeee9}
+.hero-stage{position:sticky;top:0;height:100svh;display:grid;place-items:center;text-align:center;padding:90px 24px;overflow:hidden}
+.hero-fx{position:absolute;inset:0;width:100%;height:100%;z-index:0;pointer-events:none}
+.hero-glow{position:absolute;left:50%;top:40%;width:min(64vw,580px);aspect-ratio:1;transform:translate(-50%,-50%);z-index:0;pointer-events:none;background:radial-gradient(circle,rgba(239,65,54,.10),rgba(236,110,164,.07) 44%,transparent 60%);animation:glow 7s ease-in-out infinite}
+@keyframes glow{0%,100%{opacity:.6;transform:translate(-50%,-50%) scale(1)}50%{opacity:1;transform:translate(-50%,-50%) scale(1.08)}}
+.hero-inner{position:relative;z-index:1;max-width:760px}
+.logo-echo{position:relative;display:inline-block;margin:0 auto 10px;perspective:1200px}
+.logo-stack{position:relative;transform-style:preserve-3d;will-change:transform}
+.logo-stack .logo{position:relative;z-index:2;display:block;width:min(400px,78vw)}
+.le-echo{position:absolute;top:0;left:0;width:100%;height:auto;z-index:1;will-change:transform,opacity;pointer-events:none;backface-visibility:hidden;filter:drop-shadow(-2px 3px 4px rgba(214,20,90,.20))}
+.hero img.logo{animation:pop 1s cubic-bezier(.17,.89,.32,1.28) both;transform-origin:center bottom}
+@keyframes pop{0%{opacity:0;transform:scale(.4) translateY(40px)}60%{opacity:1}100%{opacity:1;transform:none}}
+.hero .sub{font-family:Jost;font-weight:500;font-size:clamp(1.05rem,3.4vw,1.5rem);color:var(--ink);margin-top:10px;letter-spacing:.02em;animation:rise .7s .5s both}
+.hero .meta{margin-top:22px;display:inline-flex;gap:10px;flex-wrap:wrap;justify-content:center}
+.chip{font-family:Jost;font-weight:500;font-size:.82rem;padding:7px 15px;border-radius:100px;background:#fff;border:1px solid var(--line);color:var(--muted);animation:rise .6s both}
+.meta .chip:nth-child(1){animation-delay:.7s}.meta .chip:nth-child(2){animation-delay:.82s}.meta .chip:nth-child(3){animation-delay:.94s}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.scrollcue{position:absolute;bottom:26px;left:50%;transform:translateX(-50%);z-index:1;font-size:.78rem;color:var(--muted);font-family:Jost;letter-spacing:.14em;text-transform:uppercase;display:flex;flex-direction:column;align-items:center;gap:8px;animation:rise .8s 1.2s both}
+.scrollcue span{width:22px;height:34px;border:2px solid var(--line);border-radius:14px;position:relative}
+.scrollcue span::after{content:"";position:absolute;top:6px;left:50%;transform:translateX(-50%);width:4px;height:7px;border-radius:3px;background:var(--coral);animation:dot 1.6s infinite}
+@keyframes dot{0%{opacity:0;top:6px}40%{opacity:1}80%{opacity:0;top:16px}}
+
+section{padding:clamp(70px,11vw,140px) 0;position:relative}
+.lead{font-size:clamp(1.5rem,4.4vw,2.6rem);font-weight:500;font-family:Jost;max-width:17ch;line-height:1.14}
+.lead .hl{color:var(--coral);font-weight:600}
+.two{display:grid;grid-template-columns:1.1fr 1fr;gap:clamp(28px,5vw,64px);align-items:center}
+.muted{color:var(--muted);font-size:1.05rem;max-width:46ch}
+@media(max-width:760px){.two{grid-template-columns:1fr}}
+.kin .w{display:inline-block;opacity:0;transform:translateY(.5em) rotate(3deg);transition:opacity .5s,transform .6s cubic-bezier(.2,.8,.2,1)}
+.kin.in .w{opacity:1;transform:none}
+
+/* manual gallery (grid) */
+.gallery{display:grid;grid-template-columns:1fr 1fr;gap:clamp(14px,2.4vw,26px);margin-top:48px;perspective:1200px}
+.gallery figure{margin:0;border-radius:16px;overflow:hidden;background:var(--card);box-shadow:var(--shadow);cursor:zoom-in;border:1px solid var(--line);transform-style:preserve-3d;transition:box-shadow .4s,transform .15s ease-out;position:relative;opacity:0;transform:translateY(26px)}
+.gallery figure.in{opacity:1;transform:none;transition:opacity .6s,transform .7s cubic-bezier(.2,.7,.2,1)}
+.gallery figure.full{grid-column:1 / -1}
+.gallery figure::after{content:"";position:absolute;inset:0;background:linear-gradient(120deg,transparent 40%,rgba(255,255,255,.4) 50%,transparent 60%);transform:translateX(-120%);transition:transform .7s;pointer-events:none}
+.gallery figure:hover::after{transform:translateX(120%)}
+.gallery img{width:100%;height:100%;object-fit:cover;aspect-ratio:16/9}
+@media(max-width:620px){.gallery{grid-template-columns:1fr}}
+
+.cta{text-align:center}
+.btn{display:inline-flex;gap:10px;align-items:center;font-family:Jost;font-weight:600;font-size:1.05rem;text-decoration:none;color:#fff;background:linear-gradient(135deg,var(--coral),var(--fucsia));padding:16px 32px;border-radius:100px;box-shadow:0 16px 36px -14px rgba(239,65,54,.5);transition:transform .25s,box-shadow .25s}
+.btn:hover{transform:translateY(-3px) scale(1.02);box-shadow:0 22px 44px -14px rgba(214,20,90,.6)}
+footer{border-top:1px solid var(--line);padding:46px 24px;text-align:center;color:var(--muted);font-size:.9rem}
+footer a{font-family:Jost;font-weight:600;color:var(--ink);text-decoration:none}
+.reveal{opacity:0;transform:translateY(30px);transition:opacity .7s ease,transform .8s cubic-bezier(.2,.7,.2,1)}
+.reveal.in{opacity:1;transform:none}
+.lb{position:fixed;inset:0;z-index:100;background:rgba(43,36,38,.92);display:none;place-items:center;padding:24px;cursor:zoom-out;opacity:0;transition:opacity .25s}
+.lb.on{display:grid;opacity:1}
+.lb img{max-width:95vw;max-height:92vh;border-radius:10px;box-shadow:0 30px 80px rgba(0,0,0,.6);transform:scale(.9);transition:transform .3s cubic-bezier(.2,.8,.2,1)}
+.lb.on img{transform:none}
+.lb .x{position:absolute;top:18px;right:22px;color:#fff;font-size:2rem;font-family:Jost;cursor:pointer;opacity:.8}
+@media(prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+
+/* ===== colores: stack -> grilla (GSAP) ===== */
+.colorfx{position:relative;height:360vh;background:#fdeee9}
+.cfx-stage{position:sticky;top:0;height:100vh;overflow:hidden;display:grid;place-items:center}
+.cfx-space{position:relative;width:100%;height:100%}
+.cfx-card{position:absolute;top:50%;left:50%;width:300px;height:380px;border-radius:18px;overflow:hidden;box-shadow:0 30px 70px -30px rgba(214,20,90,.5);will-change:transform,width,height}
+.cfx-big{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:clamp(16px,5vh,46px);color:#fff;text-shadow:0 2px 14px rgba(0,0,0,.22);padding:22px}
+.cfx-logo{width:min(58%,200px);filter:drop-shadow(0 10px 26px rgba(0,0,0,.22))}
+.cfx-name{font-family:Jost;font-weight:600;font-size:clamp(1.3rem,3.4vw,2.2rem);letter-spacing:.02em}
+.cfx-hex{position:absolute;left:0;right:0;bottom:16px;text-align:center;font-family:Jost;font-weight:500;font-size:14px;letter-spacing:.14em;color:#fff;text-shadow:0 2px 10px rgba(0,0,0,.28)}
+.cfx-note{position:absolute;left:50%;top:40px;transform:translateX(-50%);text-align:center;z-index:3;pointer-events:none}
+.cfx-note .eyebrow{display:block}
+.cfx-note b{font-family:Jost;font-weight:500;font-size:clamp(1.2rem,3vw,1.7rem);color:var(--ink)}
+.cfx-brand{position:absolute;top:50%;left:50%;width:300px;transform:translate(-50%,-50%);opacity:0;z-index:0;pointer-events:none;filter:drop-shadow(0 18px 38px rgba(214,20,90,.2))}
+</style>
+</head>
+<body>
+<div id="prog"></div>
+<div class="top">
+  <a class="back" href="../index.html#portafolio">← Portafolio</a>
+  <span class="tag">Caso de marca · Manual de identidad</span>
+</div>
+
+<header class="hero" id="heroTrack">
+  <div class="hero-stage">
+    <canvas class="hero-fx" id="heroFx"></canvas>
+    <div class="hero-glow"></div>
+    <div class="hero-inner">
+      <div class="logo-echo" id="logoEcho"><img class="logo" src="../assets/marcas/tierra-santa-visteme/V_color.png" alt="Vísteme"></div>
+      <div class="hero-texts">
+        <p class="sub">Ropa para toda la familia</p>
+        <div class="meta">
+          <span class="chip">Manual de identidad</span>
+          <span class="chip">2019</span>
+          <span class="chip">Moda · Ropa</span>
+        </div>
+      </div>
+    </div>
+    <div class="scrollcue">desliza<span></span></div>
+  </div>
+</header>
+
+<section class="wrap">
+  <div class="two">
+    <div class="reveal">
+      <p class="eyebrow">El concepto</p>
+      <p class="lead"><span class="kin">Vestir a la familia es un <span class="hl">plan en familia.</span></span></p>
+    </div>
+    <p class="muted reveal">Vísteme es una tienda de ropa pensada para todos: papá, mamá y los niños. Su identidad une dos ideas —familia y compras— en una marca cálida y cercana. El manual define cómo se usan el logotipo, el color y la tipografía para que esa calidez se sienta igual en cada aplicación.</p>
+  </div>
+</section>
+
+<!-- colores: stack -> grilla -->
+<section class="colorfx" id="colorfx">
+  <div class="cfx-stage">
+    <div class="cfx-note"><span class="eyebrow">Paleta</span><b>Colores que invitan a salir de compras.</b></div>
+    <div class="cfx-space" id="cfxSpace"><img class="cfx-brand" id="cfxBrand" src="../assets/marcas/tierra-santa-visteme/V_color.png" alt="Vísteme"></div>
+  </div>
+</section>
+
+<section class="wrap">
+  <p class="eyebrow reveal">El manual</p>
+  <p class="lead reveal" style="margin-top:8px">8 páginas de identidad, <span class="hl">tal cual se entregó.</span></p>
+  <div class="gallery" id="gallery"></div>
+</section>
+
+<section class="wrap cta">
+  <p class="eyebrow reveal">Documento completo</p>
+  <p class="lead reveal" style="margin:8px auto 28px;max-width:20ch">¿Quieres verlo a detalle?</p>
+  <a class="btn reveal" href="../assets/marcas/tierra-santa-visteme/manual/manual.pdf" target="_blank" rel="noopener">⬇ Descargar manual (PDF)</a>
+</section>
+
+<footer>Vísteme · Manual de identidad corporativa, 2019 — <a href="../index.html#portafolio">ver más trabajos</a></footer>
+
+<div class="lb" id="lb"><span class="x">✕</span><img id="lbimg" src="" alt=""></div>
+
+<script>
+var reduce=matchMedia('(prefers-reduced-motion:reduce)').matches;
+var COLORES=[
+  {n:'Coral',hex:'#ef4136'},{n:'Naranja',hex:'#f7941e'},{n:'Ámbar',hex:'#fbb03b'},
+  {n:'Salmón',hex:'#f2785c'},{n:'Rosa',hex:'#ec6ea4'},{n:'Fucsia',hex:'#d4145a'}
+];
+var COLS=COLORES.map(function(c){return c.hex});
+// hero: lienzo de círculos suaves (bokeh) que flotan — elegante, no festivo
+(function(){
+  var cvs=document.getElementById('heroFx'); if(!cvs)return;
+  var ctx=cvs.getContext('2d'), dpr=Math.min(devicePixelRatio||1,2), W=0,H=0, parts=[], raf=0;
+  function size(){W=cvs.clientWidth;H=cvs.clientHeight;cvs.width=W*dpr;cvs.height=H*dpr;ctx.setTransform(dpr,0,0,dpr,0,0);}
+  function rnd(a,b){return a+Math.random()*(b-a);}
+  function spawn(bottom){return {x:rnd(0,W),y:bottom?rnd(H+10,H*1.3):rnd(-H*.1,H*1.1),s:rnd(26,84),vy:-rnd(10,34)/60,sway:rnd(.3,1.1),ph:rnd(0,6.28),c:COLS[(Math.random()*COLS.length)|0],a:rnd(.10,.26)};}
+  function init(){parts=[];var n=Math.max(14,Math.min(32,Math.round(W/44)));for(var i=0;i<n;i++)parts.push(spawn());}
+  function one(p){var g=ctx.createRadialGradient(p.x,p.y,0,p.x,p.y,p.s);g.addColorStop(0,p.c);g.addColorStop(1,'rgba(255,255,255,0)');ctx.globalAlpha=p.a;ctx.fillStyle=g;ctx.beginPath();ctx.arc(p.x,p.y,p.s,0,6.283);ctx.fill();ctx.globalAlpha=1;}
+  var sv=0,lastSY=(window.scrollY||0);
+  addEventListener('scroll',function(){var y=window.scrollY||0;sv+=(y-lastSY);lastSY=y;},{passive:true});
+  function frame(){
+    sv*=0.86;                                               // la velocidad de scroll decae suave
+    var mul=0.1+Math.max(-1.0,Math.min(3.2,sv*0.007));      // flotan lento por defecto; el scroll los acelera (negativo = cámara lenta al devolverse)
+    var am=0.4+Math.abs(mul);
+    ctx.clearRect(0,0,W,H);
+    for(var i=0;i<parts.length;i++){var p=parts[i];
+      p.y+=p.vy*mul;p.ph+=.012*am;p.x+=Math.sin(p.ph)*p.sway*am;
+      if(p.y<-p.s-10){var q=spawn(true);for(var k in q)p[k]=q[k];}
+      else if(p.y>H+p.s+30){p.y=-p.s;p.x=rnd(0,W);}
+      one(p);}
+    raf=requestAnimationFrame(frame);
+  }
+  size();init();
+  if(reduce){ctx.clearRect(0,0,W,H);parts.forEach(one);return;}
+  frame();
+  addEventListener('resize',function(){size();init();});
+  var hero=document.querySelector('.hero');
+  if(hero&&'IntersectionObserver'in window){new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){if(!raf)raf=requestAnimationFrame(frame);}else if(raf){cancelAnimationFrame(raf);raf=0;}});}).observe(hero);}
+})();
+// tarjetas de color (DOM)
+(function(){var sp=document.getElementById('cfxSpace');COLORES.forEach(function(c){var d=document.createElement('div');d.className='cfx-card';d.style.background=c.hex;d.innerHTML='<div class="cfx-big"><img class="cfx-logo" src="../assets/marcas/tierra-santa-visteme/V_blanco.png" alt="Vísteme"><div class="cfx-name">'+c.n+'</div></div><div class="cfx-hex">'+c.hex.toUpperCase()+'</div>';sp.appendChild(d);});})();
+// galería del manual (grid + lightbox)
+(function(){var g=document.getElementById('gallery'),n=8,featured=[1];for(var i=1;i<=n;i++){var fig=document.createElement('figure');if(featured.indexOf(i)>=0)fig.className='full';var src='../assets/marcas/tierra-santa-visteme/manual/p'+String(i).padStart(2,'0')+'.jpg';fig.innerHTML='<img loading="lazy" src="'+src+'" alt="Vísteme — manual, página '+i+'">';fig.addEventListener('click',(function(s){return function(){openLb(s)}})(src));g.appendChild(fig);}bindTilt();io2();})();
+var lb=document.getElementById('lb'),lbimg=document.getElementById('lbimg');
+function openLb(src){lbimg.src=src;lb.classList.add('on')}
+lb.addEventListener('click',function(){lb.classList.remove('on')});
+function bindTilt(){if(reduce)return;document.querySelectorAll('.gallery figure').forEach(function(fg){fg.addEventListener('mousemove',function(e){var r=fg.getBoundingClientRect();var x=(e.clientX-r.left)/r.width-.5,y=(e.clientY-r.top)/r.height-.5;fg.style.transform='rotateY('+(x*6)+'deg) rotateX('+(-y*6)+'deg) translateY(-6px)';});fg.addEventListener('mouseleave',function(){fg.style.transform='';});});}
+// kinetic
+document.querySelectorAll('.kin').forEach(function(k){var tmp=document.createElement('div');tmp.innerHTML=k.innerHTML;function walk(node,out){node.childNodes.forEach(function(ch){if(ch.nodeType===3){ch.textContent.split(/(\s+)/).forEach(function(t){if(t.trim()){var sp=document.createElement('span');sp.className='w';sp.textContent=t;out.appendChild(sp);}else out.appendChild(document.createTextNode(t));});}else{var cl=ch.cloneNode(false);walk(ch,cl);out.appendChild(cl);}});}k.innerHTML='';walk(tmp,k);k.querySelectorAll('.w').forEach(function(w,i){w.style.transitionDelay=(i*0.05)+'s';});});
+// reveal
+var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}})},{threshold:.14});
+document.querySelectorAll('.reveal,.kin').forEach(function(el){io.observe(el);});
+function io2(){var o=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');o.unobserve(e.target);}})},{threshold:.12});document.querySelectorAll('.gallery figure').forEach(function(el){o.observe(el);});}
+// progreso
+var prog=document.getElementById('prog');
+addEventListener('scroll',function(){var h=document.documentElement;prog.style.width=((h.scrollTop/(h.scrollHeight-h.clientHeight))*100)+'%';},{passive:true});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/ScrollTrigger.min.js"></script>
+<script>
+(function(){
+  if(typeof gsap==='undefined'||typeof ScrollTrigger==='undefined')return;
+  gsap.registerPlugin(ScrollTrigger);
+  var cards=Array.prototype.slice.call(document.querySelectorAll('.cfx-card'));
+  var brand=document.getElementById('cfxBrand');
+  if(!cards.length)return;
+  var n=cards.length, tl=null;
+  function build(){
+    if(tl){ if(tl.scrollTrigger) tl.scrollTrigger.kill(); tl.kill(); }
+    var vw=innerWidth, vh=innerHeight, mobile=vw<820;
+    var bigW=Math.min(vw*0.72,340), bigH=Math.min(bigW*1.28, vh*0.72);
+    var cols=2, rows=3;
+    var cell=mobile?Math.min(vw*0.36,150):Math.min(vw*0.108,150);
+    var gap=cell*0.2;
+    var shiftX=mobile?0:vw*0.15;
+    var shiftY=mobile?vh*0.14:0;
+    var logoX=mobile?0:-vw*0.18;
+    var logoY=mobile?-vh*0.3:0;
+    var logoW=mobile?Math.min(vw*0.5,240):Math.min(vw*0.24,300);
+    tl=gsap.timeline({scrollTrigger:{trigger:'#colorfx',start:'top top',end:'bottom bottom',scrub:.6}});
+    if(brand){
+      gsap.set(brand,{xPercent:-50,yPercent:-50,x:logoX,y:logoY,opacity:0,scale:.8,width:logoW,zIndex:0});
+      tl.to(brand,{opacity:1,scale:1,duration:.32,ease:'power2.out'},.58);
+    }
+    cards.forEach(function(card,i){
+      var col=i%cols,row=Math.floor(i/cols);
+      var fx=(col-(cols-1)/2)*(cell+gap)+shiftX;
+      var fy=(row-(rows-1)/2)*(cell+gap)+shiftY;
+      var sx=(i-(n-1)/2)*7, sy=(i-(n-1)/2)*6, rot=(i-(n-1)/2)*3;
+      gsap.set(card,{xPercent:-50,yPercent:-50,x:sx,y:sy,rotation:rot,width:bigW,height:bigH,borderRadius:18,zIndex:i+2});
+      var big=card.querySelector('.cfx-big');
+      if(big) gsap.set(big,{opacity:1,scale:1});
+      tl.to(card,{x:fx,y:fy,rotation:0,width:cell,height:cell,borderRadius:14,duration:.6,ease:'power2.inOut'},0);
+      if(big) tl.to(big,{opacity:0,scale:.6,duration:.22,ease:'power1.in'},.05);
+    });
+    tl.to({},{duration:.3});
+  }
+  build();
+  var rt;
+  addEventListener('resize',function(){clearTimeout(rt);rt=setTimeout(function(){build();ScrollTrigger.refresh();},200);});
+})();
+// hero: eco 3D del logo al scrollear
+(function(){
+  if(typeof gsap==='undefined'||typeof ScrollTrigger==='undefined')return;
+  var cont=document.getElementById('logoEcho'); if(!cont)return;
+  var main=cont.querySelector('.logo'); if(!main)return;
+  var stack=document.createElement('div'); stack.className='logo-stack';
+  cont.insertBefore(stack,main); stack.appendChild(main);
+  var N=7, echoes=[];
+  for(var i=0;i<N;i++){var im=document.createElement('img');im.src='../assets/marcas/tierra-santa-visteme/V_blanco.png';im.className='le-echo';im.alt='';im.setAttribute('aria-hidden','true');stack.appendChild(im);echoes.push(im);}
+  var texts=document.querySelector('.hero-texts');
+  function set(s){
+    stack.style.transform='rotateX('+(18*s)+'deg) rotateZ('+(-7*s)+'deg) scale('+(1+0.32*s)+')';
+    for(var i=0;i<N;i++){var d=i+1;echoes[i].style.transform='translate('+(-s*d*7)+'px,'+(s*d*8)+'px) scale('+(1-d*0.02*s)+')';echoes[i].style.opacity=(s*.3*(1-i/N)).toFixed(3);}
+    if(texts)texts.style.opacity=Math.max(0,1-s/0.25);
+  }
+  set(0);
+  ScrollTrigger.create({trigger:'#heroTrack',start:'top top',end:'bottom bottom',scrub:.5,onUpdate:function(self){set(self.progress);}});
+})();
+</script>
+</body>
+</html>
