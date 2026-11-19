@@ -343,6 +343,8 @@ ALIAS = {   # nombre tal como aparece en los ARCHIVOS  ->  nombre del PANEL (CLI
  "Jennifer Cañizales": "Jennyfer Cañizares", # el PDF del diseño de logo trae otra ortografía del nombre
  "Jennifer Cañizares": "Jennyfer Cañizares",
  "Jennyfer Cañizales": "Jennyfer Cañizares",
+ "Calzado Elite": "Calzados Elite",          # las fotos dicen "Calzado" (singular); el logo y el panel, "Calzados" (plural)
+ "Hotel Ibis": "Hotel Ibis Cúcuta",          # el logo de Galería dice solo "Hotel Ibis"; la marca es "Hotel Ibis Cúcuta"
 }
 ALIAS_SLUG = {slug(k): slug(v) for k, v in ALIAS.items()}
 # nombre a mostrar en la tarjeta cuando debe diferir del panel (el nombre "de marca" del manual)
@@ -399,6 +401,7 @@ def norm_txt(s):
 def leer_drive(conocidos):
     """Devuelve {id_cliente: {nombre, anio, fecha, logos{}, trabajos[], sectores[]}} leído de DRIVE."""
     out = {}
+    youtube = leer_youtube()   # videos en YouTube por cliente (datos/videos-youtube.txt)
     if not os.path.isdir(DRIVE): return out
     for dp, _, fns in os.walk(DRIVE):
         partes = os.path.relpath(dp, DRIVE).replace("\\", "/").split("/")
@@ -478,6 +481,13 @@ def leer_drive(conocidos):
                 c["trabajos"].append(it)
     for sid, c in out.items():
         asegurar_blanco(sid, c["logos"])   # si no hay logo blanco, se crea en PNG (silueta blanca)
+        # videos alojados en YouTube: se suman como una tarjeta de video más (sin copiar nada al repo).
+        # Esto además hace aparecer a clientes que en el Drive solo tenían logo.
+        for emb, tit in youtube.get(sid, []):
+            tp, sb = tipo_por_nombre(tit or "video corporativo")
+            c["trabajos"].append({"titulo": sin_codigos(tit) if tit else c["nombre"],
+                                  "clase": "video", "tipo": tp, "sub": sb, "descripcion": "",
+                                  "drive": "", "local": "", "youtube": emb, "origen": "youtube", "peso": 0})
         gal = list(c.pop("galerias").values())
         tiene_manual = any(t.get("tipo") == "Branding e identidad visual" and t.get("sub") == "Manual de identidad corporativa" for t in c["trabajos"])
         if tiene_manual:
@@ -541,6 +551,30 @@ def leer_rubros():
             out[slug(cli.strip())] = ss[0]
     return out
 
+def _yt_embed(url):
+    """Saca el ID del video de cualquier enlace de YouTube y arma la URL para incrustar (sin cookies de rastreo)."""
+    m = re.search(r"(?:youtu\.be/|[?&]v=|/embed/|/shorts/)([\w-]{6,})", url)
+    return "https://www.youtube-nocookie.com/embed/" + m.group(1) if m else ""
+
+def leer_youtube():
+    """Videos alojados en YouTube (por su peso), de datos/videos-youtube.txt.
+    Formato por línea: 'Cliente = enlace'  o  'Cliente = enlace | Título'.
+    Devuelve {slug_cliente: [(embed_url, titulo)]}."""
+    f = os.path.join(WEB, "datos", "videos-youtube.txt")
+    out = {}
+    if not os.path.exists(f):
+        return out
+    for l in open(f, encoding="utf-8-sig", errors="replace"):
+        l = l.strip()
+        if not l or l.startswith("#") or "=" not in l:
+            continue
+        cli, resto = l.split("=", 1)
+        enlace, _, titulo = resto.partition("|")
+        emb = _yt_embed(enlace.strip())
+        if cli.strip() and emb:
+            out.setdefault(canon(cli.strip()), []).append((emb, titulo.strip()))
+    return out
+
 def leer_clientes_drive():
     """Panel de clientes desde H:\\Mi unidad\\Página WEB\\CLIENTES.txt.
     Bloques: 'CLIENTE: ...' + 'DESCRIPCIÓN: ...' + 'CÓDIGO: [SECTOR-SUB]'.
@@ -598,6 +632,9 @@ def main():
         m = {"id": sid, "nombre": DISPLAY_OVERRIDE.get(sid) or d["nombre"], "anio": d["anio"], "fecha": d["fecha"],
              "sector": sec, "subsector": sub, "alianza": "", "descripcion": pdesc,
              "logos": d["logos"], "origen": "Drive", "trabajos": d["trabajos"]}
+        # si existe una página de marca a medida (marcas/<id>.html), se enlaza desde la ficha
+        if os.path.exists(os.path.join(WEB, "marcas", sid + ".html")):
+            m["pagina"] = "marcas/" + sid + ".html"
         marcas.append(m)
         print(f"{len(d['trabajos']):4d} · Drive · logo {'sí' if d['logos'] else 'no'} · {sec[:24]:24s} · {d['nombre']}")
     marcas.sort(key=lambda m: (m["fecha"], m["nombre"].lower()), reverse=True)

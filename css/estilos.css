@@ -183,6 +183,15 @@ a { color: inherit; }
 .trabajo-img { position: absolute; inset: 0; }
 .trabajo-img img { width: 100%; height: 100%; object-fit: cover; }
 .trabajo-pdf { position: absolute; inset: 0; display: grid; place-items: center; font-weight: 700; color: var(--texto); text-decoration: none; background: var(--tarjeta); }
+/* acceso a la página de marca a medida (reemplaza la caja de "Abrir PDF" cuando la marca tiene su propio caso) */
+.trabajo-casomarca { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; gap: 8px; padding: clamp(20px, 4vw, 40px); text-decoration: none; color: var(--texto);
+  background: radial-gradient(130% 150% at 12% 0%, rgba(176,38,255,.26), transparent 56%), radial-gradient(130% 150% at 100% 100%, rgba(0,240,255,.18), transparent 56%), var(--tarjeta);
+  border: 1px solid var(--borde); transition: transform .22s, border-color .22s, box-shadow .22s; }
+.trabajo-casomarca:hover { transform: translateY(-2px); border-color: rgba(0,240,255,.5); box-shadow: 0 14px 44px -14px rgba(0,240,255,.4); }
+.trabajo-casomarca .cm-kick { font-size: .72rem; letter-spacing: .16em; text-transform: uppercase; color: var(--cian); font-weight: 700; }
+.trabajo-casomarca .cm-txt { font-family: var(--titulos); font-size: clamp(1.15rem, 2.6vw, 1.7rem); line-height: 1.04; }
+.trabajo-casomarca .cm-flecha { font-size: 1.6rem; color: var(--cian); transition: transform .22s; }
+.trabajo-casomarca:hover .cm-flecha { transform: translateX(7px); }
 
 @media (max-width: 900px) { .barra-filtros { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 640px) { .barra-filtros { grid-template-columns: 1fr; gap: 10px; } .chips { padding: 12px 16px 0; } }

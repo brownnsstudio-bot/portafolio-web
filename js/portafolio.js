@@ -92,6 +92,7 @@
 
   // ---- ventana de un cliente ----
   const ventana = $("[data-ventana]");
+  let marcaActual = null;   // la marca abierta ahora (para saber si tiene página a medida)
   const mirar = new IntersectionObserver((ents) => ents.forEach((e) => {
     if (e.isIntersecting && e.target.dataset.src) { e.target.preload = "metadata"; e.target.src = e.target.dataset.src; delete e.target.dataset.src; mirar.unobserve(e.target); }
   }), { root: ventana, rootMargin: "400px 0px" });
@@ -99,7 +100,7 @@
   function tarjetaTrabajo(v, cont) {
     const art = el("article", "trabajo");
     const marco = el("div", "video-marco");
-    const src = enlaceDrive(v.drive);
+    const src = v.youtube || enlaceDrive(v.drive);
     if (v.clase === "video" && src) {
       const f = el("iframe"); f.src = src; f.title = v.titulo; f.loading = "lazy"; f.allow = "autoplay; fullscreen"; f.allowFullscreen = true; marco.append(f);
     } else if (v.clase === "video" && v.local) {
@@ -212,7 +213,14 @@
       i.addEventListener("load", () => { marco.style.aspectRatio = i.naturalWidth + " / " + i.naturalHeight; });
       a.append(i); marco.classList.add("video-local"); marco.append(a);
     } else if (v.clase === "pdf") {
-      const a = el("a", "trabajo-pdf", "Abrir PDF"); a.href = v.local; a.target = "_blank"; a.rel = "noopener"; marco.append(a);
+      if (marcaActual && marcaActual.pagina) {
+        // la marca tiene página a medida: en vez de abrir el PDF, se entra al caso de marca
+        const a = el("a", "trabajo-casomarca"); a.href = marcaActual.pagina; a.rel = "noopener";
+        a.append(el("span", "cm-kick", "Caso de marca"), el("span", "cm-txt", "Abrir manual interactivo"), el("span", "cm-flecha", "→"));
+        marco.append(a);
+      } else {
+        const a = el("a", "trabajo-pdf", "Abrir PDF"); a.href = v.local; a.target = "_blank"; a.rel = "noopener"; marco.append(a);
+      }
     } else {
       const p = el("div", "video-pendiente");
       if (v.portada) { const i = el("img"); i.src = v.portada; i.alt = ""; p.append(i); }
@@ -228,6 +236,7 @@
   }
 
   function abrir(m, sinHistorial) {
+    marcaActual = m;
     $("[data-v-cat]").textContent = [m.sector, m.subsector].filter(Boolean).join(" › ");
     $("[data-v-nombre]").textContent = m.nombreLargo || m.nombre;
     $("[data-v-meta]").textContent = [m.anio !== "0000" && m.anio, m.alianza && "En alianza con " + m.alianza].filter(Boolean).join(" · ");

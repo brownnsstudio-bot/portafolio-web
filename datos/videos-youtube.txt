@@ -1,0 +1,14 @@
+# Videos alojados en YouTube (no en el Drive), normalmente por su peso.
+# El generador le agrega a ese cliente una tarjeta de video que reproduce el de YouTube.
+# Sirve también para clientes que solo tienen logo: al darles un video, ya aparecen en el portafolio.
+#
+# Formato por línea:
+#     Cliente = enlace de YouTube
+#     Cliente = enlace de YouTube | Título del video     (el título es opcional)
+#
+# El Cliente se escribe igual que en el panel/CLIENTES. El enlace vale en cualquier forma:
+#     https://youtu.be/XXXX   ·   https://www.youtube.com/watch?v=XXXX   ·   .../embed/XXXX   ·   .../shorts/XXXX
+# Un mismo cliente puede tener varias líneas (varios videos).
+
+Coomulpinort = https://youtu.be/vp16T2vwPrU
+Descubrimientos Impresionantes = https://youtu.be/GoBJd_8Vn3I

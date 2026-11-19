@@ -16,15 +16,110 @@ window.PORTAFOLIO = {
  },
  "marcas": [
   {
-   "id": "calzado-elite",
-   "nombre": "Calzado Elite",
-   "anio": "2023",
-   "fecha": "2023-10-01",
-   "sector": "Moda, belleza y cuidado personal",
-   "subsector": "Calzado",
+   "id": "optica-visual",
+   "nombre": "Óptica Visual",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Salud y bienestar",
+   "subsector": "Ópticas",
    "alianza": "",
-   "descripcion": "",
-   "logos": {},
+   "descripcion": "Optica y venta de lentes de la ciudad de cúcuta",
+   "logos": {
+    "H_color": "assets/marcas/optica-visual/H_color.png",
+    "H_negro": "assets/marcas/optica-visual/H_negro.png",
+    "H_blanco": "assets/marcas/optica-visual/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/optica-visual/2024-optica-visual-reel-1-red-ree-sal-opt.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/optica-visual/2024-optica-visual-reel-2-red-ree-sal-opt.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/optica-visual/2024-optica-visual-reel-3-red-ree-sal-opt.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/optica-visual/2024-optica-visual-reel-4-red-ree-sal-opt.mp4",
+     "peso": 8,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "viajes-dacar-l-alianxa",
+   "nombre": "Viajes Dacar L’Alianxa",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Turismo y hotelería",
+   "subsector": "Agencias de viajes",
+   "alianza": "",
+   "descripcion": "es una agencia de viajes ubicada en Cúcuta, Norte de Santander, Colombia, con alrededor de 25 años de trayectoria en el sector turístico y afiliada a ANATO y a la red L’alianXa Travel Network.",
+   "logos": {
+    "H_color": "assets/marcas/viajes-dacar-l-alianxa/H_color.png",
+    "H_negro": "assets/marcas/viajes-dacar-l-alianxa/H_negro.png",
+    "H_blanco": "assets/marcas/viajes-dacar-l-alianxa/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel 01",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viajes-dacar-l-alianxa/2024-viajes-dacar-l-alianxa-reel-01-red-ree-tur-via.mp4",
+     "peso": 12,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "tiendas-de-colombia",
+   "nombre": "Tiendas de Colombia",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Comercio y distribución",
+   "subsector": "Comercio electrónico",
+   "alianza": "",
+   "descripcion": "empresa colombiana con sede en Colombia, dedicada a la venta online de calzado y demás elementos de uso cotidiano",
+   "logos": {
+    "H_color": "assets/marcas/tiendas-de-colombia/H_color.png",
+    "H_negro": "assets/marcas/tiendas-de-colombia/H_negro.png",
+    "H_blanco": "assets/marcas/tiendas-de-colombia/H_blanco.png"
+   },
    "origen": "Drive",
    "trabajos": [
     {
@@ -39,1461 +134,827 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-1-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-8-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-2-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-30-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-3-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-33-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-4-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-29-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-5-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-32-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-6-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-31-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-7-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-14-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-8-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-13-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-9-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-12-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-10-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-7-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-11-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-6-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-12-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-5-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-13-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-18-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-14-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-17-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-15-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-44-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-16-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-43-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-17-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-42-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-18-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-41-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-19-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-40-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-20-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-39-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-21-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-38-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-22-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-28-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-23-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-27-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-24-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-16-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-25-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-15-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-26-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-11-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-27-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-10-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-28-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-37-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-29-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-36-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-30-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-35-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-31-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-34-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-32-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-26-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-33-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-25-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-34-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-24-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-35-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-4-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-36-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-3-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-37-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-2-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-38-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-1-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-39-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-23-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-40-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-22-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-41-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-21-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-42-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-20-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-43-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-19-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-44-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-45-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-46-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-47-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-48-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-49-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-50-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-51-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-52-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-53-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-54-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-55-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-56-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-57-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-58-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-59-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-60-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-61-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-62-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-63-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-64-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-65-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-66-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-67-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-68-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-69-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-70-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-71-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-72-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-73-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-74-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-75-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-76-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-77-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-78-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-79-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-80-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-81-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-82-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-83-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-84-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-85-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-86-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-87-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-88-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-89-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-90-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-91-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-92-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-93-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-94-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-95-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-96-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-97-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-98-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-99-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-100-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-101-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-102-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-103-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-104-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-105-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-106-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-107-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-108-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-109-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-110-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-111-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-112-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-113-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-114-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-115-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-116-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-117-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-118-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-119-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-120-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-121-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-122-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-123-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-124-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-125-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-126-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-127-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-128-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-129-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-130-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-131-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-132-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-133-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-134-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-135-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-136-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-137-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-138-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-139-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-140-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-141-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-142-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-143-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-144-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-145-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-146-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-147-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-148-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-149-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-150-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-151-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-152-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-153-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-154-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-155-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-156-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-157-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-158-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-159-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-160-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-161-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-162-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-163-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-164-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-165-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-166-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-167-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-168-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-169-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-170-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-171-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-172-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-173-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-174-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-175-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-176-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-177-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-178-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-179-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-180-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-181-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-182-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-183-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-184-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-185-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-186-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-187-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-188-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-189-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-190-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-191-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-192-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-193-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-194-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-195-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-196-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-197-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-198-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-199-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-200-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-201-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-202-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-203-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-204-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-205-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-206-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-207-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-208-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-209-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-210-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-211-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-212-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-213-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-214-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-215-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-216-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-217-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-218-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-219-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-220-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-221-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-222-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-223-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-224-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-225-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-09-calzado-elite-fotografia-producto-226-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-227-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-228-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-229-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-230-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-231-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-232-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-233-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-234-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-235-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-236-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-237-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-238-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-239-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-240-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-241-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-242-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-243-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-244-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-245-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-246-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-247-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-248-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-249-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-250-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-251-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-252-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-253-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-254-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-255-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-256-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-257-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-258-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-259-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-260-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-261-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-262-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-263-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-264-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-265-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-266-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-267-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-268-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-269-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-270-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-271-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-272-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-273-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-274-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-275-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-276-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-277-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-278-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-279-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-280-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-281-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-282-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-283-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-284-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-285-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-286-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-287-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-288-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-289-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-290-fot-cor-mod-cal.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/calzado-elite/2023-10-calzado-elite-fotografia-producto-291-fot-cor-mod-cal.jpg",
+       "src": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-fotografia-publicaria-9-fot-cor-com-eco.jpg",
        "nombre": "",
        "fondo": "oscuro"
       }
      ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-reel-1-red-ree-com-eco.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-reel-2-red-ree-com-eco.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-reel-3-red-ree-com-eco.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-reel-4-red-ree-com-eco.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-reel-5-red-ree-com-eco.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tiendas-de-colombia/2024-tiendas-de-colombia-reel-6-red-ree-com-eco.mp4",
+     "peso": 6,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "optiliam",
+   "nombre": "Optiliam",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Salud y bienestar",
+   "subsector": "Ópticas",
+   "alianza": "",
+   "descripcion": "Optica y venta de lentes de la ciudad de cúcuta",
+   "logos": {
+    "H_blanco": "assets/marcas/optiliam/H_blanco.png",
+    "V_color": "assets/marcas/optiliam/V_color.png",
+    "H_color": "assets/marcas/optiliam/H_color.png",
+    "V_negro": "assets/marcas/optiliam/V_negro.png",
+    "H_negro": "assets/marcas/optiliam/H_negro.png",
+    "V_blanco": "assets/marcas/optiliam/V_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/optiliam/2024-optiliam-fotografia-publicitaria-6-fot-cor-sal-opt.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/optiliam/2024-optiliam-fotografia-publicitaria-1-fot-cor-sal-opt.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/optiliam/2024-optiliam-fotografia-publicitaria-2-fot-cor-sal-opt.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/optiliam/2024-optiliam-fotografia-publicitaria-3-fot-cor-sal-opt.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/optiliam/2024-optiliam-fotografia-publicitaria-4-fot-cor-sal-opt.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/optiliam/2024-optiliam-fotografia-publicitaria-5-fot-cor-sal-opt.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reelmp4 (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/optiliam/2024-optiliam-reelmp4-1-red-ree-sal-opt.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reelmp4 (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/optiliam/2024-optiliam-reelmp4-2-red-ree-sal-opt.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reelmp4 (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/optiliam/2024-optiliam-reelmp4-3-red-ree-sal-opt.mp4",
+     "peso": 10,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "omar-saldarriaga",
+   "nombre": "Omar Saldarriaga",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Sin clasificar",
+   "subsector": "",
+   "alianza": "",
+   "descripcion": "Professor Universidad de Antioquia, Medellin-Colombia",
+   "logos": {
+    "H_blanco": "assets/marcas/omar-saldarriaga/H_blanco.png",
+    "H_color": "assets/marcas/omar-saldarriaga/H_color.png",
+    "H_negro": "assets/marcas/omar-saldarriaga/H_negro.png",
+    "V_blanco": "assets/marcas/omar-saldarriaga/V_blanco.png",
+    "V_color": "assets/marcas/omar-saldarriaga/V_color.png",
+    "V_negro": "assets/marcas/omar-saldarriaga/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/omar-saldarriaga/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/omar-saldarriaga/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/omar-saldarriaga/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/omar-saldarriaga/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/omar-saldarriaga/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/omar-saldarriaga/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nazkar",
+   "nombre": "Nazkar",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Automotriz y motos",
+   "subsector": "Repuestos y talleres",
+   "alianza": "",
+   "descripcion": "Taller de motocicletas especializada y venta de repuestas",
+   "logos": {
+    "H_blanco": "assets/marcas/nazkar/H_blanco.png",
+    "H_color": "assets/marcas/nazkar/H_color.png",
+    "H_negro": "assets/marcas/nazkar/H_negro.png",
+    "V_negro": "assets/marcas/nazkar/V_negro.png",
+    "V_blanco": "assets/marcas/nazkar/V_blanco.png",
+    "V_color": "assets/marcas/nazkar/V_color.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Manual Corporativo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Manual de identidad corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/nazkar/2024-nazkar-manual-corporativo-brd-man-aut-rep.pdf",
+     "peso": 19,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "milenio-stone",
+   "nombre": "Milenio Stone",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Construcción, inmobiliaria y hogar",
+   "subsector": "Acabados y materiales",
+   "alianza": "",
+   "descripcion": "empresa dedicada a la exportación de productos decorativos a base de piedras lajas y demás decorativos",
+   "logos": {
+    "H_blanco": "assets/marcas/milenio-stone/H_blanco.png",
+    "H_color": "assets/marcas/milenio-stone/H_color.png",
+    "H_negro": "assets/marcas/milenio-stone/H_negro.png",
+    "V_blanco": "assets/marcas/milenio-stone/V_blanco.png",
+    "V_color": "assets/marcas/milenio-stone/V_color.png",
+    "V_negro": "assets/marcas/milenio-stone/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Manual Corporativo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Manual de identidad corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/milenio-stone/2024-milenio-stone-manual-corporativo-brd-man-con-aca.pdf",
+     "peso": 17,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Catálogo de Piedra Laja",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Catálogos",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/milenio-stone/2024-milenio-stone-catalogo-de-piedra-laja-edi-cat-con-aca.pdf",
+     "peso": 30,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "milenio",
+   "nombre": "Milenio",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Agro y campo",
+   "subsector": "Agricultura",
+   "alianza": "",
+   "descripcion": "empresa dedicada a la exportación de productos agrícolas",
+   "logos": {
+    "H_blanco": "assets/marcas/milenio/H_blanco.png",
+    "H_color": "assets/marcas/milenio/H_color.png",
+    "H_negro": "assets/marcas/milenio/H_negro.png",
+    "V_negro": "assets/marcas/milenio/V_negro.png",
+    "V_blanco": "assets/marcas/milenio/V_blanco.png",
+    "V_color": "assets/marcas/milenio/V_color.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Manual Corporativo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Manual de identidad corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/milenio/2024-milenio-manual-corporativo-brd-man-agr-agr.pdf",
+     "peso": 127,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "descubrimientos-impresionantes",
+   "nombre": "Descubrimientos Impresionantes",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Medios, entretenimiento y eventos",
+   "subsector": "Podcast y creadores de contenido",
+   "alianza": "",
+   "descripcion": "Es un canal de YouTube que muestra videos de historia con datos  curiosas de la historia de la humanidad",
+   "logos": {
+    "H_negro": "assets/marcas/descubrimientos-impresionantes/H_negro.png",
+    "V_blanco": "assets/marcas/descubrimientos-impresionantes/V_blanco.png",
+    "H_blanco": "assets/marcas/descubrimientos-impresionantes/H_blanco.png",
+    "V_color": "assets/marcas/descubrimientos-impresionantes/V_color.png",
+    "H_color": "assets/marcas/descubrimientos-impresionantes/H_color.png",
+    "V_negro": "assets/marcas/descubrimientos-impresionantes/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Descubrimientos Impresionantes",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/GoBJd_8Vn3I",
+     "origen": "youtube",
+     "peso": 0
+    }
+   ]
+  },
+  {
+   "id": "desarrollo-territorial",
+   "nombre": "Desarrollo Territorial",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Sin clasificar",
+   "subsector": "",
+   "alianza": "",
+   "descripcion": "Consultora desarrollo territorial es una iniciativa que nace en el año 2012, a partir de la integración de un grupo de profesionales en diversas áreas del conocimiento y con experiencia administrativa, con el propósito de potencializar las capacidades ejecutivas, humanas, logísticas, financieras de los gobiernos locales a través de la formulación de programas y proyectos que les permitieran el fortalecimiento de sus capacidades.",
+   "logos": {
+    "H_negro": "assets/marcas/desarrollo-territorial/H_negro.png",
+    "H_color": "assets/marcas/desarrollo-territorial/H_color.png",
+    "H_blanco": "assets/marcas/desarrollo-territorial/H_blanco.png",
+    "V_color": "assets/marcas/desarrollo-territorial/V_color.png",
+    "V_blanco": "assets/marcas/desarrollo-territorial/V_blanco.png",
+    "V_negro": "assets/marcas/desarrollo-territorial/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/desarrollo-territorial/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/desarrollo-territorial/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/desarrollo-territorial/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/desarrollo-territorial/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/desarrollo-territorial/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/desarrollo-territorial/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "coomulpinort",
+   "nombre": "Coomulpinort",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Finanzas, seguros y juegos de azar",
+   "subsector": "Cooperativas y crédito",
+   "alianza": "",
+   "descripcion": "cooperativa y distribuidora mayorista de combustibles con sede en Norte de Santander, Colombia, creada en 2009 para formalizar e impulsar la reconversión socio-laboral de los vendedores informales de combustible conocidos como pimpineros.",
+   "logos": {
+    "H_negro": "assets/marcas/coomulpinort/H_negro.png",
+    "V_blanco": "assets/marcas/coomulpinort/V_blanco.png",
+    "H_blanco": "assets/marcas/coomulpinort/H_blanco.png",
+    "V_color": "assets/marcas/coomulpinort/V_color.png",
+    "H_color": "assets/marcas/coomulpinort/H_color.png",
+    "V_negro": "assets/marcas/coomulpinort/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/coomulpinort/2024-coomulpinort-intro-ani-log-fin-coo.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Coomulpinort",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/vp16T2vwPrU",
+     "origen": "youtube",
+     "peso": 0
+    }
+   ]
+  },
+  {
+   "id": "casa-grande",
+   "nombre": "Casa Grande",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Productos alimenticios",
+   "alianza": "",
+   "descripcion": "es una empresa agroindustrial colombiana, constituida",
+   "logos": {
+    "H_color": "assets/marcas/casa-grande/H_color.png",
+    "H_negro": "assets/marcas/casa-grande/H_negro.png",
+    "H_blanco": "assets/marcas/casa-grande/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Catálogo",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Catálogos",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/casa-grande/2024-casa-grande-catalogo-edi-cat-ali-pro.pdf",
+     "peso": 11,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "bet-on-me",
+   "nombre": "Bet On Me",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Finanzas, seguros y juegos de azar",
+   "subsector": "Juegos de azar",
+   "alianza": "",
+   "descripcion": "Es una aplicación de apuestas deportivas de colombia",
+   "logos": {
+    "H_blanco": "assets/marcas/bet-on-me/H_blanco.png",
+    "H_color": "assets/marcas/bet-on-me/H_color.png",
+    "H_negro": "assets/marcas/bet-on-me/H_negro.png",
+    "V_color": "assets/marcas/bet-on-me/V_color.png",
+    "V_negro": "assets/marcas/bet-on-me/V_negro.png",
+    "V_blanco": "assets/marcas/bet-on-me/V_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/bet-on-me/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/bet-on-me/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/bet-on-me/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/bet-on-me/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/bet-on-me/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/bet-on-me/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bet-on-me/2024-bet-on-me-diseno-de-logo-brd-log-fin-aza.pdf",
+     "peso": 57,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "alcaldia-de-quibdo",
+   "nombre": "Alcaldía de Quíbdo",
+   "anio": "2024",
+   "fecha": "2024-01-01",
+   "sector": "Gobierno y sector público",
+   "subsector": "Alcaldías y gobernaciones",
+   "alianza": "",
+   "descripcion": "es la entidad encargada de la administración municipal de Quibdó, capital del departamento del Chocó en Colombia",
+   "logos": {},
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Manual Corporativo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Manual de identidad corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/alcaldia-de-quibdo/2024-alcaldia-de-quibdo-manual-corporativo-brd-man-gob-alc.pdf",
+     "peso": 13,
+     "origen": "drive"
     }
    ]
   },
@@ -1971,7 +1432,14 @@ window.PORTAFOLIO = {
    "subsector": "Estética automotriz",
    "alianza": "",
    "descripcion": "Tezos Detailing es un centro de detallado y estética automotriz profesional ubicado en Cúcuta, Colombia.",
-   "logos": {},
+   "logos": {
+    "H_blanco": "assets/marcas/tezos/H_blanco.png",
+    "V_color": "assets/marcas/tezos/V_color.png",
+    "H_color": "assets/marcas/tezos/H_color.png",
+    "V_negro": "assets/marcas/tezos/V_negro.png",
+    "H_negro": "assets/marcas/tezos/H_negro.png",
+    "V_blanco": "assets/marcas/tezos/V_blanco.png"
+   },
    "origen": "Drive",
    "trabajos": [
     {
@@ -4292,7 +3760,11 @@ window.PORTAFOLIO = {
    "subsector": "Hoteles",
    "alianza": "",
    "descripcion": "El Hotel Ibis Cúcuta es un hotel de 3 estrellas de estilo económico, operado bajo la reconocida marca internacional Ibis del grupo multinacional francés Accor",
-   "logos": {},
+   "logos": {
+    "H_color": "assets/marcas/hotel-ibis-cucuta/H_color.png",
+    "H_negro": "assets/marcas/hotel-ibis-cucuta/H_negro.png",
+    "H_blanco": "assets/marcas/hotel-ibis-cucuta/H_blanco.png"
+   },
    "origen": "Drive",
    "trabajos": [
     {
@@ -5102,13 +4574,13 @@ window.PORTAFOLIO = {
      ]
     },
     {
-     "titulo": "Diseño Logo-CerberuS",
+     "titulo": "Diseño de Logo-CerberuS",
      "clase": "pdf",
      "tipo": "Branding e identidad visual",
      "sub": "Diseño de logotipo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/graphi-art/2023-graphi-art-diseno-logo-cerberus-brd-log-ser-pub.pdf",
+     "local": "assets/trabajos/graphi-art/2023-graphi-art-diseno-de-logo-cerberus-brd-log-ser-pub.pdf",
      "peso": 8,
      "origen": "drive"
     }
@@ -6292,6 +5764,1474 @@ window.PORTAFOLIO = {
    "origen": "Drive",
    "trabajos": [
     {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-1-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-2-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-3-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-4-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-5-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-6-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-7-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-8-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-9-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-10-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-11-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-12-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-13-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-14-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-15-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-16-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-17-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-18-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-19-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-20-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-21-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-22-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-23-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-24-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-25-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-26-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-27-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-28-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-29-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-30-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-31-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-32-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-33-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-34-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-35-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-36-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-37-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-38-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-39-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-40-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-41-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-42-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-43-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-44-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-45-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-46-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-47-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-48-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-49-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-50-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-51-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-52-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-53-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-54-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-55-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-56-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-57-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-58-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-59-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-60-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-61-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-62-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-63-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-64-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-65-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-66-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-67-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-68-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-69-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-70-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-71-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-72-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-73-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-74-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-75-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-76-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-77-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-78-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-79-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-80-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-81-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-82-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-83-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-84-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-85-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-86-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-87-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-88-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-89-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-90-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-91-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-92-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-93-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-94-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-95-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-96-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-97-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-98-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-99-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-100-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-101-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-102-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-103-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-104-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-105-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-106-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-107-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-108-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-109-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-110-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-111-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-112-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-113-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-114-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-115-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-116-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-117-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-118-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-119-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-120-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-121-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-122-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-123-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-124-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-125-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-126-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-127-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-128-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-129-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-130-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-131-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-132-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-133-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-134-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-135-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-136-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-137-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-138-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-139-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-140-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-141-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-142-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-143-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-144-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-145-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-146-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-147-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-148-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-149-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-150-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-151-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-152-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-153-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-154-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-155-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-156-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-157-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-158-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-159-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-160-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-161-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-162-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-163-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-164-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-165-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-166-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-167-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-168-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-169-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-170-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-171-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-172-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-173-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-174-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-175-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-176-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-177-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-178-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-179-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-180-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-181-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-182-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-183-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-184-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-185-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-186-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-187-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-188-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-189-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-190-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-191-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-192-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-193-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-194-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-195-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-196-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-197-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-198-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-199-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-200-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-201-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-202-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-203-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-204-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-205-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-206-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-207-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-208-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-209-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-210-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-211-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-212-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-213-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-214-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-215-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-216-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-217-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-218-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-219-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-220-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-221-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-222-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-223-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-224-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-225-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-09-calzado-elite-fotografia-producto-226-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-227-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-228-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-229-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-230-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-231-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-232-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-233-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-234-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-235-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-236-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-237-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-238-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-239-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-240-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-241-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-242-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-243-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-244-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-245-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-246-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-247-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-248-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-249-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-250-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-251-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-252-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-253-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-254-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-255-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-256-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-257-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-258-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-259-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-260-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-261-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-262-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-263-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-264-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-265-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-266-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-267-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-268-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-269-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-270-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-271-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-272-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-273-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-274-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-275-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-276-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-277-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-278-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-279-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-280-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-281-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-282-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-283-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-284-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-285-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-286-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-287-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-288-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-289-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-290-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/calzados-elite/2023-10-calzado-elite-fotografia-producto-291-fot-cor-mod-cal.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
      "titulo": "Reel (1)",
      "clase": "video",
      "tipo": "Social media",
@@ -7264,13 +8204,13 @@ window.PORTAFOLIO = {
      ]
     },
     {
-     "titulo": "Diseño Logo",
+     "titulo": "Diseño de Logo",
      "clase": "pdf",
      "tipo": "Branding e identidad visual",
      "sub": "Diseño de logotipo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/aneliz-creative/2023-aneliz-creative-diseno-logo-brd-log-med-eve.pdf",
+     "local": "assets/trabajos/aneliz-creative/2023-aneliz-creative-diseno-de-logo-brd-log-med-eve.pdf",
      "peso": 24,
      "origen": "drive"
     }
@@ -8974,6 +9914,84 @@ window.PORTAFOLIO = {
      ]
     },
     {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-9-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-1-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-6-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-7-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-8-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-10-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-11-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-12-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-13-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-14-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-15-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-16-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/legado/2021-legado-fotografia-producto-17-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
      "titulo": "Manual Corporativo",
      "clase": "pdf",
      "tipo": "Branding e identidad visual",
@@ -9040,14 +10058,212 @@ window.PORTAFOLIO = {
      "origen": "drive"
     },
     {
-     "titulo": "Reel",
+     "titulo": "Mockup Flyer (2)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-flyer-2-brd-sen-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Flyer (3)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-flyer-3-brd-sen-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Flyer (4)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-flyer-4-brd-sen-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Tarjetas de Presentación",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-tarjetas-de-presentacion-brd-sen-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Tijera",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-tijera-brd-sen-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Menú 01",
+     "clase": "imagen",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Menús y cartas",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-menu-01-edi-men-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Menú 03",
+     "clase": "imagen",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Menús y cartas",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-menu-03-edi-men-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Menú 07",
+     "clase": "imagen",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Menús y cartas",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-menu-07-edi-men-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Caja de Almuerzos (1)",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-caja-de-almuerzos-1-pac-emp-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Caja de Almuerzos (2)",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-caja-de-almuerzos-2-pac-emp-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Caja de Almuerzos (3)",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-caja-de-almuerzos-3-pac-emp-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Caja de Pollo (1)",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-caja-de-pollo-1-pac-emp-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Caja de Pollo (2)",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-caja-de-pollo-2-pac-emp-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
      "clase": "video",
      "tipo": "Social media",
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/legado/2023-04-legado-reel-red-ree-ali-res.mp4",
+     "local": "assets/trabajos/legado/2023-04-legado-reel-1-red-ree-ali-res.mp4",
      "peso": 14,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-reel-4-red-ree-ali-res.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-reel-3-red-ree-ali-res.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-reel-2-red-ree-ali-res.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-reel-6-red-ree-ali-res.mp4",
+     "peso": 20,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-reel-5-red-ree-ali-res.mp4",
+     "peso": 20,
      "origen": "drive"
     }
    ]
@@ -10152,7 +11368,8 @@ window.PORTAFOLIO = {
      "peso": 21,
      "origen": "drive"
     }
-   ]
+   ],
+   "pagina": "marcas/tierra-santa-visteme.html"
   },
   {
    "id": "u-make",
@@ -10228,7 +11445,8 @@ window.PORTAFOLIO = {
      "peso": 4,
      "origen": "drive"
     }
-   ]
+   ],
+   "pagina": "marcas/todo-fiesta.html"
   },
   {
    "id": "terranova",
