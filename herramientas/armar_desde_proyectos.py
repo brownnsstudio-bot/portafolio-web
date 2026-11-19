@@ -305,8 +305,23 @@ def copiar_trabajo(full, sid):
         except Exception as e:
             print("  video no se pudo comprimir, se copia tal cual:", os.path.basename(full), file=sys.stderr)
             dst = os.path.join(dst_dir, nombre + ext); shutil.copyfile(full, dst)
-    else:  # pdf u otros: se copian tal cual
-        dst = os.path.join(dst_dir, nombre + ext); shutil.copyfile(full, dst)
+    else:  # pdf u otros
+        dst = os.path.join(dst_dir, nombre + ext)
+        # PDF muy pesado (p. ej. manual con imágenes enormes): se aligera SIN rasterizar.
+        # rewrite_images recomprime solo las imágenes embebidas y CONSERVA texto y vectores
+        # (el manual sigue siendo editable). GitHub rechaza archivos > 100 MB, así que
+        # cualquier PDF por encima del umbral se recomprime; el resto se copia tal cual.
+        if ext == ".pdf" and os.path.getsize(full) > 90 * 1024 * 1024:
+            try:
+                import pymupdf
+                d = pymupdf.open(full)
+                d.rewrite_images(quality=85, lossy=True, lossless=True, color=True, gray=True)
+                d.save(dst, deflate=True, garbage=4, clean=True); d.close()
+            except Exception as e:
+                print("  pdf no se pudo aligerar, se copia tal cual:", os.path.basename(full), e, file=sys.stderr)
+                shutil.copyfile(full, dst)
+        else:
+            shutil.copyfile(full, dst)
     return os.path.relpath(dst, WEB).replace("\\", "/")
 
 def fondo_para(im):
