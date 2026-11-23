@@ -4679,64 +4679,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "combos-de-medallo",
-   "nombre": "Combos de Medallo",
-   "anio": "2025",
-   "fecha": "2025-01-01",
-   "sector": "Alimentos y bebidas",
-   "subsector": "Restaurantes y comidas rápidas",
-   "alianza": "",
-   "descripcion": "Restaurante de comida rápida en un trailer que vende comida rápida con enfoque paisa ubicada en Boston USA",
-   "logos": {},
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de Flyer-08",
-     "clase": "imagen",
-     "tipo": "Branding e identidad visual",
-     "sub": "Papelería corporativa",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/combos-de-medallo/2025-combos-de-medallo-diseno-de-flyer-08-brd-pap-ali-res.png",
-     "peso": 0,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Diseño de Flyer-07",
-     "clase": "imagen",
-     "tipo": "Branding e identidad visual",
-     "sub": "Papelería corporativa",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/combos-de-medallo/2025-combos-de-medallo-diseno-de-flyer-07-brd-pap-ali-res.jpg",
-     "peso": 0,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Mockup Trailer Mural F",
-     "clase": "imagen",
-     "tipo": "Branding e identidad visual",
-     "sub": "Señalética y aplicaciones de marca",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/combos-de-medallo/2025-combos-de-medallo-mockup-trailer-mural-f-brd-sen-ali-res.jpg",
-     "peso": 0,
-     "origen": "drive"
-    },
-    {
-     "titulo": "Mockup Personaje",
-     "clase": "imagen",
-     "tipo": "Diseño gráfico y editorial",
-     "sub": "Ilustración y personajes",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/combos-de-medallo/2025-combos-de-medallo-mockup-personaje-edi-ilu-ali-res.jpg",
-     "peso": 1,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
    "id": "colombian-gym-wear",
    "nombre": "Colombian Gym Wear",
    "anio": "2025",
@@ -5466,7 +5408,11 @@ window.PORTAFOLIO = {
    "subsector": "Seguridad privada",
    "alianza": "",
    "descripcion": "",
-   "logos": {},
+   "logos": {
+    "H_negro": "assets/marcas/bajo-custodia/H_negro.png",
+    "H_blanco": "assets/marcas/bajo-custodia/H_blanco.png",
+    "H_color": "assets/marcas/bajo-custodia/H_color.png"
+   },
    "origen": "Drive",
    "trabajos": [
     {
@@ -7932,14 +7878,21 @@ window.PORTAFOLIO = {
   },
   {
    "id": "alcaldia-de-quibdo",
-   "nombre": "Alcaldía de Quíbdo",
+   "nombre": "Alcaldía de Quibdó",
    "anio": "2024",
    "fecha": "2024-01-01",
    "sector": "Gobierno y sector público",
    "subsector": "Alcaldías y gobernaciones",
    "alianza": "",
    "descripcion": "es la entidad encargada de la administración municipal de Quibdó, capital del departamento del Chocó en Colombia",
-   "logos": {},
+   "logos": {
+    "H_negro": "assets/marcas/alcaldia-de-quibdo/H_negro.png",
+    "V_blanco": "assets/marcas/alcaldia-de-quibdo/V_blanco.png",
+    "H_blanco": "assets/marcas/alcaldia-de-quibdo/H_blanco.png",
+    "V_color": "assets/marcas/alcaldia-de-quibdo/V_color.png",
+    "H_color": "assets/marcas/alcaldia-de-quibdo/H_color.png",
+    "V_negro": "assets/marcas/alcaldia-de-quibdo/V_negro.png"
+   },
    "origen": "Drive",
    "trabajos": [
     {
@@ -15768,7 +15721,11 @@ window.PORTAFOLIO = {
    "subsector": "Restaurantes y comidas rápidas",
    "alianza": "",
    "descripcion": "Pizzería muy reconocida en la ciudad de Cúcuta.",
-   "logos": {},
+   "logos": {
+    "H_color": "assets/marcas/memo-s-pizza/H_color.png",
+    "H_negro": "assets/marcas/memo-s-pizza/H_negro.png",
+    "H_blanco": "assets/marcas/memo-s-pizza/H_blanco.png"
+   },
    "origen": "Drive",
    "trabajos": [
     {
@@ -22898,6 +22855,50 @@ window.PORTAFOLIO = {
        "fondo": "oscuro"
       }
      ]
+    },
+    {
+     "titulo": "Diseño de Flyer-08",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/los-combos-de-medallo/2025-los-combos-de-medallo-diseno-de-flyer-08-brd-pap-ali-res.png",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Diseño de Flyer-07",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/los-combos-de-medallo/2025-los-combos-de-medallo-diseno-de-flyer-07-brd-pap-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Trailer Mural F",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/los-combos-de-medallo/2025-los-combos-de-medallo-mockup-trailer-mural-f-brd-sen-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Personaje",
+     "clase": "imagen",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Ilustración y personajes",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/los-combos-de-medallo/2025-los-combos-de-medallo-mockup-personaje-edi-ilu-ali-res.jpg",
+     "peso": 1,
+     "origen": "drive"
     },
     {
      "titulo": "(Personaje)",
