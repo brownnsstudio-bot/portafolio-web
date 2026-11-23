@@ -5458,6 +5458,31 @@ window.PORTAFOLIO = {
    ]
   },
   {
+   "id": "bajo-custodia",
+   "nombre": "Bajo Custodia",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Servicios profesionales",
+   "subsector": "Seguridad privada",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {},
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajo-custodia/2025-bajo-custodia-intro-ani-log-ser-vig.mp4",
+     "peso": 2,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
    "id": "autoland",
    "nombre": "Autoland",
    "anio": "2025",
@@ -22762,8 +22787,8 @@ window.PORTAFOLIO = {
    "nombre": "Metamorphosis",
    "anio": "0000",
    "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Belleza, uñas y spa",
    "alianza": "",
    "descripcion": "",
    "logos": {
@@ -22825,7 +22850,7 @@ window.PORTAFOLIO = {
      "sub": "Animación de logo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/metamorphosis/metamorphosis-intro.mp4",
+     "local": "assets/trabajos/metamorphosis/2025-metamorphosis-intro-ani-log-mod-bel.mp4",
      "peso": 1,
      "origen": "drive"
     }
@@ -22947,31 +22972,6 @@ window.PORTAFOLIO = {
        "fondo": "claro"
       }
      ]
-    }
-   ]
-  },
-  {
-   "id": "bajo-custodia",
-   "nombre": "Bajo Custodia",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {},
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Intro",
-     "clase": "video",
-     "tipo": "Motion graphics y animación",
-     "sub": "Animación de logo",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/bajo-custodia/bajo-custodia-intro.mp4",
-     "peso": 2,
-     "origen": "drive"
     }
    ]
   }

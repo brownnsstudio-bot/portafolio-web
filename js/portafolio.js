@@ -101,7 +101,22 @@
     const art = el("article", "trabajo");
     const marco = el("div", "video-marco");
     const src = v.youtube || enlaceDrive(v.drive);
-    if (v.clase === "video" && src) {
+    if (v.clase === "video" && v.youtube) {
+      // YouTube: se muestra la miniatura en ALTA (maxresdefault) con botón de play;
+      // el iframe pesado se carga solo al tocar. Más nítido y mucho más liviano que 35 iframes.
+      const id = (v.youtube.match(/embed\/([\w-]+)/) || [])[1] || "";
+      const img = el("img", "video-thumb"); img.alt = v.titulo; img.loading = "lazy"; img.decoding = "async";
+      const QS = ["maxresdefault", "sddefault", "hqdefault"]; let qi = 0;
+      const poner = () => { img.src = "https://i.ytimg.com/vi/" + id + "/" + QS[qi] + ".jpg"; };
+      // i.ytimg devuelve un placeholder 120x90 cuando no existe esa resolución: si llega eso, bajar de calidad
+      img.addEventListener("load", () => { if (img.naturalWidth <= 120 && qi < QS.length - 1) { qi++; poner(); } });
+      img.addEventListener("error", () => { if (qi < QS.length - 1) { qi++; poner(); } });
+      poner();
+      const btn = el("button", "video-play"); btn.type = "button"; btn.setAttribute("aria-label", "Reproducir: " + v.titulo);
+      const abrir = () => { const f = el("iframe"); f.src = v.youtube + "?autoplay=1&rel=0"; f.title = v.titulo; f.allow = "autoplay; fullscreen"; f.allowFullscreen = true; marco.textContent = ""; marco.append(f); };
+      btn.addEventListener("click", abrir);
+      marco.classList.add("video-youtube"); marco.append(img, btn);
+    } else if (v.clase === "video" && src) {
       const f = el("iframe"); f.src = src; f.title = v.titulo; f.loading = "lazy"; f.allow = "autoplay; fullscreen"; f.allowFullscreen = true; marco.append(f);
     } else if (v.clase === "video" && v.local) {
       // video en el disco (prueba local): solo carga una vista previa y arranca al tocar play
