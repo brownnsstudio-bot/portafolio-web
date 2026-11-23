@@ -16,6 +16,1366 @@ window.PORTAFOLIO = {
  },
  "marcas": [
   {
+   "id": "vibraai",
+   "nombre": "VibraAi",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Tecnología y telecomunicaciones",
+   "subsector": "Software y aplicaciones",
+   "alianza": "",
+   "descripcion": "Agencia y estrategas en marketing y AI Creators first",
+   "logos": {
+    "H_negro": "assets/marcas/vibraai/H_negro.png",
+    "H_blanco": "assets/marcas/vibraai/H_blanco.png",
+    "H_color": "assets/marcas/vibraai/H_color.png",
+    "V_blanco": "assets/marcas/vibraai/V_blanco.png",
+    "V_color": "assets/marcas/vibraai/V_color.png",
+    "V_negro": "assets/marcas/vibraai/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/vibraai/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/vibraai/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/vibraai/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/vibraai/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/vibraai/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/vibraai/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uis-emprende",
+   "nombre": "UIS Emprende",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Educación",
+   "subsector": "Universidades",
+   "alianza": "",
+   "descripcion": "es el programa institucional de emprendimiento de la Universidad Industrial de Santander (UIS), adscrito a su Dirección de Transferencia de Conocimiento / Vicerrectoría de Investigación y Extensión. Puedes consultar su información oficial en el portal de UIS Emprende",
+   "logos": {
+    "H_blanco": "assets/marcas/uis-emprende/H_blanco.png",
+    "H_color": "assets/marcas/uis-emprende/H_color.png",
+    "H_negro": "assets/marcas/uis-emprende/H_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/uis-emprende/2026-uis-emprende-reel-4-red-ree-edu-uni.mp4",
+     "peso": 144,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/uis-emprende/2026-uis-emprende-reel-1-red-ree-edu-uni.mp4",
+     "peso": 355,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/uis-emprende/2026-uis-emprende-reel-2-red-ree-edu-uni.mp4",
+     "peso": 110,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/uis-emprende/2026-uis-emprende-reel-3-red-ree-edu-uni.mp4",
+     "peso": 34,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "tu-casa",
+   "nombre": "Tu Casa",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "es un restaurante y bar de propiedad latina ubicado en Chelsea, Massachusetts (área metropolitana de Boston), especializado en comida latina —con énfasis en cocina colombiana e internacional—, cócteles y ambiente social.",
+   "logos": {
+    "H_color": "assets/marcas/tu-casa/H_color.png",
+    "H_negro": "assets/marcas/tu-casa/H_negro.png",
+    "H_blanco": "assets/marcas/tu-casa/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Menú",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Menús y cartas",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tu-casa/2026-tu-casa-menu-edi-men-ali-res.pdf",
+     "peso": 17,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "raos",
+   "nombre": "RAOS",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Sin clasificar",
+   "subsector": "",
+   "alianza": "",
+   "descripcion": "es una firma con presencia en Miami, Florida, enfocada en coaching de vida, marca personal, liderazgo y consultoría organizacional. Su enfoque principal es ayudar a líderes, profesionales y empresas a ganar claridad, tomar decisiones y pasar de la planificación a la acción bajo su lema \"De la Confusión a la Acción\".",
+   "logos": {
+    "H_blanco": "assets/marcas/raos/H_blanco.png",
+    "H_color": "assets/marcas/raos/H_color.png",
+    "H_negro": "assets/marcas/raos/H_negro.png",
+    "V_blanco": "assets/marcas/raos/V_blanco.png",
+    "V_color": "assets/marcas/raos/V_color.png",
+    "V_negro": "assets/marcas/raos/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/raos/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/raos/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/raos/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/raos/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/raos/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/raos/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/raos/2026-raos-diseno-de-logo-brd-log-sin.pdf",
+     "peso": 39,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "plataforma-logistica",
+   "nombre": "Plataforma Logística",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Servicios profesionales",
+   "subsector": "Logística y transporte de carga",
+   "alianza": "",
+   "descripcion": "es un operador logístico con sede en Medellín, Colombia, especializado en consolidación y distribución de carga seca para el canal moderno y de consumo masivo.",
+   "logos": {
+    "H_negro": "assets/marcas/plataforma-logistica/H_negro.png",
+    "H_blanco": "assets/marcas/plataforma-logistica/H_blanco.png",
+    "H_color": "assets/marcas/plataforma-logistica/H_color.png",
+    "V_blanco": "assets/marcas/plataforma-logistica/V_blanco.png",
+    "V_color": "assets/marcas/plataforma-logistica/V_color.png",
+    "V_negro": "assets/marcas/plataforma-logistica/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-20-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-1-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-2-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-3-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-4-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-5-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-6-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-7-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-8-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-9-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-10-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-11-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-12-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-13-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-14-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-15-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-16-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-17-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-18-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-fotografia-publicitaria-19-fot-cor-ser-log.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Manual Corporativo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Manual de identidad corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-manual-corporativo-brd-man-ser-log.pdf",
+     "peso": 138,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Portafolio",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Catálogos",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-portafolio-edi-cat-ser-log.pdf",
+     "peso": 32,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Corporativo",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-corporativo-aud-cor-ser-log.mp4",
+     "peso": 88,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/plataforma-logistica/2026-plataforma-logistica-intro-ani-log-ser-log.mp4",
+     "peso": 19,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "patatas",
+   "nombre": "Patatas",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "Patatas Gourmet: restaurante de papas gourmet cargadas (menú con recetas tipo Mamma Mia, Carbonara…).",
+   "logos": {
+    "H_blanco": "assets/marcas/patatas/H_blanco.png",
+    "H_color": "assets/marcas/patatas/H_color.png",
+    "H_negro": "assets/marcas/patatas/H_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-26-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-1-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-2-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-3-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-4-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-5-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-6-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-7-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-8-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-9-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-10-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-11-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-12-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-13-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-14-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-15-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-16-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-17-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-18-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-19-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-20-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-21-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-22-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-23-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-24-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-producto-25-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-21-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-1-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-2-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-3-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-4-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-5-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-6-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-7-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-8-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-9-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-10-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-11-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-12-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-13-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-14-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-15-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-16-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-17-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-18-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-19-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/patatas/2026-patatas-fotografia-publicitaria-20-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Menú",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Menús y cartas",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/patatas/2026-patatas-menu-edi-men-ali-res.pdf",
+     "peso": 40,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Menú Pantallas",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/patatas/2026-patatas-menu-pantallas-aud-cor-ali-res.mp4",
+     "peso": 184,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/patatas/2026-patatas-intro-ani-log-ali-res.mp4",
+     "peso": 20,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "oskarate-usa",
+   "nombre": "Oskarate USA",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Educación",
+   "subsector": "Cursos y academias",
+   "alianza": "",
+   "descripcion": "es una escuela de artes marciales y acondicionamiento físico ubicada en West Palm Beach, Florida. Su nombre y legado se conectan con la organización Oskarate fundada en Venezuela en 1981 por el Sensei Oscar González, pionero del Kenpo Karate en ese país.",
+   "logos": {
+    "H_color": "assets/marcas/oskarate-usa/H_color.png",
+    "H_negro": "assets/marcas/oskarate-usa/H_negro.png",
+    "H_blanco": "assets/marcas/oskarate-usa/H_blanco.png",
+    "V_blanco": "assets/marcas/oskarate-usa/V_blanco.png",
+    "V_color": "assets/marcas/oskarate-usa/V_color.png",
+    "V_negro": "assets/marcas/oskarate-usa/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/oskarate-usa/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/oskarate-usa/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/oskarate-usa/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/oskarate-usa/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/oskarate-usa/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/oskarate-usa/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/oskarate-usa/2026-oskarate-usa-diseno-de-logo-brd-log-edu-cur.pdf",
+     "peso": 7,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "millennium-gemstone",
+   "nombre": "Millennium Gemstone",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Joyería y relojería",
+   "alianza": "",
+   "descripcion": "Empresa dedicada a la minería en Venezual y Colombia, específicamente en topacios y también la creación de joyas",
+   "logos": {
+    "H_negro": "assets/marcas/millennium-gemstone/H_negro.png",
+    "H_blanco": "assets/marcas/millennium-gemstone/H_blanco.png",
+    "H_color": "assets/marcas/millennium-gemstone/H_color.png",
+    "V_blanco": "assets/marcas/millennium-gemstone/V_blanco.png",
+    "V_color": "assets/marcas/millennium-gemstone/V_color.png",
+    "V_negro": "assets/marcas/millennium-gemstone/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/millennium-gemstone/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/millennium-gemstone/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/millennium-gemstone/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/millennium-gemstone/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/millennium-gemstone/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/millennium-gemstone/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mi-cda-florida",
+   "nombre": "Mi CDA Florida",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Automotriz y motos",
+   "subsector": "Revisión técnico-mecánica (CDA)",
+   "alianza": "",
+   "descripcion": "Centro de Diagnóstico Automotor (revisión técnico-mecánica), sede Centro Comercial Florida en Medellín.",
+   "logos": {
+    "H_blanco": "assets/marcas/mi-cda-florida/H_blanco.png",
+    "H_color": "assets/marcas/mi-cda-florida/H_color.png",
+    "H_negro": "assets/marcas/mi-cda-florida/H_negro.png",
+    "V_blanco": "assets/marcas/mi-cda-florida/V_blanco.png",
+    "V_color": "assets/marcas/mi-cda-florida/V_color.png",
+    "V_negro": "assets/marcas/mi-cda-florida/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/mi-cda-florida/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/mi-cda-florida/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/mi-cda-florida/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/mi-cda-florida/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/mi-cda-florida/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/mi-cda-florida/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mi-cda-florida/2026-mi-cda-florida-diseno-de-logo-brd-log-aut-cda.pdf",
+     "peso": 57,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "lumina",
+   "nombre": "Lumina",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "Lumina Lounge: restaurante/lounge (menús de temporada).",
+   "logos": {
+    "H_negro": "assets/marcas/lumina/H_negro.png",
+    "H_blanco": "assets/marcas/lumina/H_blanco.png",
+    "H_color": "assets/marcas/lumina/H_color.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/lumina/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/lumina/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/lumina/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Menú Veráno",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Menús y cartas",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/lumina/2026-lumina-menu-verano-edi-men-ali-res.pdf",
+     "peso": 7,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "lado",
+   "nombre": "Lado",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Servicios profesionales",
+   "subsector": "Agencias de publicidad y marketing",
+   "alianza": "",
+   "descripcion": "(Busca la descripción que te he dado de lado y agregala)",
+   "logos": {
+    "H_negro": "assets/marcas/lado/H_negro.png",
+    "H_blanco": "assets/marcas/lado/H_blanco.png",
+    "H_color": "assets/marcas/lado/H_color.png",
+    "V_blanco": "assets/marcas/lado/V_blanco.png",
+    "V_color": "assets/marcas/lado/V_color.png",
+    "V_negro": "assets/marcas/lado/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/lado/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/lado/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/lado/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/lado/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/lado/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/lado/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jan-c-aguilar",
+   "nombre": "Jan C Aguilar",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Medios, entretenimiento y eventos",
+   "subsector": "Música y artistas",
+   "alianza": "",
+   "descripcion": "Cantante de música popular de la ciudad de medellín",
+   "logos": {
+    "H_blanco": "assets/marcas/jan-c-aguilar/H_blanco.png",
+    "H_color": "assets/marcas/jan-c-aguilar/H_color.png",
+    "H_negro": "assets/marcas/jan-c-aguilar/H_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "No Va a Ser Tan Fácil",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/jan-c-aguilar/2026-jan-c-aguilar-no-va-a-ser-tan-facil-aud-med-mus.mp4",
+     "peso": 217,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "h-w",
+   "nombre": "H&W",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Sin clasificar",
+   "subsector": "",
+   "alianza": "",
+   "descripcion": "Conductora de vehículos y transporte personal a clientes que se muevan por boston",
+   "logos": {
+    "H_blanco": "assets/marcas/h-w/H_blanco.png",
+    "H_color": "assets/marcas/h-w/H_color.png",
+    "H_negro": "assets/marcas/h-w/H_negro.png",
+    "V_blanco": "assets/marcas/h-w/V_blanco.png",
+    "V_color": "assets/marcas/h-w/V_color.png",
+    "V_negro": "assets/marcas/h-w/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/h-w/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/h-w/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/h-w/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/h-w/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/h-w/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/h-w/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/h-w/2026-h-w-diseno-de-logo-brd-log-sin.pdf",
+     "peso": 61,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "delicias-salvadorenas",
+   "nombre": "Delicias Salvadoreñas",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "Restaurante de comida salvadoreña Boston (EE. UU.): platos típicos.",
+   "logos": {
+    "H_color": "assets/marcas/delicias-salvadorenas/H_color.png",
+    "H_negro": "assets/marcas/delicias-salvadorenas/H_negro.png",
+    "H_blanco": "assets/marcas/delicias-salvadorenas/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/delicias-salvadorenas/2026-delicias-salvadorenas-reel-1-red-ree-ali-res.mp4",
+     "peso": 35,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/delicias-salvadorenas/2026-delicias-salvadorenas-reel-2-red-ree-ali-res.mp4",
+     "peso": 52,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/delicias-salvadorenas/2026-delicias-salvadorenas-reel-3-red-ree-ali-res.mp4",
+     "peso": 60,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/delicias-salvadorenas/2026-delicias-salvadorenas-reel-4-red-ree-ali-res.mp4",
+     "peso": 40,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/delicias-salvadorenas/2026-delicias-salvadorenas-reel-5-red-ree-ali-res.mp4",
+     "peso": 40,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/delicias-salvadorenas/2026-delicias-salvadorenas-reel-6-red-ree-ali-res.mp4",
+     "peso": 81,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/delicias-salvadorenas/2026-delicias-salvadorenas-reel-7-red-ree-ali-res.mp4",
+     "peso": 38,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/delicias-salvadorenas/2026-delicias-salvadorenas-reel-8-red-ree-ali-res.mp4",
+     "peso": 43,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/delicias-salvadorenas/2026-delicias-salvadorenas-reel-9-red-ree-ali-res.mp4",
+     "peso": 38,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "amino-ice",
+   "nombre": "Amino ICE",
+   "anio": "2026",
+   "fecha": "2026-01-01",
+   "sector": "Medios, entretenimiento y eventos",
+   "subsector": "Eventos y decoración",
+   "alianza": "",
+   "descripcion": "Ice Group: máquinas granizadas para activaciones de marca en eventos.",
+   "logos": {
+    "H_color": "assets/marcas/amino-ice/H_color.png",
+    "H_negro": "assets/marcas/amino-ice/H_negro.png",
+    "H_blanco": "assets/marcas/amino-ice/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-1-fot-cor-med-eve.png",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-2-fot-cor-med-eve.png",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-3-fot-cor-med-eve.png",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-4-fot-cor-med-eve.png",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-5-fot-cor-med-eve.png",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-6-fot-cor-med-eve.png",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-1-red-ree-med-eve.mp4",
+     "peso": 41,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-2-red-ree-med-eve.mp4",
+     "peso": 35,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-3-red-ree-med-eve.mp4",
+     "peso": 29,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-4-red-ree-med-eve.mp4",
+     "peso": 48,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
    "id": "wally-draywall",
    "nombre": "Wally Draywall",
    "anio": "2025",
@@ -2684,35 +4044,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "lumina",
-   "nombre": "Lumina",
-   "anio": "2025",
-   "fecha": "2025-01-01",
-   "sector": "Alimentos y bebidas",
-   "subsector": "Restaurantes y comidas rápidas",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_negro": "assets/marcas/lumina/H_negro.png",
-    "H_blanco": "assets/marcas/lumina/H_blanco.png",
-    "H_color": "assets/marcas/lumina/H_color.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Menú Veráno",
-     "clase": "pdf",
-     "tipo": "Diseño gráfico y editorial",
-     "sub": "Menús y cartas",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/lumina/2025-lumina-menu-verano-edi-men-ali-res.pdf",
-     "peso": 7,
-     "origen": "drive"
-    }
-   ]
-  },
-  {
    "id": "lucca",
    "nombre": "Lucca",
    "anio": "2025",
@@ -4413,267 +5744,267 @@ window.PORTAFOLIO = {
      "origen": "drive"
     },
     {
-     "titulo": "W5 Reel 04",
+     "titulo": "Reel (12)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w5-reel-04-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-12-red-ree-ali-pan.mp4",
      "peso": 9,
      "origen": "drive"
     },
     {
-     "titulo": "W5 Reel 01",
+     "titulo": "Reel (15)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w5-reel-01-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-15-red-ree-ali-pan.mp4",
      "peso": 13,
      "origen": "drive"
     },
     {
-     "titulo": "W4 Reel 11",
+     "titulo": "Reel (13)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w4-reel-11-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-13-red-ree-ali-pan.mp4",
      "peso": 8,
      "origen": "drive"
     },
     {
-     "titulo": "W4 Reel 04",
+     "titulo": "Reel (19)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w4-reel-04-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-19-red-ree-ali-pan.mp4",
      "peso": 15,
      "origen": "drive"
     },
     {
-     "titulo": "W4 Reel 03",
+     "titulo": "Reel (23)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w4-reel-03-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-23-red-ree-ali-pan.mp4",
      "peso": 17,
      "origen": "drive"
     },
     {
-     "titulo": "W4 Reel 02",
+     "titulo": "Reel (7)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w4-reel-02-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-7-red-ree-ali-pan.mp4",
      "peso": 1,
      "origen": "drive"
     },
     {
-     "titulo": "Video Pantalla Oreo 01",
+     "titulo": "Reel (3)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-oreo-01-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-3-red-ree-ali-pan.mp4",
      "peso": 1,
      "origen": "drive"
     },
     {
-     "titulo": "Ending",
+     "titulo": "Reel (8)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-ending-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-8-red-ree-ali-pan.mp4",
      "peso": 1,
      "origen": "drive"
     },
     {
-     "titulo": "Video Pantalla Miti-Miti 01",
+     "titulo": "Reel (6)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-miti-miti-01-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-6-red-ree-ali-pan.mp4",
      "peso": 1,
      "origen": "drive"
     },
     {
-     "titulo": "Video Pantalla Miti-Miti 02",
+     "titulo": "Reel (4)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-miti-miti-02-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-4-red-ree-ali-pan.mp4",
      "peso": 1,
      "origen": "drive"
     },
     {
-     "titulo": "Video Pantalla Chokoloco",
+     "titulo": "Reel (9)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-chokoloco-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-9-red-ree-ali-pan.mp4",
      "peso": 1,
      "origen": "drive"
     },
     {
-     "titulo": "Video Pantalla La Cumpleañera",
+     "titulo": "Reel (2)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-la-cumpleanera-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-2-red-ree-ali-pan.mp4",
      "peso": 1,
      "origen": "drive"
     },
     {
-     "titulo": "Video Pantalla L’Original 02",
+     "titulo": "Reel (5)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-l-original-02-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-5-red-ree-ali-pan.mp4",
      "peso": 1,
      "origen": "drive"
     },
     {
-     "titulo": "Video Pantalla L’Original 01",
+     "titulo": "Reel (1)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-l-original-01-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-1-red-ree-ali-pan.mp4",
      "peso": 1,
      "origen": "drive"
     },
     {
-     "titulo": "Video Pantalla Cookada",
+     "titulo": "Reel (21)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-cookada-red-ali-pan.mp4",
-     "peso": 1,
-     "origen": "drive"
-    },
-    {
-     "titulo": "W3 Reel 11",
-     "clase": "video",
-     "tipo": "Social media",
-     "sub": "",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w3-reel-11-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-21-red-ree-ali-pan.mp4",
      "peso": 24,
      "origen": "drive"
     },
     {
-     "titulo": "W3 Reel 09",
+     "titulo": "Reel (11)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w3-reel-09-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-11-red-ree-ali-pan.mp4",
      "peso": 8,
      "origen": "drive"
     },
     {
-     "titulo": "W3 Reel 08",
+     "titulo": "Reel (22)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w3-reel-08-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-22-red-ree-ali-pan.mp4",
      "peso": 29,
      "origen": "drive"
     },
     {
-     "titulo": "W3 Reel 04",
+     "titulo": "Reel (14)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w3-reel-04-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-14-red-ree-ali-pan.mp4",
      "peso": 11,
      "origen": "drive"
     },
     {
-     "titulo": "W2 Reel 02",
+     "titulo": "Reel (18)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w2-reel-02-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-18-red-ree-ali-pan.mp4",
      "peso": 31,
      "origen": "drive"
     },
     {
-     "titulo": "W2 Reel 01",
+     "titulo": "Reel (17)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w2-reel-01-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-17-red-ree-ali-pan.mp4",
      "peso": 30,
      "origen": "drive"
     },
     {
-     "titulo": "W5 Reel 05",
+     "titulo": "Reel (16)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-12-cookiiz-w5-reel-05-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-16-red-ree-ali-pan.mp4",
      "peso": 9,
      "origen": "drive"
     },
     {
-     "titulo": "W5 Reel 01",
+     "titulo": "Reel (20)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-12-cookiiz-w5-reel-01-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-20-red-ree-ali-pan.mp4",
      "peso": 19,
      "origen": "drive"
     },
     {
-     "titulo": "W6 Reel 08",
+     "titulo": "Reel (10)",
      "clase": "video",
      "tipo": "Social media",
-     "sub": "",
+     "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/cookiiz/2025-12-cookiiz-w6-reel-08-red-ali-pan.mp4",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-reel-10-red-ree-ali-pan.mp4",
      "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-intro-ani-log-ali-pan.mp4",
+     "peso": 1,
      "origen": "drive"
     }
    ]
@@ -7878,7 +9209,7 @@ window.PORTAFOLIO = {
   },
   {
    "id": "alcaldia-de-quibdo",
-   "nombre": "Alcaldía de Quibdó",
+   "nombre": "Alcaldía de Quíbdo",
    "anio": "2024",
    "fecha": "2024-01-01",
    "sector": "Gobierno y sector público",

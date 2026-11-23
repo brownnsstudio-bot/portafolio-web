@@ -124,3 +124,27 @@ Tu Chance = [MOD-ROP]
 L2 Sudamerica = [TEC-SOF]
 Bajo Custodia = [SER-VIG]
 Metamorphosis = [MOD-BEL]
+
+# --- 2026 (sector deducido del panel / briefs de cada carpeta) ---
+# Confiados (tienen trabajos y evidencia clara):
+Patatas = [ALI-RES]
+Delicias Salvadoreñas = [ALI-RES]
+Tu Casa = [ALI-RES]
+Mi CDA Florida = [AUT-CDA]
+Plataforma Logística = [SER-LOG]
+# (Lumina = [ALI-RES] ya está arriba en 2025; es cliente 2026)
+# Dudosos / por confirmar con el usuario (hoy casi todos solo tienen logo en el Drive):
+Amino ICE = [MED-EVE]          # granizados para activaciones de marca en eventos (¿[ALI-BEB]?)
+Millennium Gemstone = [MOD-JOY] # joyería / piedras preciosas
+VibraAi = [TEC-SOF]            # ¿app/tecnología con IA? CONFIRMAR
+Oskarate USA = [EDU-CUR]       # ¿academia de karate en EE. UU.? CONFIRMAR
+Lado = [SER-PUB]               # marca propia del estudio LADO
+H&W = [SIN]                    # PENDIENTE: no sé a qué se dedica
+RAOS = [SIN]                   # PENDIENTE: no sé a qué se dedica
+# Aún sin material en el Drive (se agregan cuando subas sus piezas):
+Jan C Aguilar = [MED-MUS]      # músico (carpeta "Andres Pérez")
+UIS Emprende = [EDU-UNI]       # programa de emprendimiento UIS (carpeta "Diego Baron")
+DMP = [EDU-CUR]                # curso «Marketing de 0 a Visible»
+Mayra Gamboa = [PSO-MPE]       # ¿marca personal? CONFIRMAR
+Familia Pérez = [PSO-OTR]      # sesión familiar
+# Ingenio, Jose Gregorio, Mi Kary: PENDIENTE de rubro
