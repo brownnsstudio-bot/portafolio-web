@@ -16,6 +16,6978 @@ window.PORTAFOLIO = {
  },
  "marcas": [
   {
+   "id": "wally-draywall",
+   "nombre": "Wally Draywall",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Construcción, inmobiliaria y hogar",
+   "subsector": "Acabados y materiales",
+   "alianza": "",
+   "descripcion": "Empresa dedicada a la reparación de viviendas con especialización en el montaje del draywall ubicada en Boston USA",
+   "logos": {
+    "H_negro": "assets/marcas/wally-draywall/H_negro.png",
+    "H_blanco": "assets/marcas/wally-draywall/H_blanco.png",
+    "H_color": "assets/marcas/wally-draywall/H_color.png",
+    "V_blanco": "assets/marcas/wally-draywall/V_blanco.png",
+    "V_color": "assets/marcas/wally-draywall/V_color.png",
+    "V_negro": "assets/marcas/wally-draywall/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/wally-draywall/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/wally-draywall/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/wally-draywall/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/wally-draywall/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/wally-draywall/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/wally-draywall/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/wally-draywall/2025-wally-draywall-diseno-de-logo-brd-log-con-aca.pdf",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/wally-draywall/2025-wally-draywall-intro-ani-log-con-aca.mp4",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "viggo-burger",
+   "nombre": "Viggo Burger",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "Restaurante de comida rápida con enfoque especial en hamburguesas, ganadora del Burger master en dos ocasiones, ubicada en marinilla y rionegro",
+   "logos": {
+    "H_negro": "assets/marcas/viggo-burger/H_negro.png",
+    "V_blanco": "assets/marcas/viggo-burger/V_blanco.png",
+    "H_blanco": "assets/marcas/viggo-burger/H_blanco.png",
+    "V_color": "assets/marcas/viggo-burger/V_color.png",
+    "H_color": "assets/marcas/viggo-burger/H_color.png",
+    "V_negro": "assets/marcas/viggo-burger/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-2-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-1-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-14-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-13-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-15-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-12-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-11-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-16-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-18-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-17-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-19-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-20-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-21-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-22-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-23-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-24-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-25-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-26-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-10-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-9-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-8-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-7-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-6-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-5-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-4-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/viggo-burger/2025-viggo-burger-fotografia-publicitaria-3-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-1-red-ree-ali-res.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-2-red-ree-ali-res.mp4",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-3-red-ree-ali-res.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-4-red-ree-ali-res.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-5-red-ree-ali-res.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-6-red-ree-ali-res.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-7-red-ree-ali-res.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-8-red-ree-ali-res.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-9-red-ree-ali-res.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-10-red-ree-ali-res.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-11-red-ree-ali-res.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (12)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-12-red-ree-ali-res.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (13)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-13-red-ree-ali-res.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (14)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-14-red-ree-ali-res.mp4",
+     "peso": 25,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (15)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-15-red-ree-ali-res.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (16)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-16-red-ree-ali-res.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (17)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-17-red-ree-ali-res.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (18)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-18-red-ree-ali-res.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (19)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-19-red-ree-ali-res.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (20)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-20-red-ree-ali-res.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (21)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-reel-21-red-ree-ali-res.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/viggo-burger/2025-viggo-burger-intro-ani-log-ali-res.mp4",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "tu-chance",
+   "nombre": "Tu Chance",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Ropa y ropa deportiva",
+   "alianza": "",
+   "descripcion": "Empresa que se encarga en hacer ropa urbana ubicada en guatemala",
+   "logos": {
+    "H_negro": "assets/marcas/tu-chance/H_negro.png",
+    "H_blanco": "assets/marcas/tu-chance/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tu-chance/2025-tu-chance-reel-red-ree-mod-rop.mp4",
+     "peso": 5,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "tienda-de-chorizos",
+   "nombre": "Tienda de Chorizos",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "es un restaurante y charcutería artesanal en Medellín enfocado en chorizos de cerdo asados al barril y fusiones de sabores alrededor de este ingrediente.",
+   "logos": {
+    "H_blanco": "assets/marcas/tienda-de-chorizos/H_blanco.png",
+    "H_color": "assets/marcas/tienda-de-chorizos/H_color.png",
+    "H_negro": "assets/marcas/tienda-de-chorizos/H_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-1-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-32-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-5-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-4-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-6-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-10-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-12-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-14-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-16-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-18-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-19-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-20-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-21-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-2-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-3-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-7-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-8-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-9-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-11-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-13-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-15-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-17-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-22-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-23-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-24-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-25-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-26-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-27-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-28-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-31-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-30-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-fotografia-publicitaria-29-fot-cor-ali-res.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (31)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-31-red-ree-ali-res.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (30)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-30-red-ree-ali-res.mp4",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (29)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-29-red-ree-ali-res.mp4",
+     "peso": 44,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (28)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-28-red-ree-ali-res.mp4",
+     "peso": 21,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (27)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-27-red-ree-ali-res.mp4",
+     "peso": 18,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (26)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-26-red-ree-ali-res.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (25)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-25-red-ree-ali-res.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (24)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-24-red-ree-ali-res.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (23)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-23-red-ree-ali-res.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (22)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-22-red-ree-ali-res.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (21)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-21-red-ree-ali-res.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (20)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-20-red-ree-ali-res.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (19)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-19-red-ree-ali-res.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (18)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-18-red-ree-ali-res.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (17)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-17-red-ree-ali-res.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (16)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-16-red-ree-ali-res.mp4",
+     "peso": 20,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (15)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-15-red-ree-ali-res.mp4",
+     "peso": 17,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (12)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-12-red-ree-ali-res.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (13)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-13-red-ree-ali-res.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-11-red-ree-ali-res.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (14)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-14-red-ree-ali-res.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-10-red-ree-ali-res.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-9-red-ree-ali-res.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-8-red-ree-ali-res.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-7-red-ree-ali-res.mp4",
+     "peso": 35,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-6-red-ree-ali-res.mp4",
+     "peso": 31,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-5-red-ree-ali-res.mp4",
+     "peso": 25,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-4-red-ree-ali-res.mp4",
+     "peso": 26,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-3-red-ree-ali-res.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-2-red-ree-ali-res.mp4",
+     "peso": 20,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-reel-1-red-ree-ali-res.mp4",
+     "peso": 14,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/tienda-de-chorizos/2025-tienda-de-chorizos-intro-ani-log-ali-res.mp4",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "somos-equipos",
+   "nombre": "Somos Equipos",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Medios, entretenimiento y eventos",
+   "subsector": "Podcast y creadores de contenido",
+   "alianza": "",
+   "descripcion": "Podcast de superación personal y empresarial de Monica y Ronald",
+   "logos": {
+    "H_negro": "assets/marcas/somos-equipos/H_negro.png",
+    "H_blanco": "assets/marcas/somos-equipos/H_blanco.png",
+    "H_color": "assets/marcas/somos-equipos/H_color.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Episodio 1. 38 DIAS QUE CAMBIARON NUESTRAS VIDAS.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/uqSem1McojE",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 2. El Ruido que Nos Separa",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/ZdulXA54HYg",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 3. Generaciones que no se entienden.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/iwWBG7doWIg",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 4. Los silencios que pesan.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/ldiXuiNiwjA",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 5. ¿Y si lo más valioso que tienes no se puede comprar?",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/4ccmzDCdxTM",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 6. Creemos que aún falta más...",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/AFKkYuZSN5o",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 7. Cuando ser fuerte se vuelve una obligación",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/F6fWK_HeHk0",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 8. Las creencias son puertas: unas cierran, otras abren.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/77ubVlbwJMw",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 9. La Trampa de las Expectativas",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/udMh7OkX68k",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 10. ¿Realmente funciona? Retiro con Joe Dispenza | Primera Parte",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/aC4ntO4nhlA",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 11: Reflexiones del Retiro con Joe Dispenza | Segunda Parte",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/SZP1DfxM9uA",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 12. ¿Y si la pasión no se encuentra, sino que se construye?",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/y8i-SlzJ5OU",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 13. Nadie me preparó para el sueño americano - Javier Barajas, CEO de JBG Electrical Corp.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/RQ7KoZbi0YU",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 14. El sueño no se hereda, se trabaja | Javier Barajas.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/PsKfWLAojcI",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 15. Navidad lejos de casa",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/yMzUoiq_-z0",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 16. De la gratitud a la acción: Crear lo que merecemos.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/HWJzozyCvbI",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 17. Servir con Intención y Propósito | Alexandra Arango",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/LfuT4EKUCGU",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 18. Servir como decisión, no como obligación | Alexandra Arango",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/RZafwLWIj4k",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 19. El daño que nos hacemos sin darnos cuenta.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/6qSfx88C2g0",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 20. A veces sufrimos más por lo que suponemos...",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/PQ80K9LugIE",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 21. Control Disfrazado de Buenas Intenciones.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/t79oDFc7H1g",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 22. El Poder del Perdón.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/M8xeaeanD8Y",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 23. AGRADECE LA VIDA TAL Y COMO ES.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/bYFdqzLoDwg",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 24. Anestesia Emocional",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/occDQmO4k7I",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 25. El enemigo silencioso del crecimiento.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/9n_n4LcKmPs",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "Episodio 26. Inspiración a través de la Disciplina.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Podcast",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/wB2rshnafXE",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "T2. EP1. Liderazgo Tradicional VS Liderazgo Consciente.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/L7u5_1TFc7o",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "T2. EP2. Los Pilares Que Nadie Construye.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/T3RVoC2gPJE",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "T2. EP3. Tu Tiempo NO Te Lo Roban, Tú lo regalas...",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/j16vkQYqdEY",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "T2. Ep 4. El legado que estás dejando...",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/mRsZq7bgFuE",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "T2. EP5. ¿Por qué la actitud importa más que el talento?",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/bD0pj4ZXaT4",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "T2. EP 6. Más allá del éxito: el camino hacia la felicidad.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/_0y74W3jUmg",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "T2 EP 7. ¿De quién es esta herida?",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/j8mlJoA-9Uk",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "T2. EP 8. ATREVERSE A HACERLO DIFERENTE",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/L0Hk0ZkrmCo",
+     "origen": "youtube",
+     "peso": 0
+    },
+    {
+     "titulo": "T2. EP 9. Tu mayor obstáculo podrías ser tú.",
+     "clase": "video",
+     "tipo": "Producción audiovisual",
+     "sub": "Video corporativo e institucional",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "youtube": "https://www.youtube-nocookie.com/embed/-VSkSnlZvRQ",
+     "origen": "youtube",
+     "peso": 0
+    }
+   ]
+  },
+  {
+   "id": "self-love",
+   "nombre": "Self Love",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Belleza, uñas y spa",
+   "alianza": "",
+   "descripcion": "empresa dedicada al cuidado de la piel ubicada en boston",
+   "logos": {
+    "H_negro": "assets/marcas/self-love/H_negro.png",
+    "H_blanco": "assets/marcas/self-love/H_blanco.png",
+    "H_color": "assets/marcas/self-love/H_color.png",
+    "V_blanco": "assets/marcas/self-love/V_blanco.png",
+    "V_color": "assets/marcas/self-love/V_color.png",
+    "V_negro": "assets/marcas/self-love/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/self-love/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/self-love/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/self-love/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/self-love/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/self-love/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/self-love/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/self-love/2025-self-love-diseno-de-logo-brd-log-mod-bel.pdf",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Logo (Antes) V",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Rediseño de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/self-love/2025-self-love-logo-antes-v-brd-reb-mod-bel.png",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Logo (Antes) H",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Rediseño de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/self-love/2025-self-love-logo-antes-h-brd-reb-mod-bel.png",
+     "peso": 0,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "picolandia-ahumados",
+   "nombre": "Picolandia Ahumados",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "Restaurante de comida hecha al barril ubicada en cucuta",
+   "logos": {
+    "H_negro": "assets/marcas/picolandia-ahumados/H_negro.png",
+    "H_blanco": "assets/marcas/picolandia-ahumados/H_blanco.png",
+    "H_color": "assets/marcas/picolandia-ahumados/H_color.png",
+    "V_blanco": "assets/marcas/picolandia-ahumados/V_blanco.png",
+    "V_color": "assets/marcas/picolandia-ahumados/V_color.png",
+    "V_negro": "assets/marcas/picolandia-ahumados/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/picolandia-ahumados/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/picolandia-ahumados/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/picolandia-ahumados/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/picolandia-ahumados/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/picolandia-ahumados/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/picolandia-ahumados/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/picolandia-ahumados/2025-picolandia-ahumados-diseno-de-logo-brd-log-ali-res.pdf",
+     "peso": 44,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Diseño de Caja 02C",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/picolandia-ahumados/2025-picolandia-ahumados-diseno-de-caja-02c-pac-emp-ali-res.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Diseño de Caja 01A",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/picolandia-ahumados/2025-picolandia-ahumados-diseno-de-caja-01a-pac-emp-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Diseño de Caja 01B",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/picolandia-ahumados/2025-picolandia-ahumados-diseno-de-caja-01b-pac-emp-ali-res.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Diseño de Caja 01C",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/picolandia-ahumados/2025-picolandia-ahumados-diseno-de-caja-01c-pac-emp-ali-res.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Diseño de Caja 02A",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/picolandia-ahumados/2025-picolandia-ahumados-diseno-de-caja-02a-pac-emp-ali-res.jpg",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Diseño de Caja 02B",
+     "clase": "imagen",
+     "tipo": "Packaging",
+     "sub": "Diseño de empaques",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/picolandia-ahumados/2025-picolandia-ahumados-diseno-de-caja-02b-pac-emp-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "ocaluz",
+   "nombre": "Ocaluz",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Finanzas, seguros y juegos de azar",
+   "subsector": "Contabilidad y asesoría financiera",
+   "alianza": "",
+   "descripcion": "Consultora de contaduría y legal en la ciudad de medellín",
+   "logos": {
+    "H_negro": "assets/marcas/ocaluz/H_negro.png",
+    "H_blanco": "assets/marcas/ocaluz/H_blanco.png",
+    "H_color": "assets/marcas/ocaluz/H_color.png",
+    "V_blanco": "assets/marcas/ocaluz/V_blanco.png",
+    "V_color": "assets/marcas/ocaluz/V_color.png",
+    "V_negro": "assets/marcas/ocaluz/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/ocaluz/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/ocaluz/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/ocaluz/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/ocaluz/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/ocaluz/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/ocaluz/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Mockup Firma Digital",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ocaluz/2025-ocaluz-mockup-firma-digital-brd-pap-fin-cnt.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Hoja Membrete (1920x1080)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ocaluz/2025-ocaluz-mockup-hoja-membrete-1920x1080-brd-pap-fin-cnt.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Tarjeta de Presentación",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ocaluz/2025-ocaluz-mockup-tarjeta-de-presentacion-brd-pap-fin-cnt.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Portafolio",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Catálogos",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ocaluz/2025-ocaluz-portafolio-edi-cat-fin-cnt.pdf",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ocaluz/2025-ocaluz-reel-3-red-ree-fin-cnt.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ocaluz/2025-ocaluz-reel-5-red-ree-fin-cnt.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ocaluz/2025-ocaluz-reel-2-red-ree-fin-cnt.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ocaluz/2025-ocaluz-reel-1-red-ree-fin-cnt.mp4",
+     "peso": 17,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ocaluz/2025-ocaluz-reel-4-red-ree-fin-cnt.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ocaluz/2025-ocaluz-intro-ani-log-fin-cnt.mp4",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "mercado-del-rio",
+   "nombre": "Mercado del Rio",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Mercados y plazas gastronómicas",
+   "alianza": "",
+   "descripcion": "es un espacio gastronómico y de entretenimiento ubicado en el sector de Ciudad del Río (El Poblado), en Medellín, inaugurado en octubre de 2016. Reúne decenas de propuestas culinarias, bares, cervecerías artesanales, cafés, canchas de tejo y zonas para eventos y música en vivo en un antiguo almacén industrial",
+   "logos": {
+    "H_negro": "assets/marcas/mercado-del-rio/H_negro.png",
+    "V_blanco": "assets/marcas/mercado-del-rio/V_blanco.png",
+    "H_blanco": "assets/marcas/mercado-del-rio/H_blanco.png",
+    "V_color": "assets/marcas/mercado-del-rio/V_color.png",
+    "H_color": "assets/marcas/mercado-del-rio/H_color.png",
+    "V_negro": "assets/marcas/mercado-del-rio/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-71-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-publicitaria-4-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-publicitaria-3-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-publicitaria-2-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-publicitaria-1-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-publicitaria-6-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-publicitaria-7-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-publicitaria-5-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-35-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-69-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-6-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-45-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-44-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-70-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-62-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-1-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-2-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-3-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-4-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-9-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-10-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-5-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-7-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-8-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-11-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-12-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-13-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-14-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-15-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-16-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-17-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-18-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-19-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-20-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-21-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-22-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-23-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-24-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-25-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-26-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-27-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-28-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-29-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-30-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-31-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-32-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-33-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-34-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-36-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-37-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-38-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-39-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-40-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-41-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-42-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-43-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-46-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-47-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-48-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-49-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-50-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-51-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-52-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-53-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-54-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-55-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-56-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-57-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-58-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-59-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-60-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-61-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-63-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-64-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-65-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-66-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-67-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-68-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-fotografia-producto-72-fot-cor-ali-mer.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-1-red-ree-ali-mer.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-2-red-ree-ali-mer.mp4",
+     "peso": 20,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-3-red-ree-ali-mer.mp4",
+     "peso": 17,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-4-red-ree-ali-mer.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-5-red-ree-ali-mer.mp4",
+     "peso": 18,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-6-red-ree-ali-mer.mp4",
+     "peso": 24,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-8-red-ree-ali-mer.mp4",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-7-red-ree-ali-mer.mp4",
+     "peso": 14,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-9-red-ree-ali-mer.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-10-red-ree-ali-mer.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-11-red-ree-ali-mer.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (12)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-12-red-ree-ali-mer.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (13)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-13-red-ree-ali-mer.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (14)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-14-red-ree-ali-mer.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (15)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-15-red-ree-ali-mer.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (16)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-16-red-ree-ali-mer.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (17)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-17-red-ree-ali-mer.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (18)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-18-red-ree-ali-mer.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (19)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-19-red-ree-ali-mer.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (20)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-20-red-ree-ali-mer.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (21)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-21-red-ree-ali-mer.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (22)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-22-red-ree-ali-mer.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (23)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-23-red-ree-ali-mer.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (24)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-24-red-ree-ali-mer.mp4",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (25)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-25-red-ree-ali-mer.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (26)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-26-red-ree-ali-mer.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (27)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-27-red-ree-ali-mer.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (28)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-28-red-ree-ali-mer.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (29)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-29-red-ree-ali-mer.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (30)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/mercado-del-rio/2025-mercado-del-rio-reel-30-red-ree-ali-mer.mp4",
+     "peso": 10,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "lumina",
+   "nombre": "Lumina",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {
+    "H_negro": "assets/marcas/lumina/H_negro.png",
+    "H_blanco": "assets/marcas/lumina/H_blanco.png",
+    "H_color": "assets/marcas/lumina/H_color.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Menú Veráno",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Menús y cartas",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/lumina/2025-lumina-menu-verano-edi-men-ali-res.pdf",
+     "peso": 7,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "lucca",
+   "nombre": "Lucca",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Bolsos y accesorios",
+   "alianza": "",
+   "descripcion": "submarca de amex la comercializadora",
+   "logos": {
+    "H_blanco": "assets/marcas/lucca/H_blanco.png",
+    "H_negro": "assets/marcas/lucca/H_negro.png",
+    "V_negro": "assets/marcas/lucca/V_negro.png",
+    "V_blanco": "assets/marcas/lucca/V_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/lucca/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/lucca/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/lucca/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/lucca/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Mockup Avisos (Caja de Luz) 04FA",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/lucca/2025-lucca-mockup-avisos-caja-de-luz-04fa-brd-sen-mod-acc.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Bolso Frontal 03A",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/lucca/2025-lucca-mockup-bolso-frontal-03a-brd-mer-mod-acc.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Bolso Frontal 03B",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/lucca/2025-lucca-mockup-bolso-frontal-03b-brd-mer-mod-acc.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Bolso Frontal 03C",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/lucca/2025-lucca-mockup-bolso-frontal-03c-brd-mer-mod-acc.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Correa Cargo 02",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/lucca/2025-lucca-mockup-correa-cargo-02-brd-mer-mod-acc.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Logo 04A",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/lucca/2025-lucca-mockup-logo-04a-brd-mer-mod-acc.jpg",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "la-cantina",
+   "nombre": "La Cantina",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "Restaurante de comida colombiana ubicado en Boston USA",
+   "logos": {
+    "H_negro": "assets/marcas/la-cantina/H_negro.png",
+    "V_blanco": "assets/marcas/la-cantina/V_blanco.png",
+    "H_blanco": "assets/marcas/la-cantina/H_blanco.png",
+    "V_color": "assets/marcas/la-cantina/V_color.png",
+    "H_color": "assets/marcas/la-cantina/H_color.png",
+    "V_negro": "assets/marcas/la-cantina/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Menú",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Menús y cartas",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/la-cantina/2025-la-cantina-menu-edi-men-ali-res.pdf",
+     "peso": 21,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Menú Veráno",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Menús y cartas",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/la-cantina/2025-la-cantina-menu-verano-edi-men-ali-res.pdf",
+     "peso": 3,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "l2-sudamerica",
+   "nombre": "L2 Sudamerica",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Tecnología y telecomunicaciones",
+   "subsector": "Software y aplicaciones",
+   "alianza": "",
+   "descripcion": "Servidor latinoamericano del juego Lineage 2",
+   "logos": {
+    "H_color": "assets/marcas/l2-sudamerica/H_color.png",
+    "H_negro": "assets/marcas/l2-sudamerica/H_negro.png",
+    "H_blanco": "assets/marcas/l2-sudamerica/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/l2-sudamerica/2025-l2-sudamerica-reel-red-ree-tec-sof.mp4",
+     "peso": 10,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "kaden",
+   "nombre": "Kaden",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Bolsos y accesorios",
+   "alianza": "",
+   "descripcion": "submarca de amex la comercializadora",
+   "logos": {
+    "H_blanco": "assets/marcas/kaden/H_blanco.png",
+    "H_negro": "assets/marcas/kaden/H_negro.png",
+    "V_negro": "assets/marcas/kaden/V_negro.png",
+    "V_blanco": "assets/marcas/kaden/V_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/kaden/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/kaden/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/kaden/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/kaden/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Mockup Correa Cargo 03",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/kaden/2025-kaden-mockup-correa-cargo-03-brd-mer-mod-acc.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Bolso Frontal A01",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/kaden/2025-kaden-mockup-bolso-frontal-a01-brd-mer-mod-acc.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Bolso Frontal A02",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/kaden/2025-kaden-mockup-bolso-frontal-a02-brd-mer-mod-acc.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Bolso Frontal B01",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/kaden/2025-kaden-mockup-bolso-frontal-b01-brd-mer-mod-acc.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Bolso Frontal B03",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/kaden/2025-kaden-mockup-bolso-frontal-b03-brd-mer-mod-acc.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Bolso Frontal C 01",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/kaden/2025-kaden-mockup-bolso-frontal-c-01-brd-mer-mod-acc.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Bolso Frontal C 03",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/kaden/2025-kaden-mockup-bolso-frontal-c-03-brd-mer-mod-acc.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Correa Cargo 01",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/kaden/2025-kaden-mockup-correa-cargo-01-brd-mer-mod-acc.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Correa Cargo 02",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/kaden/2025-kaden-mockup-correa-cargo-02-brd-mer-mod-acc.jpg",
+     "peso": 0,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "jm-global-technology",
+   "nombre": "JM Global Technology",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Sin clasificar",
+   "subsector": "",
+   "alianza": "",
+   "descripcion": "empresa que se encarga en vender tecnología a través de tiendas web",
+   "logos": {
+    "H_blanco": "assets/marcas/jm-global-technology/H_blanco.png",
+    "H_color": "assets/marcas/jm-global-technology/H_color.png",
+    "H_negro": "assets/marcas/jm-global-technology/H_negro.png",
+    "V_color": "assets/marcas/jm-global-technology/V_color.png",
+    "V_negro": "assets/marcas/jm-global-technology/V_negro.png",
+    "V_blanco": "assets/marcas/jm-global-technology/V_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/jm-global-technology/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/jm-global-technology/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/jm-global-technology/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/jm-global-technology/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/jm-global-technology/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/jm-global-technology/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jeans-maran",
+   "nombre": "Jeans Maran",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Ropa y ropa deportiva",
+   "alianza": "",
+   "descripcion": "empresa de cofecciónb y distribución de jeans a la moda, en la ciudad de cucuta",
+   "logos": {
+    "H_negro": "assets/marcas/jeans-maran/H_negro.png",
+    "H_blanco": "assets/marcas/jeans-maran/H_blanco.png",
+    "H_color": "assets/marcas/jeans-maran/H_color.png",
+    "V_blanco": "assets/marcas/jeans-maran/V_blanco.png",
+    "V_color": "assets/marcas/jeans-maran/V_color.png",
+    "V_negro": "assets/marcas/jeans-maran/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Manual Corporativo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Manual de identidad corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/jeans-maran/2025-jeans-maran-manual-corporativo-brd-man-mod-rop.pdf",
+     "peso": 9,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "hakuna-matata",
+   "nombre": "Hakuna Matata",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "es un local de comida saludable y postres fit ubicado dentro de Mercado del Río en Medellín",
+   "logos": {
+    "H_color": "assets/marcas/hakuna-matata/H_color.png",
+    "H_negro": "assets/marcas/hakuna-matata/H_negro.png",
+    "H_blanco": "assets/marcas/hakuna-matata/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel (18)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-18-red-ree-ali-res.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (17)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-17-red-ree-ali-res.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (16)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-16-red-ree-ali-res.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (15)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-15-red-ree-ali-res.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (14)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-14-red-ree-ali-res.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (13)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-13-red-ree-ali-res.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-11-red-ree-ali-res.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-10-red-ree-ali-res.mp4",
+     "peso": 18,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-9-red-ree-ali-res.mp4",
+     "peso": 19,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (12)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-12-red-ree-ali-res.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-8-red-ree-ali-res.mp4",
+     "peso": 16,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-7-red-ree-ali-res.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-6-red-ree-ali-res.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-5-red-ree-ali-res.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-4-red-ree-ali-res.mp4",
+     "peso": 17,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-2-red-ree-ali-res.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-3-red-ree-ali-res.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/hakuna-matata/2025-hakuna-matata-reel-1-red-ree-ali-res.mp4",
+     "peso": 19,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "gps-rolando-plazas",
+   "nombre": "GPS Rolando Plazas",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Servicios profesionales",
+   "subsector": "Seguridad privada",
+   "alianza": "",
+   "descripcion": "es una empresa colombiana con sede y fuerte presencia en Medellín, especializada en rastreo satelital, seguridad y recuperación de vehículos hurtados (motos, carros, camionetas, camiones y flotas). Puedes conocer más sobre la compañía en GPS Hunter.",
+   "logos": {
+    "H_negro": "assets/marcas/gps-rolando-plazas/H_negro.png",
+    "H_blanco": "assets/marcas/gps-rolando-plazas/H_blanco.png",
+    "H_color": "assets/marcas/gps-rolando-plazas/H_color.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/gps-rolando-plazas/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/gps-rolando-plazas/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/gps-rolando-plazas/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-fotografia-publicitaria-1-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-fotografia-publicitaria-10-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-fotografia-publicitaria-9-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-fotografia-publicitaria-8-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-fotografia-publicitaria-7-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-fotografia-publicitaria-6-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-fotografia-publicitaria-5-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-fotografia-publicitaria-4-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-fotografia-publicitaria-3-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-fotografia-publicitaria-2-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Logo (Antes)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Rediseño de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-logo-antes-brd-reb-ser-vig.png",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Stickers (Tamaño Media Carta)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-stickers-tamano-media-carta-brd-pap-ser-vig.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Stickers (Tamaño Carta)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-stickers-tamano-carta-brd-pap-ser-vig.jpg",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Central de Monitoreo Punto Charlie Portada Reglamento Interno de Trabajo",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-central-de-monitoreo-punto-charlie-portada-reglamento-interno-de-trabajo-brd-pap-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Stickers Mockup",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-stickers-mockup-brd-pap-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Uniforme Promotora 02B",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-uniforme-promotora-02b-brd-mer-ser-vig.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Uniforme Promotora 02A",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-uniforme-promotora-02a-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Camisa 02D",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-mockup-camisa-02d-brd-mer-ser-vig.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Camisa 01D",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-mockup-camisa-01d-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Camisa 01C",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-mockup-camisa-01c-brd-mer-ser-vig.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Camisa 01B",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-mockup-camisa-01b-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Camisa 02C",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-mockup-camisa-02c-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Camisa 02B",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-mockup-camisa-02b-brd-mer-ser-vig.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Camisa 02A",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-mockup-camisa-02a-brd-mer-ser-vig.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Camisa 01A",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-mockup-camisa-01a-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Camisas 01FB",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-camisas-01fb-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Camisas 01FA",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-camisas-01fa-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (17)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-17-red-ree-ser-vig.mp4",
+     "peso": 21,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (16)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-16-red-ree-ser-vig.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (15)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-15-red-ree-ser-vig.mp4",
+     "peso": 24,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (14)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-14-red-ree-ser-vig.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (13)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-13-red-ree-ser-vig.mp4",
+     "peso": 23,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (12)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-12-red-ree-ser-vig.mp4",
+     "peso": 18,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-11-red-ree-ser-vig.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-10-red-ree-ser-vig.mp4",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-1-red-ree-ser-vig.mp4",
+     "peso": 18,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-6-red-ree-ser-vig.mp4",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-7-red-ree-ser-vig.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-2-red-ree-ser-vig.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-5-red-ree-ser-vig.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-4-red-ree-ser-vig.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-3-red-ree-ser-vig.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-9-red-ree-ser-vig.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/gps-rolando-plazas/2025-gps-rolando-plazas-reel-8-red-ree-ser-vig.mp4",
+     "peso": 14,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "evenfazu",
+   "nombre": "Evenfazu",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Medios, entretenimiento y eventos",
+   "subsector": "Eventos y decoración",
+   "alianza": "",
+   "descripcion": "Evenfazu (o Evenfazu Producciones) es una empresa de organización y producción de eventos con sede en Cúcuta, Norte de Santander.",
+   "logos": {
+    "H_blanco": "assets/marcas/evenfazu/H_blanco.png",
+    "H_color": "assets/marcas/evenfazu/H_color.png",
+    "H_negro": "assets/marcas/evenfazu/H_negro.png",
+    "V_blanco": "assets/marcas/evenfazu/V_blanco.png",
+    "V_color": "assets/marcas/evenfazu/V_color.png",
+    "V_negro": "assets/marcas/evenfazu/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Manual Corporativo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Manual de identidad corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-manual-corporativo-brd-man-med-eve.pdf",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Presentación Furgón 02",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-mockup-presentacion-furgon-02-brd-sen-med-eve.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Presentación Furgón 01",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-mockup-presentacion-furgon-01-brd-sen-med-eve.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Portafolio",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Catálogos",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-portafolio-edi-cat-med-eve.pdf",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reels (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-reels-5-red-ree-med-eve.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reels (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-reels-6-red-ree-med-eve.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reels (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-reels-4-red-ree-med-eve.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reels (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-reels-3-red-ree-med-eve.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reels (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-reels-2-red-ree-med-eve.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reels (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-reels-1-red-ree-med-eve.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro (2)",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-intro-2-ani-log-med-eve.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro (1)",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-intro-1-ani-log-med-eve.mp4",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro IA",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Video con inteligencia artificial",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/evenfazu/2025-evenfazu-intro-ia-ani-iav-med-eve.mp4",
+     "peso": 6,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "ekomove",
+   "nombre": "Ekomove",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Automotriz y motos",
+   "subsector": "Movilidad eléctrica",
+   "alianza": "",
+   "descripcion": "Emporesa de venta de motocicletas/bicicletas eléctricas en monteria",
+   "logos": {
+    "H_blanco": "assets/marcas/ekomove/H_blanco.png",
+    "H_color": "assets/marcas/ekomove/H_color.png",
+    "H_negro": "assets/marcas/ekomove/H_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-1-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-20-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-17-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-15-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-12-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-4-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-10-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-3-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-16-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-5-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-2-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-7-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-14-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-8-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-13-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-11-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-18-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-21-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-9-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-6-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/ekomove/2025-ekomove-fotografia-publicitaria-ia-19-fot-cor-aut-ele.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ekomove/2025-ekomove-reel-7-red-ree-aut-ele.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ekomove/2025-ekomove-reel-6-red-ree-aut-ele.mp4",
+     "peso": 22,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ekomove/2025-ekomove-reel-5-red-ree-aut-ele.mp4",
+     "peso": 21,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ekomove/2025-ekomove-reel-4-red-ree-aut-ele.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ekomove/2025-ekomove-reel-2-red-ree-aut-ele.mp4",
+     "peso": 19,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ekomove/2025-ekomove-reel-3-red-ree-aut-ele.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/ekomove/2025-ekomove-reel-1-red-ree-aut-ele.mp4",
+     "peso": 14,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "cookiiz",
+   "nombre": "Cookiiz",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Panadería y repostería",
+   "alianza": "",
+   "descripcion": "Empresa de galletas creada por un amaericano en Medellín, la cual esta ubicada en mercado del rio",
+   "logos": {
+    "H_blanco": "assets/marcas/cookiiz/H_blanco.png",
+    "H_color": "assets/marcas/cookiiz/H_color.png",
+    "H_negro": "assets/marcas/cookiiz/H_negro.png",
+    "V_blanco": "assets/marcas/cookiiz/V_blanco.png",
+    "V_color": "assets/marcas/cookiiz/V_color.png",
+    "V_negro": "assets/marcas/cookiiz/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/cookiiz/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/cookiiz/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/cookiiz/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/cookiiz/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/cookiiz/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/cookiiz/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-12-fot-pro-ali-pan.png",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-7-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-17-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-16-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-15-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-10-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-1-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-6-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-18-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-14-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-5-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-13-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-8-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-9-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-2-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-4-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-3-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-11-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/cookiiz/2025-cookiiz-fotografia-producto-19-fot-pro-ali-pan.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-diseno-de-logo-brd-log-ali-pan.pdf",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Logo (Antes)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Rediseño de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-logo-antes-brd-reb-ali-pan.png",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W5 Reel 04",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w5-reel-04-red-ali-pan.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W5 Reel 01",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w5-reel-01-red-ali-pan.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W4 Reel 11",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w4-reel-11-red-ali-pan.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W4 Reel 04",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w4-reel-04-red-ali-pan.mp4",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W4 Reel 03",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w4-reel-03-red-ali-pan.mp4",
+     "peso": 17,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W4 Reel 02",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w4-reel-02-red-ali-pan.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Video Pantalla Oreo 01",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-oreo-01-red-ali-pan.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Ending",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-ending-red-ali-pan.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Video Pantalla Miti-Miti 01",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-miti-miti-01-red-ali-pan.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Video Pantalla Miti-Miti 02",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-miti-miti-02-red-ali-pan.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Video Pantalla Chokoloco",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-chokoloco-red-ali-pan.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Video Pantalla La Cumpleañera",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-la-cumpleanera-red-ali-pan.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Video Pantalla L’Original 02",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-l-original-02-red-ali-pan.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Video Pantalla L’Original 01",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-l-original-01-red-ali-pan.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Video Pantalla Cookada",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-cookiiz-video-pantalla-cookada-red-ali-pan.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W3 Reel 11",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w3-reel-11-red-ali-pan.mp4",
+     "peso": 24,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W3 Reel 09",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w3-reel-09-red-ali-pan.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W3 Reel 08",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w3-reel-08-red-ali-pan.mp4",
+     "peso": 29,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W3 Reel 04",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w3-reel-04-red-ali-pan.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W2 Reel 02",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w2-reel-02-red-ali-pan.mp4",
+     "peso": 31,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W2 Reel 01",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2026-01-cookiiz-w2-reel-01-red-ali-pan.mp4",
+     "peso": 30,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W5 Reel 05",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-12-cookiiz-w5-reel-05-red-ali-pan.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W5 Reel 01",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-12-cookiiz-w5-reel-01-red-ali-pan.mp4",
+     "peso": 19,
+     "origen": "drive"
+    },
+    {
+     "titulo": "W6 Reel 08",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/cookiiz/2025-12-cookiiz-w6-reel-08-red-ali-pan.mp4",
+     "peso": 3,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "combos-de-medallo",
+   "nombre": "Combos de Medallo",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "Restaurante de comida rápida en un trailer que vende comida rápida con enfoque paisa ubicada en Boston USA",
+   "logos": {},
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de Flyer-08",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/combos-de-medallo/2025-combos-de-medallo-diseno-de-flyer-08-brd-pap-ali-res.png",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Diseño de Flyer-07",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/combos-de-medallo/2025-combos-de-medallo-diseno-de-flyer-07-brd-pap-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Trailer Mural F",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/combos-de-medallo/2025-combos-de-medallo-mockup-trailer-mural-f-brd-sen-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Personaje",
+     "clase": "imagen",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Ilustración y personajes",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/combos-de-medallo/2025-combos-de-medallo-mockup-personaje-edi-ilu-ali-res.jpg",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "colombian-gym-wear",
+   "nombre": "Colombian Gym Wear",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Ropa y ropa deportiva",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {
+    "H_negro": "assets/marcas/colombian-gym-wear/H_negro.png",
+    "H_blanco": "assets/marcas/colombian-gym-wear/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-5-red-ree-mod-rop.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-1-red-ree-mod-rop.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-2-red-ree-mod-rop.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-3-red-ree-mod-rop.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-4-red-ree-mod-rop.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-6-red-ree-mod-rop.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-7-red-ree-mod-rop.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-8-red-ree-mod-rop.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-9-red-ree-mod-rop.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-10-red-ree-mod-rop.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-11-red-ree-mod-rop.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (12)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-12-red-ree-mod-rop.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (13)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-13-red-ree-mod-rop.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (16)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-16-red-ree-mod-rop.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (14)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-14-red-ree-mod-rop.mp4",
+     "peso": 23,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (15)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-15-red-ree-mod-rop.mp4",
+     "peso": 15,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (18)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-18-red-ree-mod-rop.mp4",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (19)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-19-red-ree-mod-rop.mp4",
+     "peso": 2,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (20)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-20-red-ree-mod-rop.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (22)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-22-red-ree-mod-rop.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (17)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-17-red-ree-mod-rop.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (21)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/colombian-gym-wear/2025-colombian-gym-wear-reel-21-red-ree-mod-rop.mp4",
+     "peso": 10,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "central-de-monitoreo-punto-charlie",
+   "nombre": "Central de Monitoreo Punto Charlie",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Servicios profesionales",
+   "subsector": "Seguridad privada",
+   "alianza": "",
+   "descripcion": "es una empresa colombiana con sede principal en Medellín especializada en servicios de monitoreo y rastreo satelital GPS para vehículos y cargas.",
+   "logos": {
+    "H_blanco": "assets/marcas/central-de-monitoreo-punto-charlie/H_blanco.png",
+    "H_color": "assets/marcas/central-de-monitoreo-punto-charlie/H_color.png",
+    "H_negro": "assets/marcas/central-de-monitoreo-punto-charlie/H_negro.png",
+    "V_blanco": "assets/marcas/central-de-monitoreo-punto-charlie/V_blanco.png",
+    "V_color": "assets/marcas/central-de-monitoreo-punto-charlie/V_color.png",
+    "V_negro": "assets/marcas/central-de-monitoreo-punto-charlie/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/central-de-monitoreo-punto-charlie/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/central-de-monitoreo-punto-charlie/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/central-de-monitoreo-punto-charlie/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/central-de-monitoreo-punto-charlie/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/central-de-monitoreo-punto-charlie/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/central-de-monitoreo-punto-charlie/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-fotografia-publicitaria-3-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-fotografia-publicitaria-2-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-fotografia-publicitaria-1-fot-cor-ser-vig.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Logo (Antes)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Rediseño de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-logo-antes-brd-reb-ser-vig.png",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Uniforme Promotora 01C",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-uniforme-promotora-01c-brd-mer-ser-vig.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Uniforme Promotora 01B",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-uniforme-promotora-01b-brd-mer-ser-vig.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Uniforme Promotora 01A",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-uniforme-promotora-01a-brd-mer-ser-vig.jpg",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Camisa 03EB",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-camisa-03eb-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Camisa 03CB",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-camisa-03cb-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Camisa 03AB",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-camisa-03ab-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Camisa 03EA",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-camisa-03ea-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Camisa 03CA",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-camisa-03ca-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Camisa 03AA",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-camisa-03aa-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Camisas 01FB",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-camisas-01fb-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Camisas 01FA",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Merchandising",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-camisas-01fa-brd-mer-ser-vig.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-1-red-ree-ser-vig.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-2-red-ree-ser-vig.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-3-red-ree-ser-vig.mp4",
+     "peso": 20,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-4-red-ree-ser-vig.mp4",
+     "peso": 21,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-5-red-ree-ser-vig.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-6-red-ree-ser-vig.mp4",
+     "peso": 3,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-7-red-ree-ser-vig.mp4",
+     "peso": 4,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-8-red-ree-ser-vig.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (9)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-9-red-ree-ser-vig.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (10)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-10-red-ree-ser-vig.mp4",
+     "peso": 10,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (11)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-11-red-ree-ser-vig.mp4",
+     "peso": 8,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (12)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-12-red-ree-ser-vig.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (13)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-13-red-ree-ser-vig.mp4",
+     "peso": 12,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (14)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-14-red-ree-ser-vig.mp4",
+     "peso": 21,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (15)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/central-de-monitoreo-punto-charlie/2025-central-de-monitoreo-punto-charlie-reel-15-red-ree-ser-vig.mp4",
+     "peso": 18,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "braids-by-dj",
+   "nombre": "Braids By DJ",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Peluquerías y barberías",
+   "alianza": "",
+   "descripcion": "Salon de trenzados en botón estados unidos",
+   "logos": {
+    "H_color": "assets/marcas/braids-by-dj/H_color.png",
+    "H_negro": "assets/marcas/braids-by-dj/H_negro.png",
+    "H_blanco": "assets/marcas/braids-by-dj/H_blanco.png",
+    "V_color": "assets/marcas/braids-by-dj/V_color.png",
+    "V_negro": "assets/marcas/braids-by-dj/V_negro.png",
+    "V_blanco": "assets/marcas/braids-by-dj/V_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/braids-by-dj/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/braids-by-dj/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/braids-by-dj/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/braids-by-dj/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/braids-by-dj/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/braids-by-dj/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/braids-by-dj/2025-braids-by-dj-diseno-de-logo-brd-log-mod-pel.pdf",
+     "peso": 11,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "autoland",
+   "nombre": "Autoland",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Automotriz y motos",
+   "subsector": "Concesionarios de vehículos",
+   "alianza": "",
+   "descripcion": "es un concesionario oficial y autorizado de vehículos nuevos y usados, parte de Autoland Colombia y del grupo chileno Bruno Fritsch. Opera en Colombia desde 2016 y en la región ofrece venta de autos, posventa, taller autorizado, repuestos originales, seguros y flotas.",
+   "logos": {
+    "H_blanco": "assets/marcas/autoland/H_blanco.png",
+    "H_negro": "assets/marcas/autoland/H_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/autoland/2025-autoland-reel-1-red-ree-aut-veh.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/autoland/2025-autoland-reel-2-red-ree-aut-veh.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/autoland/2025-autoland-reel-3-red-ree-aut-veh.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/autoland/2025-autoland-reel-4-red-ree-aut-veh.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/autoland/2025-autoland-reel-5-red-ree-aut-veh.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (6)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/autoland/2025-autoland-reel-6-red-ree-aut-veh.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (7)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/autoland/2025-autoland-reel-7-red-ree-aut-veh.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (8)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/autoland/2025-autoland-reel-8-red-ree-aut-veh.mp4",
+     "peso": 9,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/autoland/2025-autoland-intro-ani-log-aut-veh.mp4",
+     "peso": 0,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "amsterdan-perfumeria",
+   "nombre": "Amsterdan Perfumería",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Perfumería",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {
+    "H_negro": "assets/marcas/amsterdan-perfumeria/H_negro.png",
+    "H_blanco": "assets/marcas/amsterdan-perfumeria/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amsterdan-perfumeria/2025-amsterdan-perfumeria-reel-1-red-ree-mod-per.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amsterdan-perfumeria/2025-amsterdan-perfumeria-reel-2-red-ree-mod-per.mp4",
+     "peso": 6,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amsterdan-perfumeria/2025-amsterdan-perfumeria-reel-3-red-ree-mod-per.mp4",
+     "peso": 11,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amsterdan-perfumeria/2025-amsterdan-perfumeria-intro-ani-log-mod-per.mp4",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "amex",
+   "nombre": "Amex",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Moda, belleza y cuidado personal",
+   "subsector": "Bolsos y accesorios",
+   "alianza": "",
+   "descripcion": "Comercializadora e importadora de bolsos de tood tipo de la ciudad de medellín",
+   "logos": {
+    "H_blanco": "assets/marcas/amex/H_blanco.png",
+    "H_color": "assets/marcas/amex/H_color.png",
+    "H_negro": "assets/marcas/amex/H_negro.png",
+    "V_blanco": "assets/marcas/amex/V_blanco.png",
+    "V_color": "assets/marcas/amex/V_color.png",
+    "V_negro": "assets/marcas/amex/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Fotografía",
+     "clase": "galeria",
+     "coleccion": "collage",
+     "tipo": "Fotografía",
+     "sub": "",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-227-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-1-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-2-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-3-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-4-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-5-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-6-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-7-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-8-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-9-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-10-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-11-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-12-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-13-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-14-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-15-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-16-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-17-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-18-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-19-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-20-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-21-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-22-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-23-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-24-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-25-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-26-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-27-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-28-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-29-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-30-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-31-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-32-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-33-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-34-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-35-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-36-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-37-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-38-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-39-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-40-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-41-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-42-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-43-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-44-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-45-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-46-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-47-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-48-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-49-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-50-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-51-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-52-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-53-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-54-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-55-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-56-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-57-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-58-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-59-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-60-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-61-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-62-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-63-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-64-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-65-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-66-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-67-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-68-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-69-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-70-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-71-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-72-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-73-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-74-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-75-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-76-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-77-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-78-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-79-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-80-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-81-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-82-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-83-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-84-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-85-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-86-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-87-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-88-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-89-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-90-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-91-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-92-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-93-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-94-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-95-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-96-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-97-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-98-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-99-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-100-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-101-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-102-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-103-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-104-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-105-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-106-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-107-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-108-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-109-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-110-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-111-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-112-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-113-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-114-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-115-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-116-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-117-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-118-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-119-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-120-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-121-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-122-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-123-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-124-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-125-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-126-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-127-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-128-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-129-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-130-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-131-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-132-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-133-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-134-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-135-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-136-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-137-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-138-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-139-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-140-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-141-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-142-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-143-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-144-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-145-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-146-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-147-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-148-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-149-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-150-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-151-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-152-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-153-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-154-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-155-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-156-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-157-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-158-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-159-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-160-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-161-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-162-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-163-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-164-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-165-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-166-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-167-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-168-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-169-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-170-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-171-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-172-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-173-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-174-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-175-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-176-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-177-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-178-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-179-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-180-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-181-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-182-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-183-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-184-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-185-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-186-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-187-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-188-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-189-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-190-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-191-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-192-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-193-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-194-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-195-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-196-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-197-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-198-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-199-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-200-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-201-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-202-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-203-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-204-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-205-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-206-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-207-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-208-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-209-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-210-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-211-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-212-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-213-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-214-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-215-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-216-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-217-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-218-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-219-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-220-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-221-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-222-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-223-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-224-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-225-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/trabajos/amex/2025-amex-fotografia-producto-226-fot-pro-mod-acc.jpg",
+       "nombre": "",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "Logo (Antes)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Rediseño de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amex/2025-amex-logo-antes-brd-reb-mod-acc.png",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Manual Corporativo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Manual de identidad corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amex/2025-amex-manual-corporativo-brd-man-mod-acc.pdf",
+     "peso": 37,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Catálogo",
+     "clase": "pdf",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Catálogos",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amex/2025-amex-catalogo-edi-cat-mod-acc.pdf",
+     "peso": 32,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (1)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amex/2025-amex-reel-1-red-ree-mod-acc.mp4",
+     "peso": 20,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (2)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amex/2025-amex-reel-2-red-ree-mod-acc.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (3)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amex/2025-amex-reel-3-red-ree-mod-acc.mp4",
+     "peso": 13,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (4)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amex/2025-amex-reel-4-red-ree-mod-acc.mp4",
+     "peso": 5,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Reel (5)",
+     "clase": "video",
+     "tipo": "Social media",
+     "sub": "Reels",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amex/2025-amex-reel-5-red-ree-mod-acc.mp4",
+     "peso": 7,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro (1)",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amex/2025-amex-intro-1-ani-log-mod-acc.mp4",
+     "peso": 1,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Intro (2)",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/amex/2025-amex-intro-2-ani-log-mod-acc.mp4",
+     "peso": 0,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "alegria",
+   "nombre": "Alegria",
+   "anio": "2025",
+   "fecha": "2025-01-01",
+   "sector": "Educación",
+   "subsector": "Instituciones educativas",
+   "alianza": "",
+   "descripcion": "Escuela tipo learning para niños en estados unidos boston",
+   "logos": {
+    "H_blanco": "assets/marcas/alegria/H_blanco.png",
+    "H_color": "assets/marcas/alegria/H_color.png",
+    "H_negro": "assets/marcas/alegria/H_negro.png",
+    "V_blanco": "assets/marcas/alegria/V_blanco.png",
+    "V_color": "assets/marcas/alegria/V_color.png",
+    "V_negro": "assets/marcas/alegria/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/alegria/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/alegria/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/alegria/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/alegria/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/alegria/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/alegria/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Diseño de Logo",
+     "clase": "pdf",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/alegria/2025-alegria-diseno-de-logo-brd-log-edu-ins.pdf",
+     "peso": 21,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
    "id": "optica-visual",
    "nombre": "Óptica Visual",
    "anio": "2024",
@@ -642,7 +7614,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/milenio-stone/2024-milenio-stone-manual-corporativo-brd-man-con-aca.pdf",
-     "peso": 17,
+     "peso": 5,
      "origen": "drive"
     },
     {
@@ -653,7 +7625,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/milenio-stone/2024-milenio-stone-catalogo-de-piedra-laja-edi-cat-con-aca.pdf",
-     "peso": 30,
+     "peso": 7,
      "origen": "drive"
     }
    ]
@@ -685,7 +7657,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/milenio/2024-milenio-manual-corporativo-brd-man-agr-agr.pdf",
-     "peso": 127,
+     "peso": 23,
      "origen": "drive"
     }
    ]
@@ -847,13 +7819,13 @@ window.PORTAFOLIO = {
    "origen": "Drive",
    "trabajos": [
     {
-     "titulo": "Catálogo",
+     "titulo": "Portafolio",
      "clase": "pdf",
      "tipo": "Diseño gráfico y editorial",
      "sub": "Catálogos",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/casa-grande/2024-casa-grande-catalogo-edi-cat-ali-pro.pdf",
+     "local": "assets/trabajos/casa-grande/2024-casa-grande-portafolio-edi-cat-ali-pro.pdf",
      "peso": 11,
      "origen": "drive"
     }
@@ -928,7 +7900,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/bet-on-me/2024-bet-on-me-diseno-de-logo-brd-log-fin-aza.pdf",
-     "peso": 57,
+     "peso": 8,
      "origen": "drive"
     }
    ]
@@ -8211,7 +15183,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/aneliz-creative/2023-aneliz-creative-diseno-de-logo-brd-log-med-eve.pdf",
-     "peso": 24,
+     "peso": 2,
      "origen": "drive"
     }
    ]
@@ -8839,42 +15811,42 @@ window.PORTAFOLIO = {
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-6-fot-pro-mod-rop.png",
+       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-6-fot-pro-mod-rop.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-7-fot-pro-mod-rop.png",
+       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-7-fot-pro-mod-rop.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-8-fot-pro-mod-rop.png",
+       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-8-fot-pro-mod-rop.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-9-fot-pro-mod-rop.png",
+       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-9-fot-pro-mod-rop.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-10-fot-pro-mod-rop.png",
+       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-13-fot-pro-mod-rop.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-11-fot-pro-mod-rop.png",
+       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-10-fot-pro-mod-rop.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-12-fot-pro-mod-rop.png",
+       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-12-fot-pro-mod-rop.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-13-fot-pro-mod-rop.png",
+       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-producto-11-fot-pro-mod-rop.jpg",
        "nombre": "",
        "fondo": "oscuro"
       },
@@ -8885,16 +15857,6 @@ window.PORTAFOLIO = {
       },
       {
        "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-moda-1-fot-mod-mod-rop.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-moda-1-fot-mod-mod-rop.png",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-moda-2-fot-mod-mod-rop.png",
        "nombre": "",
        "fondo": "oscuro"
       },
@@ -8915,11 +15877,6 @@ window.PORTAFOLIO = {
       },
       {
        "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-moda-5-fot-mod-mod-rop.jpg",
-       "nombre": "",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/trabajos/kdosh/2022-kdosh-fotografia-moda-3-fot-mod-mod-rop.png",
        "nombre": "",
        "fondo": "oscuro"
       },
@@ -9856,7 +16813,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/suo/2021-suo-manual-corporativo-brd-man-ali-pro.pdf",
-     "peso": 49,
+     "peso": 11,
      "origen": "drive"
     }
    ]
@@ -10047,17 +17004,6 @@ window.PORTAFOLIO = {
      "origen": "drive"
     },
     {
-     "titulo": "Mockup Caja Feliz",
-     "clase": "imagen",
-     "tipo": "Branding e identidad visual",
-     "sub": "Señalética y aplicaciones de marca",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/legado/2021-legado-mockup-caja-feliz-brd-sen-ali-res.png",
-     "peso": 2,
-     "origen": "drive"
-    },
-    {
      "titulo": "Mockup Flyer (2)",
      "clase": "imagen",
      "tipo": "Branding e identidad visual",
@@ -10109,6 +17055,17 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/legado/2021-legado-mockup-tijera-brd-sen-ali-res.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Mockup Caja Feliz",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Señalética y aplicaciones de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/legado/2021-legado-mockup-caja-feliz-brd-sen-ali-res.jpg",
      "peso": 0,
      "origen": "drive"
     },
@@ -10475,7 +17432,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/catatumbo-natural-business/2021-catatumbo-natural-business-manual-corporativo-brd-man-ali-pro.pdf",
-     "peso": 80,
+     "peso": 72,
      "origen": "drive"
     },
     {
@@ -10529,7 +17486,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/soluciones-inmobiliarias/2020-soluciones-inmobiliarias-manual-corporativo-brd-man-con-inm.pdf",
-     "peso": 68,
+     "peso": 38,
      "origen": "drive"
     }
    ]
@@ -10625,8 +17582,7 @@ window.PORTAFOLIO = {
     "H_color": "assets/marcas/sex-love/H_color.png",
     "V_blanco": "assets/marcas/sex-love/V_blanco.png",
     "V_color": "assets/marcas/sex-love/V_color.png",
-    "V_negro": "assets/marcas/sex-love/V_negro.png",
-    "H_antiguo": "assets/marcas/sex-love/H_antiguo.jpg"
+    "V_negro": "assets/marcas/sex-love/V_negro.png"
    },
    "origen": "Drive",
    "trabajos": [
@@ -10671,6 +17627,17 @@ window.PORTAFOLIO = {
        "fondo": "claro"
       }
      ]
+    },
+    {
+     "titulo": "(Antes)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Rediseño de marca",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/sex-love/2020-sex-love-antes-brd-reb-com-tie.jpg",
+     "peso": 0,
+     "origen": "drive"
     }
    ]
   },
@@ -10701,7 +17668,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/rapi-toches/2020-rapi-toches-manual-corporativo-brd-man-ser-dom.pdf",
-     "peso": 18,
+     "peso": 11,
      "origen": "drive"
     }
    ]
@@ -11365,7 +18332,7 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/tierra-santa-visteme/2019-visteme-manual-corporativo-brd-man-mod-rop.pdf",
-     "peso": 21,
+     "peso": 3,
      "origen": "drive"
     }
    ],
@@ -13077,17 +20044,6 @@ window.PORTAFOLIO = {
      "origen": "drive"
     },
     {
-     "titulo": "Volantes (01)",
-     "clase": "imagen",
-     "tipo": "Branding e identidad visual",
-     "sub": "Papelería corporativa",
-     "descripcion": "",
-     "drive": "",
-     "local": "assets/trabajos/inmobiliria-aval/2019-inmobiliaria-aval-volantes-01-brd-pap-con-inm.png",
-     "peso": 2,
-     "origen": "drive"
-    },
-    {
      "titulo": "Volantes (02)",
      "clase": "imagen",
      "tipo": "Branding e identidad visual",
@@ -13150,6 +20106,17 @@ window.PORTAFOLIO = {
      "descripcion": "",
      "drive": "",
      "local": "assets/trabajos/inmobiliria-aval/2019-inmobiliaria-aval-mockup-volantes-brd-pap-con-inm.jpg",
+     "peso": 0,
+     "origen": "drive"
+    },
+    {
+     "titulo": "Volantes (01)",
+     "clase": "imagen",
+     "tipo": "Branding e identidad visual",
+     "sub": "Papelería corporativa",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/inmobiliria-aval/2019-inmobiliaria-aval-volantes-01-brd-pap-con-inm.jpg",
      "peso": 0,
      "origen": "drive"
     },
@@ -15791,6 +22758,136 @@ window.PORTAFOLIO = {
    ]
   },
   {
+   "id": "metamorphosis",
+   "nombre": "Metamorphosis",
+   "anio": "0000",
+   "fecha": "0000-01-01",
+   "sector": "Sin clasificar",
+   "subsector": "",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {
+    "H_negro": "assets/marcas/metamorphosis/H_negro.png",
+    "H_blanco": "assets/marcas/metamorphosis/H_blanco.png",
+    "H_color": "assets/marcas/metamorphosis/H_color.png",
+    "V_blanco": "assets/marcas/metamorphosis/V_blanco.png",
+    "V_color": "assets/marcas/metamorphosis/V_color.png",
+    "V_negro": "assets/marcas/metamorphosis/V_negro.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/metamorphosis/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/metamorphosis/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/metamorphosis/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/metamorphosis/V_blanco.png",
+       "nombre": "Vertical · Blanco",
+       "fondo": "oscuro"
+      },
+      {
+       "src": "assets/marcas/metamorphosis/V_color.png",
+       "nombre": "Vertical · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/metamorphosis/V_negro.png",
+       "nombre": "Vertical · Negro",
+       "fondo": "claro"
+      }
+     ]
+    },
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/metamorphosis/metamorphosis-intro.mp4",
+     "peso": 1,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
+   "id": "los-combos-de-medallo",
+   "nombre": "Los Combos de Medallo",
+   "anio": "0000",
+   "fecha": "0000-01-01",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Restaurantes y comidas rápidas",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {
+    "H_color": "assets/marcas/los-combos-de-medallo/H_color.png",
+    "H_negro": "assets/marcas/los-combos-de-medallo/H_negro.png",
+    "H_blanco": "assets/marcas/los-combos-de-medallo/H_blanco.png"
+   },
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Diseño de logotipo",
+     "clase": "galeria",
+     "tipo": "Branding e identidad visual",
+     "sub": "Diseño de logotipo",
+     "descripcion": "",
+     "drive": "",
+     "local": "",
+     "origen": "drive",
+     "imagenes": [
+      {
+       "src": "assets/marcas/los-combos-de-medallo/H_color.png",
+       "nombre": "Horizontal · Color",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/los-combos-de-medallo/H_negro.png",
+       "nombre": "Horizontal · Negro",
+       "fondo": "claro"
+      },
+      {
+       "src": "assets/marcas/los-combos-de-medallo/H_blanco.png",
+       "nombre": "Horizontal · Blanco",
+       "fondo": "oscuro"
+      }
+     ]
+    },
+    {
+     "titulo": "(Personaje)",
+     "clase": "imagen",
+     "tipo": "Diseño gráfico y editorial",
+     "sub": "Ilustración y personajes",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/los-combos-de-medallo/2025-los-combos-de-medallo-personaje-edi-ilu-ali-res.png",
+     "peso": 0,
+     "origen": "drive"
+    }
+   ]
+  },
+  {
    "id": "el-paraiso",
    "nombre": "El Paraiso",
    "anio": "0000",
@@ -15850,6 +22947,31 @@ window.PORTAFOLIO = {
        "fondo": "claro"
       }
      ]
+    }
+   ]
+  },
+  {
+   "id": "bajo-custodia",
+   "nombre": "Bajo Custodia",
+   "anio": "0000",
+   "fecha": "0000-01-01",
+   "sector": "Sin clasificar",
+   "subsector": "",
+   "alianza": "",
+   "descripcion": "",
+   "logos": {},
+   "origen": "Drive",
+   "trabajos": [
+    {
+     "titulo": "Intro",
+     "clase": "video",
+     "tipo": "Motion graphics y animación",
+     "sub": "Animación de logo",
+     "descripcion": "",
+     "drive": "",
+     "local": "assets/trabajos/bajo-custodia/bajo-custodia-intro.mp4",
+     "peso": 2,
+     "origen": "drive"
     }
    ]
   }
