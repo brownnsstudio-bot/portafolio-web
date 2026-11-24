@@ -46,13 +46,15 @@
     s.sub.forEach((sub) => { const n = ms.filter((m) => m.subsector === sub).length; if (n) g.append(opcion(s.nombre + "|" + sub, `${sub} (${n})`, true)); });
     fSector.append(g);
   });
-  // tipos de trabajo: solo los que tienen trabajos
+  // tipos de trabajo: SOLO las categorías y subcategorías que de verdad se usan
+  // (igual que sectores: las que no tienen ningún trabajo no se muestran en el filtro)
   const todos = D.marcas.flatMap((m) => m.trabajos);
   C.tipos.forEach((t) => {
     const ts = todos.filter((x) => x.tipo === t.nombre);
+    if (!ts.length) return;                                  // categoría sin uso: no se muestra
     const g = el("optgroup"); g.label = t.nombre;
-    const o = opcion(t.nombre, `Todo ${t.nombre} (${ts.length})`); o.disabled = !ts.length; g.append(o);
-    t.sub.forEach((sub) => { const n = ts.filter((x) => x.sub === sub).length; const os = opcion(t.nombre + "|" + sub, `${sub} (${n})`, true); os.disabled = !n; g.append(os); });
+    g.append(opcion(t.nombre, `Todo ${t.nombre} (${ts.length})`));
+    t.sub.forEach((sub) => { const n = ts.filter((x) => x.sub === sub).length; if (n) g.append(opcion(t.nombre + "|" + sub, `${sub} (${n})`, true)); });
     fTipo.append(g);
   });
 

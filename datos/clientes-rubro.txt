@@ -133,14 +133,14 @@ Tu Casa = [ALI-RES]
 Mi CDA Florida = [AUT-CDA]
 Plataforma Logística = [SER-LOG]
 # (Lumina = [ALI-RES] ya está arriba en 2025; es cliente 2026)
-# Dudosos / por confirmar con el usuario (hoy casi todos solo tienen logo en el Drive):
-Amino ICE = [MED-EVE]          # granizados para activaciones de marca en eventos (¿[ALI-BEB]?)
-Millennium Gemstone = [MOD-JOY] # joyería / piedras preciosas
-VibraAi = [TEC-SOF]            # ¿app/tecnología con IA? CONFIRMAR
-Oskarate USA = [EDU-CUR]       # ¿academia de karate en EE. UU.? CONFIRMAR
-Lado = [SER-PUB]               # marca propia del estudio LADO
-H&W = [SIN]                    # PENDIENTE: no sé a qué se dedica
-RAOS = [SIN]                   # PENDIENTE: no sé a qué se dedica
+# Confirmados por el usuario (2026-11-23):
+Amino ICE = [ALI-BEB]          # granizados fit + alquiler de máquinas granizadoras
+Millennium Gemstone = [MOD-JOY] # minería/exportación de piedras preciosas + joyería
+VibraAi = [SER-PUB]            # agencia de marketing con enfoque en IA
+Oskarate USA = [EDU-CUR]       # escuela de artes marciales para niños
+Lado = [SER-PUB]               # marca propia del estudio LADO (diseño/marketing)
+H&W = [TUR-TRA]                # transporte personal de pasajeros (Boston)
+RAOS = [SER-CNS]               # coaching de vida / consultoría organizacional (Miami)
 # Aún sin material en el Drive (se agregan cuando subas sus piezas):
 Jan C Aguilar = [MED-MUS]      # músico (carpeta "Andres Pérez")
 UIS Emprende = [EDU-UNI]       # programa de emprendimiento UIS (carpeta "Diego Baron")

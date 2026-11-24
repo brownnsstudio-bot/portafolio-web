@@ -16,69 +16,6 @@ window.PORTAFOLIO = {
  },
  "marcas": [
   {
-   "id": "vibraai",
-   "nombre": "VibraAi",
-   "anio": "2026",
-   "fecha": "2026-01-01",
-   "sector": "Tecnología y telecomunicaciones",
-   "subsector": "Software y aplicaciones",
-   "alianza": "",
-   "descripcion": "Agencia y estrategas en marketing y AI Creators first",
-   "logos": {
-    "H_negro": "assets/marcas/vibraai/H_negro.png",
-    "H_blanco": "assets/marcas/vibraai/H_blanco.png",
-    "H_color": "assets/marcas/vibraai/H_color.png",
-    "V_blanco": "assets/marcas/vibraai/V_blanco.png",
-    "V_color": "assets/marcas/vibraai/V_color.png",
-    "V_negro": "assets/marcas/vibraai/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/vibraai/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/vibraai/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/vibraai/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/vibraai/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/vibraai/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/vibraai/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "uis-emprende",
    "nombre": "UIS Emprende",
    "anio": "2026",
@@ -174,8 +111,8 @@ window.PORTAFOLIO = {
    "nombre": "RAOS",
    "anio": "2026",
    "fecha": "2026-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Servicios profesionales",
+   "subsector": "Consultoría empresarial",
    "alianza": "",
    "descripcion": "es una firma con presencia en Miami, Florida, enfocada en coaching de vida, marca personal, liderazgo y consultoría organizacional. Su enfoque principal es ayudar a líderes, profesionales y empresas a ganar claridad, tomar decisiones y pasar de la planificación a la acción bajo su lema \"De la Confusión a la Acción\".",
    "logos": {
@@ -237,7 +174,7 @@ window.PORTAFOLIO = {
      "sub": "Diseño de logotipo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/raos/2026-raos-diseno-de-logo-brd-log-sin.pdf",
+     "local": "assets/trabajos/raos/2026-raos-diseno-de-logo-brd-log-ser-cns.pdf",
      "peso": 39,
      "origen": "drive"
     }
@@ -795,69 +732,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "millennium-gemstone",
-   "nombre": "Millennium Gemstone",
-   "anio": "2026",
-   "fecha": "2026-01-01",
-   "sector": "Moda, belleza y cuidado personal",
-   "subsector": "Joyería y relojería",
-   "alianza": "",
-   "descripcion": "Empresa dedicada a la minería en Venezual y Colombia, específicamente en topacios y también la creación de joyas",
-   "logos": {
-    "H_negro": "assets/marcas/millennium-gemstone/H_negro.png",
-    "H_blanco": "assets/marcas/millennium-gemstone/H_blanco.png",
-    "H_color": "assets/marcas/millennium-gemstone/H_color.png",
-    "V_blanco": "assets/marcas/millennium-gemstone/V_blanco.png",
-    "V_color": "assets/marcas/millennium-gemstone/V_color.png",
-    "V_negro": "assets/marcas/millennium-gemstone/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/millennium-gemstone/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/millennium-gemstone/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/millennium-gemstone/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/millennium-gemstone/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/millennium-gemstone/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/millennium-gemstone/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "mi-cda-florida",
    "nombre": "Mi CDA Florida",
    "anio": "2026",
@@ -988,69 +862,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "lado",
-   "nombre": "Lado",
-   "anio": "2026",
-   "fecha": "2026-01-01",
-   "sector": "Servicios profesionales",
-   "subsector": "Agencias de publicidad y marketing",
-   "alianza": "",
-   "descripcion": "(Busca la descripción que te he dado de lado y agregala)",
-   "logos": {
-    "H_negro": "assets/marcas/lado/H_negro.png",
-    "H_blanco": "assets/marcas/lado/H_blanco.png",
-    "H_color": "assets/marcas/lado/H_color.png",
-    "V_blanco": "assets/marcas/lado/V_blanco.png",
-    "V_color": "assets/marcas/lado/V_color.png",
-    "V_negro": "assets/marcas/lado/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/lado/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/lado/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/lado/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/lado/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/lado/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/lado/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "jan-c-aguilar",
    "nombre": "Jan C Aguilar",
    "anio": "2026",
@@ -1084,8 +895,8 @@ window.PORTAFOLIO = {
    "nombre": "H&W",
    "anio": "2026",
    "fecha": "2026-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
+   "sector": "Turismo y hotelería",
+   "subsector": "Transporte de pasajeros",
    "alianza": "",
    "descripcion": "Conductora de vehículos y transporte personal a clientes que se muevan por boston",
    "logos": {
@@ -1147,7 +958,7 @@ window.PORTAFOLIO = {
      "sub": "Diseño de logotipo",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/h-w/2026-h-w-diseno-de-logo-brd-log-sin.pdf",
+     "local": "assets/trabajos/h-w/2026-h-w-diseno-de-logo-brd-log-tur-tra.pdf",
      "peso": 61,
      "origen": "drive"
     }
@@ -1275,8 +1086,8 @@ window.PORTAFOLIO = {
    "nombre": "Amino ICE",
    "anio": "2026",
    "fecha": "2026-01-01",
-   "sector": "Medios, entretenimiento y eventos",
-   "subsector": "Eventos y decoración",
+   "sector": "Alimentos y bebidas",
+   "subsector": "Bebidas y licores",
    "alianza": "",
    "descripcion": "Ice Group: máquinas granizadas para activaciones de marca en eventos.",
    "logos": {
@@ -1298,32 +1109,32 @@ window.PORTAFOLIO = {
      "origen": "drive",
      "imagenes": [
       {
-       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-1-fot-cor-med-eve.png",
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-1-fot-cor-ali-beb.png",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-2-fot-cor-med-eve.png",
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-2-fot-cor-ali-beb.png",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-3-fot-cor-med-eve.png",
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-3-fot-cor-ali-beb.png",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-4-fot-cor-med-eve.png",
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-4-fot-cor-ali-beb.png",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-5-fot-cor-med-eve.png",
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-5-fot-cor-ali-beb.png",
        "nombre": "",
        "fondo": "oscuro"
       },
       {
-       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-6-fot-cor-med-eve.png",
+       "src": "assets/trabajos/amino-ice/2026-amino-ice-fotografia-publicitaria-6-fot-cor-ali-beb.png",
        "nombre": "",
        "fondo": "oscuro"
       }
@@ -1336,7 +1147,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-1-red-ree-med-eve.mp4",
+     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-1-red-ree-ali-beb.mp4",
      "peso": 41,
      "origen": "drive"
     },
@@ -1347,7 +1158,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-2-red-ree-med-eve.mp4",
+     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-2-red-ree-ali-beb.mp4",
      "peso": 35,
      "origen": "drive"
     },
@@ -1358,7 +1169,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-3-red-ree-med-eve.mp4",
+     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-3-red-ree-ali-beb.mp4",
      "peso": 29,
      "origen": "drive"
     },
@@ -1369,7 +1180,7 @@ window.PORTAFOLIO = {
      "sub": "Reels",
      "descripcion": "",
      "drive": "",
-     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-4-red-ree-med-eve.mp4",
+     "local": "assets/trabajos/amino-ice/2026-amino-ice-reel-4-red-ree-ali-beb.mp4",
      "peso": 48,
      "origen": "drive"
     }
@@ -4379,69 +4190,6 @@ window.PORTAFOLIO = {
      "local": "assets/trabajos/kaden/2025-kaden-mockup-correa-cargo-02-brd-mer-mod-acc.jpg",
      "peso": 0,
      "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "jm-global-technology",
-   "nombre": "JM Global Technology",
-   "anio": "2025",
-   "fecha": "2025-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "empresa que se encarga en vender tecnología a través de tiendas web",
-   "logos": {
-    "H_blanco": "assets/marcas/jm-global-technology/H_blanco.png",
-    "H_color": "assets/marcas/jm-global-technology/H_color.png",
-    "H_negro": "assets/marcas/jm-global-technology/H_negro.png",
-    "V_color": "assets/marcas/jm-global-technology/V_color.png",
-    "V_negro": "assets/marcas/jm-global-technology/V_negro.png",
-    "V_blanco": "assets/marcas/jm-global-technology/V_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/jm-global-technology/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/jm-global-technology/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/jm-global-technology/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/jm-global-technology/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/jm-global-technology/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/jm-global-technology/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      }
-     ]
     }
    ]
   },
@@ -8795,69 +8543,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "omar-saldarriaga",
-   "nombre": "Omar Saldarriaga",
-   "anio": "2024",
-   "fecha": "2024-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "Professor Universidad de Antioquia, Medellin-Colombia",
-   "logos": {
-    "H_blanco": "assets/marcas/omar-saldarriaga/H_blanco.png",
-    "H_color": "assets/marcas/omar-saldarriaga/H_color.png",
-    "H_negro": "assets/marcas/omar-saldarriaga/H_negro.png",
-    "V_blanco": "assets/marcas/omar-saldarriaga/V_blanco.png",
-    "V_color": "assets/marcas/omar-saldarriaga/V_color.png",
-    "V_negro": "assets/marcas/omar-saldarriaga/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/omar-saldarriaga/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/omar-saldarriaga/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/omar-saldarriaga/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/omar-saldarriaga/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/omar-saldarriaga/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/omar-saldarriaga/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "nazkar",
    "nombre": "Nazkar",
    "anio": "2024",
@@ -8994,69 +8679,6 @@ window.PORTAFOLIO = {
      "youtube": "https://www.youtube-nocookie.com/embed/GoBJd_8Vn3I",
      "origen": "youtube",
      "peso": 0
-    }
-   ]
-  },
-  {
-   "id": "desarrollo-territorial",
-   "nombre": "Desarrollo Territorial",
-   "anio": "2024",
-   "fecha": "2024-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "Consultora desarrollo territorial es una iniciativa que nace en el año 2012, a partir de la integración de un grupo de profesionales en diversas áreas del conocimiento y con experiencia administrativa, con el propósito de potencializar las capacidades ejecutivas, humanas, logísticas, financieras de los gobiernos locales a través de la formulación de programas y proyectos que les permitieran el fortalecimiento de sus capacidades.",
-   "logos": {
-    "H_negro": "assets/marcas/desarrollo-territorial/H_negro.png",
-    "H_color": "assets/marcas/desarrollo-territorial/H_color.png",
-    "H_blanco": "assets/marcas/desarrollo-territorial/H_blanco.png",
-    "V_color": "assets/marcas/desarrollo-territorial/V_color.png",
-    "V_blanco": "assets/marcas/desarrollo-territorial/V_blanco.png",
-    "V_negro": "assets/marcas/desarrollo-territorial/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/desarrollo-territorial/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/desarrollo-territorial/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/desarrollo-territorial/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/desarrollo-territorial/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/desarrollo-territorial/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/desarrollo-territorial/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
     }
    ]
   },
@@ -11476,69 +11098,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "masivo",
-   "nombre": "Masivo",
-   "anio": "2023",
-   "fecha": "2023-01-01",
-   "sector": "Tecnología y telecomunicaciones",
-   "subsector": "Software y aplicaciones",
-   "alianza": "",
-   "descripcion": "Empresa dedicada a la creación de una app con recaudación por puntos, en alianza con comercios",
-   "logos": {
-    "H_blanco": "assets/marcas/masivo/H_blanco.png",
-    "H_color": "assets/marcas/masivo/H_color.png",
-    "H_negro": "assets/marcas/masivo/H_negro.png",
-    "V_negro": "assets/marcas/masivo/V_negro.png",
-    "V_blanco": "assets/marcas/masivo/V_blanco.png",
-    "V_color": "assets/marcas/masivo/V_color.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/masivo/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/masivo/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/masivo/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/masivo/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/masivo/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/masivo/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "los-rosales",
    "nombre": "Los Rosales",
    "anio": "2023",
@@ -12864,69 +12423,6 @@ window.PORTAFOLIO = {
      "local": "assets/trabajos/graphi-art/2023-graphi-art-diseno-de-logo-cerberus-brd-log-ser-pub.pdf",
      "peso": 8,
      "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "gil-joyeria",
-   "nombre": "Gil Joyeria",
-   "anio": "2023",
-   "fecha": "2023-01-01",
-   "sector": "Moda, belleza y cuidado personal",
-   "subsector": "Joyería y relojería",
-   "alianza": "",
-   "descripcion": "Joyeria ubicada en el centro comercial las palmas en la ciudad de cúcuta",
-   "logos": {
-    "H_blanco": "assets/marcas/gil-joyeria/H_blanco.png",
-    "H_color": "assets/marcas/gil-joyeria/H_color.png",
-    "H_negro": "assets/marcas/gil-joyeria/H_negro.png",
-    "V_color": "assets/marcas/gil-joyeria/V_color.png",
-    "V_negro": "assets/marcas/gil-joyeria/V_negro.png",
-    "V_blanco": "assets/marcas/gil-joyeria/V_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/gil-joyeria/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/gil-joyeria/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/gil-joyeria/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/gil-joyeria/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/gil-joyeria/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/gil-joyeria/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      }
-     ]
     }
    ]
   },
@@ -16981,69 +16477,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "uba",
-   "nombre": "UBA",
-   "anio": "2022",
-   "fecha": "2022-01-01",
-   "sector": "Moda, belleza y cuidado personal",
-   "subsector": "Belleza, uñas y spa",
-   "alianza": "",
-   "descripcion": "Submarca de Catatumbo Natural Business enfocada en productos de belleza a base de sacha inchi.",
-   "logos": {
-    "H_negro": "assets/marcas/uba/H_negro.png",
-    "H_blanco": "assets/marcas/uba/H_blanco.png",
-    "H_color": "assets/marcas/uba/H_color.png",
-    "V_blanco": "assets/marcas/uba/V_blanco.png",
-    "V_color": "assets/marcas/uba/V_color.png",
-    "V_negro": "assets/marcas/uba/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/uba/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/uba/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/uba/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/uba/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/uba/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/uba/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "memo-s-pizza",
    "nombre": "Memo´s Pizza",
    "anio": "2022",
@@ -18539,69 +17972,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "josefas",
-   "nombre": "Josefas",
-   "anio": "2021",
-   "fecha": "2021-01-01",
-   "sector": "Alimentos y bebidas",
-   "subsector": "Panadería y repostería",
-   "alianza": "",
-   "descripcion": "Cocina oculta de postres artesanales.",
-   "logos": {
-    "H_negro": "assets/marcas/josefas/H_negro.png",
-    "H_blanco": "assets/marcas/josefas/H_blanco.png",
-    "H_color": "assets/marcas/josefas/H_color.png",
-    "V_blanco": "assets/marcas/josefas/V_blanco.png",
-    "V_color": "assets/marcas/josefas/V_color.png",
-    "V_negro": "assets/marcas/josefas/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/josefas/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/josefas/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/josefas/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/josefas/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/josefas/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/josefas/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "jennyfer-canizares",
    "nombre": "Jennyfer Cañizares",
    "anio": "2021",
@@ -19451,51 +18821,6 @@ window.PORTAFOLIO = {
        "src": "assets/marcas/noe-agropecuaria/V_blanco.png",
        "nombre": "Vertical · Blanco",
        "fondo": "oscuro"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "golden-bee",
-   "nombre": "Golden Bee",
-   "anio": "2020",
-   "fecha": "2020-01-01",
-   "sector": "Alimentos y bebidas",
-   "subsector": "Productos alimenticios",
-   "alianza": "",
-   "descripcion": "Marca cucuteña de miel de abejas y productos derivados.",
-   "logos": {
-    "V_blanco": "assets/marcas/golden-bee/V_blanco.png",
-    "V_color": "assets/marcas/golden-bee/V_color.png",
-    "V_negro": "assets/marcas/golden-bee/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/golden-bee/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/golden-bee/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/golden-bee/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
       }
      ]
     }
@@ -20492,69 +19817,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "perplast",
-   "nombre": "Perplast",
-   "anio": "2019",
-   "fecha": "2019-01-01",
-   "sector": "Industria y manufactura",
-   "subsector": "Plásticos y empaques",
-   "alianza": "",
-   "descripcion": "Venta de plásticos y productos desechables.",
-   "logos": {
-    "H_blanco": "assets/marcas/perplast/H_blanco.png",
-    "H_color": "assets/marcas/perplast/H_color.png",
-    "H_negro": "assets/marcas/perplast/H_negro.png",
-    "V_blanco": "assets/marcas/perplast/V_blanco.png",
-    "V_color": "assets/marcas/perplast/V_color.png",
-    "V_negro": "assets/marcas/perplast/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/perplast/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/perplast/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/perplast/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/perplast/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/perplast/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/perplast/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "osorios-import",
    "nombre": "Osorios Import",
    "anio": "2019",
@@ -20636,69 +19898,6 @@ window.PORTAFOLIO = {
      "local": "assets/trabajos/osorios-import/2019-osorios-import-aviso-fachada-izq-export-brd-sen-aut-rep.jpg",
      "peso": 0,
      "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "osorio-parts",
-   "nombre": "Osorio Parts",
-   "anio": "2019",
-   "fecha": "2019-01-01",
-   "sector": "Automotriz y motos",
-   "subsector": "Repuestos y talleres",
-   "alianza": "",
-   "descripcion": "Venta de repuestos para motos, importados de Venezuela.",
-   "logos": {
-    "H_blanco": "assets/marcas/osorio-parts/H_blanco.png",
-    "H_color": "assets/marcas/osorio-parts/H_color.png",
-    "H_negro": "assets/marcas/osorio-parts/H_negro.png",
-    "V_blanco": "assets/marcas/osorio-parts/V_blanco.png",
-    "V_color": "assets/marcas/osorio-parts/V_color.png",
-    "V_negro": "assets/marcas/osorio-parts/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/osorio-parts/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/osorio-parts/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/osorio-parts/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/osorio-parts/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/osorio-parts/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/osorio-parts/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
     }
    ]
   },
@@ -21111,51 +20310,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "inversiones-nr-osorio-motos",
-   "nombre": "Inversiones NR Osorio Motos",
-   "anio": "2019",
-   "fecha": "2019-01-01",
-   "sector": "Automotriz y motos",
-   "subsector": "Repuestos y talleres",
-   "alianza": "",
-   "descripcion": "Venta de repuestos para motos, importados de Venezuela.",
-   "logos": {
-    "V_color": "assets/marcas/inversiones-nr-osorio-motos/V_color.png",
-    "V_negro": "assets/marcas/inversiones-nr-osorio-motos/V_negro.png",
-    "V_blanco": "assets/marcas/inversiones-nr-osorio-motos/V_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/inversiones-nr-osorio-motos/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/inversiones-nr-osorio-motos/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/inversiones-nr-osorio-motos/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "intermedios-publicidad",
    "nombre": "Intermedios Publicidad",
    "anio": "2019",
@@ -21214,51 +20368,6 @@ window.PORTAFOLIO = {
      "local": "assets/trabajos/intermedios-publicidad/2019-intermedios-publicidad-ubicacion-red-ree-ser-pub.mp4",
      "peso": 4,
      "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "inspeccion-y-vigilancia",
-   "nombre": "Inspección y Vigilancia",
-   "anio": "2019",
-   "fecha": "2019-01-01",
-   "sector": "Servicios profesionales",
-   "subsector": "Seguridad privada",
-   "alianza": "",
-   "descripcion": "Empresa de seguridad privada en Cúcuta.",
-   "logos": {
-    "V_color": "assets/marcas/inspeccion-y-vigilancia/V_color.png",
-    "V_negro": "assets/marcas/inspeccion-y-vigilancia/V_negro.png",
-    "V_blanco": "assets/marcas/inspeccion-y-vigilancia/V_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/inspeccion-y-vigilancia/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/inspeccion-y-vigilancia/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/inspeccion-y-vigilancia/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      }
-     ]
     }
    ]
   },
@@ -21476,69 +20585,6 @@ window.PORTAFOLIO = {
      "local": "assets/trabajos/inmobiliria-aval/2019-inmobiliria-aval-montaje-03-brd-sen-con-inm.jpg",
      "peso": 0,
      "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "hotel-nuevo-acora",
-   "nombre": "Hotel Nuevo Acora",
-   "anio": "2019",
-   "fecha": "2019-01-01",
-   "sector": "Turismo y hotelería",
-   "subsector": "Hoteles",
-   "alianza": "",
-   "descripcion": "Hotel en el centro de Cúcuta.",
-   "logos": {
-    "H_blanco": "assets/marcas/hotel-nuevo-acora/H_blanco.png",
-    "H_color": "assets/marcas/hotel-nuevo-acora/H_color.png",
-    "H_negro": "assets/marcas/hotel-nuevo-acora/H_negro.png",
-    "V_blanco": "assets/marcas/hotel-nuevo-acora/V_blanco.png",
-    "V_color": "assets/marcas/hotel-nuevo-acora/V_color.png",
-    "V_negro": "assets/marcas/hotel-nuevo-acora/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/hotel-nuevo-acora/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/hotel-nuevo-acora/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/hotel-nuevo-acora/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/hotel-nuevo-acora/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/hotel-nuevo-acora/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/hotel-nuevo-acora/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
     }
    ]
   },
@@ -21773,96 +20819,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "gladys-salon-spa",
-   "nombre": "Gladys Salón-Spa",
-   "anio": "2019",
-   "fecha": "2019-01-01",
-   "sector": "Moda, belleza y cuidado personal",
-   "subsector": "Peluquerías y barberías",
-   "alianza": "",
-   "descripcion": "Salón de belleza y estilismo para mujeres en Cúcuta.",
-   "logos": {
-    "V_blanco": "assets/marcas/gladys-salon-spa/V_blanco.png",
-    "V_color": "assets/marcas/gladys-salon-spa/V_color.png",
-    "V_negro": "assets/marcas/gladys-salon-spa/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/gladys-salon-spa/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/gladys-salon-spa/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/gladys-salon-spa/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "gladi",
-   "nombre": "Gladi",
-   "anio": "2019",
-   "fecha": "2019-01-01",
-   "sector": "Moda, belleza y cuidado personal",
-   "subsector": "Bolsos y accesorios",
-   "alianza": "",
-   "descripcion": "Marca cucuteña de accesorios.",
-   "logos": {
-    "V_blanco": "assets/marcas/gladi/V_blanco.png",
-    "V_color": "assets/marcas/gladi/V_color.png",
-    "V_negro": "assets/marcas/gladi/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/gladi/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/gladi/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/gladi/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "fragola-cioccolato",
    "nombre": "Fragola & Cioccolato",
    "anio": "2019",
@@ -21926,96 +20882,6 @@ window.PORTAFOLIO = {
      "local": "assets/trabajos/fragola-cioccolato/2019-fragola-cioccolato-menu-02-edi-men-ali-caf.jpg",
      "peso": 0,
      "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "eliana-prado",
-   "nombre": "Eliana Prado",
-   "anio": "2019",
-   "fecha": "2019-01-01",
-   "sector": "Salud y bienestar",
-   "subsector": "Odontología y estética facial",
-   "alianza": "",
-   "descripcion": "Consultorio odontológico en Cúcuta.",
-   "logos": {
-    "V_blanco": "assets/marcas/eliana-prado/V_blanco.png",
-    "V_color": "assets/marcas/eliana-prado/V_color.png",
-    "V_negro": "assets/marcas/eliana-prado/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/eliana-prado/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/eliana-prado/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/eliana-prado/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "driver-money",
-   "nombre": "Driver Money",
-   "anio": "2019",
-   "fecha": "2019-01-01",
-   "sector": "Tecnología y telecomunicaciones",
-   "subsector": "Software y aplicaciones",
-   "alianza": "",
-   "descripcion": "App estadounidense de movilidad para conductores, al estilo Uber e inDriver.",
-   "logos": {
-    "V_blanco": "assets/marcas/driver-money/V_blanco.png",
-    "V_color": "assets/marcas/driver-money/V_color.png",
-    "V_negro": "assets/marcas/driver-money/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/driver-money/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/driver-money/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/driver-money/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
     }
    ]
   },
@@ -23648,51 +22514,6 @@ window.PORTAFOLIO = {
    ]
   },
   {
-   "id": "angarita-premiaciones",
-   "nombre": "Angarita Premiaciones",
-   "anio": "2017",
-   "fecha": "2017-11-01",
-   "sector": "Comercio y distribución",
-   "subsector": "Trofeos, medallas y premiación",
-   "alianza": "",
-   "descripcion": "Trofeos, copas, medallas y placas personalizadas para premiaciones y reconocimientos.",
-   "logos": {
-    "V_color": "assets/marcas/angarita-premiaciones/V_color.png",
-    "V_negro": "assets/marcas/angarita-premiaciones/V_negro.png",
-    "V_blanco": "assets/marcas/angarita-premiaciones/V_blanco.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/angarita-premiaciones/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/angarita-premiaciones/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/angarita-premiaciones/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "bantrophy",
    "nombre": "Bantrophy",
    "anio": "2017",
@@ -24241,69 +23062,6 @@ window.PORTAFOLIO = {
      "local": "assets/trabajos/los-combos-de-medallo/2025-los-combos-de-medallo-personaje-edi-ilu-ali-res.png",
      "peso": 0,
      "origen": "drive"
-    }
-   ]
-  },
-  {
-   "id": "el-paraiso",
-   "nombre": "El Paraiso",
-   "anio": "0000",
-   "fecha": "0000-01-01",
-   "sector": "Sin clasificar",
-   "subsector": "",
-   "alianza": "",
-   "descripcion": "",
-   "logos": {
-    "H_negro": "assets/marcas/el-paraiso/H_negro.png",
-    "H_blanco": "assets/marcas/el-paraiso/H_blanco.png",
-    "H_color": "assets/marcas/el-paraiso/H_color.png",
-    "V_blanco": "assets/marcas/el-paraiso/V_blanco.png",
-    "V_color": "assets/marcas/el-paraiso/V_color.png",
-    "V_negro": "assets/marcas/el-paraiso/V_negro.png"
-   },
-   "origen": "Drive",
-   "trabajos": [
-    {
-     "titulo": "Diseño de logotipo",
-     "clase": "galeria",
-     "tipo": "Branding e identidad visual",
-     "sub": "Diseño de logotipo",
-     "descripcion": "",
-     "drive": "",
-     "local": "",
-     "origen": "drive",
-     "imagenes": [
-      {
-       "src": "assets/marcas/el-paraiso/H_negro.png",
-       "nombre": "Horizontal · Negro",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/el-paraiso/H_blanco.png",
-       "nombre": "Horizontal · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/el-paraiso/H_color.png",
-       "nombre": "Horizontal · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/el-paraiso/V_blanco.png",
-       "nombre": "Vertical · Blanco",
-       "fondo": "oscuro"
-      },
-      {
-       "src": "assets/marcas/el-paraiso/V_color.png",
-       "nombre": "Vertical · Color",
-       "fondo": "claro"
-      },
-      {
-       "src": "assets/marcas/el-paraiso/V_negro.png",
-       "nombre": "Vertical · Negro",
-       "fondo": "claro"
-      }
-     ]
     }
    ]
   }
