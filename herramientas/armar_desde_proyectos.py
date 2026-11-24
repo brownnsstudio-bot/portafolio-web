@@ -628,14 +628,8 @@ def main():
     panel = PANEL                    # panel del Drive CLIENTES.txt: {slug: {nombre, anio, codigo, desc}}
     marcas = []
     for sid, d in sorted(drive.items()):
-        # Ocultar clientes SIN contenido: los que solo tienen el logo (galería de logotipo
-        # auto-armada) y ningún trabajo real (video, pieza, foto, menú, manual, etc.).
-        reales = [t for t in d["trabajos"]
-                  if not (t.get("clase") == "galeria"
-                          and t.get("tipo") == "Branding e identidad visual"
-                          and t.get("sub") == "Diseño de logotipo")]
-        if not reales:
-            print("  sin contenido (solo logo):", d["nombre"], "- no se muestra")
+        if not d["trabajos"]:
+            print("  en Drive solo hay logos de", d["nombre"], "(sin trabajos: no se muestra)")
             continue
         pinfo = panel.get(sid, {})
         pcode, pdesc = pinfo.get("codigo"), pinfo.get("desc", "")
