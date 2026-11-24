@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prueba · Drive como host</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:#0f0f12; color:#f3f3f5; line-height:1.5; }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 24px 16px 60px; }
+  h1 { font-size: 1.4rem; margin:.2em 0; }
+  p.sub { color:#a9a9b3; margin-top:0; }
+  .card { background:#17171c; border:1px solid #2a2a33; border-radius:14px; padding:16px; margin:22px 0; }
+  .card h2 { font-size:1.05rem; margin:.1em 0 .6em; }
+  .tag { font-size:.75rem; color:#9fe0b0; background:#12241a; border:1px solid #1f3a2a; padding:2px 8px; border-radius:999px; }
+  img.foto { width:100%; height:auto; border-radius:10px; display:block; background:#000; }
+  .videobox { position:relative; width:100%; max-width:380px; margin:0 auto; aspect-ratio:9/16; border-radius:10px; overflow:hidden; background:#000; }
+  .videobox iframe { position:absolute; inset:0; width:100%; height:100%; border:0; }
+  small { color:#80808c; word-break:break-all; }
+  .nota { font-size:.9rem; color:#c9c9d2; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Prueba · Drive como host <span class="tag">servido desde tu Drive</span></h1>
+  <p class="sub">Esta página NO usa el repo: la imagen y el video se cargan directo desde tu Google Drive. Así se vería el sitio sin los multimedia adentro.</p>
+
+  <div class="card">
+    <h2>🖼️ Imagen (CDN de Google)</h2>
+    <p class="nota">Feed de Bambú — se carga por <code>lh3.googleusercontent.com</code>.</p>
+    <img class="foto" alt="prueba imagen Drive"
+         src="https://lh3.googleusercontent.com/d/1oQ2Jlzqguc7O0M1B42O2HgDEAcCFehbU=w1200"
+         loading="lazy">
+    <small>https://lh3.googleusercontent.com/d/1oQ2Jlzqguc7O0M1B42O2HgDEAcCFehbU=w1200</small>
+  </div>
+
+  <div class="card">
+    <h2>🎬 Video / Reel (reproductor de Drive)</h2>
+    <p class="nota">Amino ICE – Reel (1) — incrustado con el <code>preview</code> de Drive. Dale play.</p>
+    <div class="videobox">
+      <iframe src="https://drive.google.com/file/d/1tgnO9ipJxfMkT-4bXqiuFnwFxjeGZVQn/preview"
+              allow="autoplay" allowfullscreen></iframe>
+    </div>
+    <small>https://drive.google.com/file/d/1tgnO9ipJxfMkT-4bXqiuFnwFxjeGZVQn/preview</small>
+  </div>
+
+  <div class="card">
+    <h2>✅ Qué revisar</h2>
+    <p class="nota">1) ¿La imagen se ve nítida y carga rápido?<br>
+    2) ¿El video reproduce bien al darle play?<br>
+    3) ¿Te gusta cómo se ve el reproductor de Drive (tiene su barra/logo de Google)?</p>
+  </div>
+</div>
+</body>
+</html>
